@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>Die Halsbandaffäre</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250731T002007Z" creationid="gabrielt" creationdate="20250731T002007Z">
+        <seg>El _affaire_ de la gargantilla</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

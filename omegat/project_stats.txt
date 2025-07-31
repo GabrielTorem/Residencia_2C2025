@@ -1,0 +1,14 @@
+7/30/25, 9:20 PM
+Project Statistics
+
+                 	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
+Total:           	     414	 9764	                  56739	                 66155	     1	
+Remaining:       	     413	 9762	                  56722	                 66137	     1	
+Unique:          	     414	 9764	                  56739	                 66155	     1	
+Unique Remaining:	     413	 9762	                  56722	                 66137	     1	
+
+
+Individual File Statistics:
+
+File Name         	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+Halsbandaffäre.txt	           414	               413	            414	                      413	       9764	           9762	        9764	                  9762	                        56739	                            56722	                         56739	                                   56722	                       66155	                           66137	                        66155	                                  66137	
