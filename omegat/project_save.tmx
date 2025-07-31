@@ -6,10 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>Clinical Summary</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="borrar" changedate="20250731T020242Z" creationid="borrar" creationdate="20250731T020242Z">
+        <seg>Resumen clínico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Die Halsbandaffäre</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250731T002007Z" creationid="gabrielt" creationdate="20250731T002007Z">
         <seg>El _affaire_ de la gargantilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TITLE PAGE</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="borrar" changedate="20250731T020236Z" creationid="borrar" creationdate="20250731T020236Z">
+        <seg>Título</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
