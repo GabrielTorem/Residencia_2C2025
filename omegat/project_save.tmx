@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18,6 +18,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250731T002007Z" creationid="gabrielt" creationdate="20250731T002007Z">
         <seg>El _affaire_ de la gargantilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Monster Culture (Seven Theses)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250812T214531Z" creationid="solca" creationdate="20250812T214531Z">
+        <seg>Cultura </seg>
       </tuv>
     </tu>
     <tu>
