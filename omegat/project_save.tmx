@@ -44,6 +44,22 @@
         <seg>jfjfjdjsdfoe</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thesis II: The Monster Always Escapes</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tomas" changedate="20250815T003550Z" creationid="tomas" creationdate="20250815T003550Z">
+        <seg>Tesis II: El monstruo siempre escapa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We see the damage that the monster wreaks, the material remains (the footprints of the yeti across Tibetan snow, the bones of the giant stranded on a rocky cliff), but the monster itself turns immaterial and vanishes, to reappear someplace else (for who is the yeti if not the medieval wild man?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tomas" changedate="20250815T003822Z" creationid="tomas" creationdate="20250815T003822Z">
+        <seg>Vemos el daño que el monstruo causa, los restos materiales (las huellas del Yeti sobre la nieve tibetana o los huesos del gigante varado en un acantilado rocoso), pero el monstruo en sí mismo se vuelve inmaterial y se desvanece para reaparecer en algún otro lugar (porque, ¿quién es el Yeti si no es el hombre salvaje medieval? ¿Quién es el hombre salvaje si no es el gigante clásico y bíblico?).</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
