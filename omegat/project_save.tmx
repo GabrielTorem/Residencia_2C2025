@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>And so the monster’s body is both corporal and incorporeal; its threat is its propensity to shift.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250815T004541Z" creationid="Marina" creationdate="20250815T004541Z">
+        <seg>Así, el cuerpo del monstruo es tanto corpóreo como incorpóreo; la amenaza radica en su propensión a transformarse. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clinical Summary</seg>
       </tuv>
       <tuv lang="es-ES" changeid="borrar" changedate="20250731T020242Z" creationid="borrar" creationdate="20250731T020242Z">
@@ -30,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No monster tastes of death but once.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250815T004412Z" creationid="Marina" creationdate="20250815T004412Z">
+        <seg>Ningún monstruo saborea la muerte más de una vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Seldom, however, are monsters as uncomplicated in their use and manufacture as the demons that haunt Sir Bors.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250812T215539Z" creationid="Lenovo" creationdate="20250812T215539Z">
@@ -42,6 +58,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="borrar" changedate="20250731T020236Z" creationid="borrar" creationdate="20250731T020236Z">
         <seg>Título</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The anxiety that condenses like green vapor into the form of the vampire can be dispersed temporarily, but the revenant by definition returns.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250815T004455Z" creationid="Marina" creationdate="20250815T004455Z">
+        <seg>La ansiedad que se condensa como vapor verde y que toma forma de vampiro puede dispersarse temporalmente, pero el resucitado, por definición, regresa.</seg>
       </tuv>
     </tu>
     <tu>
