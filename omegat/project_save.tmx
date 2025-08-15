@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>1</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250815T012339Z" creationid="Marina" creationdate="20250815T012339Z">
+        <seg>1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>And so the monster’s body is both corporal and incorporeal; its threat is its propensity to shift.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250815T004541Z" creationid="Marina" creationdate="20250815T004541Z">
@@ -80,8 +88,8 @@
       <tuv lang="en-US">
         <seg>In contrast to the still and perfect universe of the miniature, the gigantic represents the order and disorder of historical forces.” Susan Stewart, &lt;f0&gt;On Longing: Narratives of the Miniature, the Gigantic, the Souvenir, the Collection&lt;/f0&gt; (Baltimore: Johns Hopkins University Press, 1984), 86.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250815T012325Z" creationid="Marina" creationdate="20250815T012325Z">
-        <seg>En contraste con el universo inmóvil y perfecto de lo diminuto, lo gigantesco representa el orden y el desorden de las fuerzas históricas." Susan Stewart, &lt;f0&gt;El ansia: Narrativas de la miniatura, lo gigantesco, el souvenir y la colección &lt;/f0&gt; (Baltimore: Johns Hopkins University Press, 1984), 86. </seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250815T012434Z" creationid="Marina" creationdate="20250815T012325Z">
+        <seg>En contraste con el universo inmóvil y perfecto de lo diminuto, lo gigantesco representa el orden y el desorden de las fuerzas históricas." Susan Stewart, &lt;f0&gt;El ansia: Narrativas de la miniatura, lo gigantesco, el souvenir y la colección&lt;/f0&gt; (Baltimore: Johns Hopkins University Press, 1984), 86. </seg>
       </tuv>
     </tu>
     <tu>
@@ -126,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250815T012332Z" creationid="Marina" creationdate="20250815T012332Z">
+        <seg>Notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Seldom, however, are monsters as uncomplicated in their use and manufacture as the demons that haunt Sir Bors.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250812T215539Z" creationid="Lenovo" creationdate="20250812T215539Z">
@@ -160,7 +176,7 @@
       <tuv lang="en-US">
         <seg>Thesis II: The Monster Always Escapes</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tomas" changedate="20250815T003550Z" creationid="tomas" creationdate="20250815T003550Z">
+      <tuv lang="es-ES" changeid="Marina" changedate="20250815T012410Z" creationid="tomas" creationdate="20250815T003550Z">
         <seg>Tesis II: El monstruo siempre escapa</seg>
       </tuv>
     </tu>
