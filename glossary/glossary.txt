@@ -2,11 +2,10 @@
 wreak	causar	B:Gentile, C:https://dictionary.cambridge.org/es/diccionario/ingles-espanol/wreak	;	2/3
 stranded	atrapado	B:Gentile, C:https://dictionary.cambridge.org/es/diccionario/ingles-espanol/stranded	;	2/3
 bequeath	legar	B:Gentile, C:https://dictionary.cambridge.org/es/diccionario/ingles-espanol/bequeath	;	2/3
-beleague	atibulado	B:Gentile, C:https://dictionary.cambridge.org/es/diccionario/ingles-espanol/beleaguered	;	2/3
+beleague	asedio	B:Gentile, C:https://dictionary.cambridge.org/es/diccionario/ingles-espanol/beleaguered	;	2/3
 progeny	descendencia	B:Gentile, C:https://dictionary.cambridge.org/es/diccionario/ingles-espanol/progeny	;	3/3
 revenant	resucitado	B:Gentile, C:https://www.proz.com/kudoz/english-to-spanish/other/179911-revenant.html	;	2/3
 slumberer	sonámbulo	B:Gentile, C:https://dictionary.cambridge.org/es/diccionario/ingles-espanol/slumber	;	1/3
-stride	zancada	B:Gentile, C:https://dictionary.cambridge.org/es/diccionario/ingles-espanol/stride	;	1/3
 count	conde	B:Gentile, C:https://dictionary.cambridge.org/es/diccionario/ingles-espanol/count	;	3/3
 undercurrent	trasfondo	B:Gentile, C:https://dictionary.cambridge.org/es/diccionario/ingles-espanol/undercurrent 	;	1/3
 conjoin	unir	B:Gentile, C:https://www.wordreference.com/es/translation.asp?tranword=conjoined		
