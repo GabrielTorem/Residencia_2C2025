@@ -1,3 +1,19 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
-Sir Bors	Sir Bors	Lo vamos a dejar igual
-monster	monstruo	Esta entrada es simbólica para activar el glosario
+wreak	causar	B:Gentile, C:
+stranded	atrapado	B:Gentile, C:
+bequeath	legar	B:Gentile, C:
+beleague	atibulado	B:Gentile, C:
+progeny	descendencia	B:Gentile, C:
+revenant	resucitado	B:Gentile, C:
+slumberer	sonámbulo	B:Gentile, C:
+stride	zancada	B:Gentile, C:
+count	conde	B:Gentile, C:
+undercurrent	trasfondo	B:Gentile, C:
+conjoin	unir	B:Gentile, C:
+apotheosize	apoteosis	B:Gentile, C:
+blockbuster	éxito de taquilla	B:Gentile, C:
+lamia	lamia	B:Gentile, C:
+corpuscles	glóbulo, corpúsculo	B:Gentile, C:
+leimotif	leitmotiv	B:Gentile, C:
+signifier	significante	B:Gentile, C:
+stopping	detención	B:Gentile, C:
