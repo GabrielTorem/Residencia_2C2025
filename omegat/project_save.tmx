@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No matter how many times King Arthur killed the ogre of Mount Saint Michael, the monster reappeared in another heroic chronicle, bequeathing the Middle Ages an abundance of &lt;f0&gt;morte d’Arthurs.&lt;/f0&gt; Regardless of how many times Sigourney Weaver’s beleaguered Ripley utterly destroys the Monster Culture (Seven Theses) 5 ambiguous Alien that stalks her, its monstrous progeny return, ready to stalk again in another bigger-than-ever sequel.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tomas" changedate="20250815T004217Z" creationid="tomas" creationdate="20250815T004217Z">
+        <seg>No importa cuántas veces el Rey Arturo matara al ogro del Monte Saint-Michel, el monstruo reaparecía en otra crónica heroica, lo que legó a la Edad Media una abundancia de &lt;f0&gt;morte d’Arthurs&lt;/f0&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Seldom, however, are monsters as uncomplicated in their use and manufacture as the demons that haunt Sir Bors.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250812T215539Z" creationid="Lenovo" creationdate="20250812T215539Z">
@@ -56,8 +64,16 @@
       <tuv lang="en-US">
         <seg>We see the damage that the monster wreaks, the material remains (the footprints of the yeti across Tibetan snow, the bones of the giant stranded on a rocky cliff), but the monster itself turns immaterial and vanishes, to reappear someplace else (for who is the yeti if not the medieval wild man?</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tomas" changedate="20250815T003822Z" creationid="tomas" creationdate="20250815T003822Z">
-        <seg>Vemos el daño que el monstruo causa, los restos materiales (las huellas del Yeti sobre la nieve tibetana o los huesos del gigante varado en un acantilado rocoso), pero el monstruo en sí mismo se vuelve inmaterial y se desvanece para reaparecer en algún otro lugar (porque, ¿quién es el Yeti si no es el hombre salvaje medieval? ¿Quién es el hombre salvaje si no es el gigante clásico y bíblico?).</seg>
+      <tuv lang="es-ES" changeid="tomas" changedate="20250815T003913Z" creationid="tomas" creationdate="20250815T003822Z">
+        <seg>Vemos el daño que el monstruo causa, los restos materiales (las huellas del Yeti sobre la nieve tibetana o los huesos del gigante varado en un acantilado rocoso), pero el monstruo en sí mismo se vuelve inmaterial y se desvanece para reaparecer en algún otro lugar (porque, ¿quién es el Yeti si no es el hombre salvaje medieval? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Who is the wild man if not the biblical and classical giant?).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tomas" changedate="20250815T003917Z" creationid="tomas" creationdate="20250815T003917Z">
+        <seg>¿Quién es el hombre salvaje si no es el gigante clásico y bíblico?).</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
