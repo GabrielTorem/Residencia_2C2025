@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -69,6 +69,8 @@
       </tuv>
     </tu>
     <tu>
+      <note>Estás quitando una marca de subjetividad.
+Estás quitando un enfatizador / o matizador</note>
       <tuv lang="en-US">
         <seg>I realize that this is an interpretive biographical maneuver Barthes would surely have called “the living death of the author.”</seg>
       </tuv>
@@ -173,6 +175,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>El título lo reveremos al  final</note>
       <tuv lang="en-US">
         <seg>Thesis II: The Monster Always Escapes</seg>
       </tuv>
@@ -181,6 +184,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>Hay un elemento cohesivo que quitás</note>
       <tuv lang="en-US">
         <seg>Thus the superiority of Joan Copjec’s “Vampires, Breast-feeding, and Anxiety,” October 58 (Fall 1991): 25-43, to Paul Barber’s &lt;f0&gt;Vampires, Burial, and Death: Folklore and Reality&lt;/f0&gt; (New Haven, Conn.: Yale University Press, 1988).</seg>
       </tuv>
