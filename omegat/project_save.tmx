@@ -24,6 +24,9 @@ A veces "is" es "es".</note>
       </tuv>
     </tu>
     <tu>
+      <note>La entra de apotheosize está mal: traducís un verbo por un sustantivo. Es discutible si es término.
+Conjoin no es término.
+Pensar "escrutinio"</note>
       <tuv lang="en-US">
         <seg>Anne Rice has given the myth a modern rewriting in which homosexuality and vampirism have been conjoined, apotheosized; that she has created a pop culture phenomenon in the process is not insignificant, especially at a time when gender as a construct has been scrutinized at almost every social register.</seg>
       </tuv>
@@ -102,7 +105,11 @@ Estás quitando un enfatizador / o matizador</note>
       </tuv>
     </tu>
     <tu>
-      <note>pensar el "but" en "but compelling". En la primera oración los referentes están confusos.</note>
+      <note>pensar el "but" en "but compelling". En la primera oración los referentes están confusos.
+
+count y undercurrent no son términos.
+
+pensar "self-loading".</note>
       <tuv lang="en-US">
         <seg>In speaking of the new kind of vampire invented by Bram Stoker, we might explore the foreign count’s transgressive but compelling sexuality, as subtly alluring to Jonathan Harker as Henry Irving, Stoker’s mentor, was to Stoker.&lt;t1/&gt; Or we might analyze Murnau’s self-loathing appropriation of the same demon in &lt;f2&gt;Nosferatu,&lt;/f2&gt; where in the face of nascent fascism the undercurrent of desire surfaces in plague and bodily corruption.</seg>
       </tuv>
