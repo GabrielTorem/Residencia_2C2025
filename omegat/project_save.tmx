@@ -120,6 +120,14 @@ Estás quitando un enfatizador / o matizador</note>
       </tuv>
     </tu>
     <tu>
+      <note>Ninguna de estas entradas son para glosario.
+Si lo son King Arthur, ogre, heroic chronicle. morte d'Arthur, Monster Culture, Alien.
+No matter... No siempre es "No importa...", "Sin importar..."
+¿Mayúscula en Alien?
+Sin precedentes es mejorable.
+En la primera oración hay  discordancias temporales
+¿Stalk es perseguir?
+posesivo ante "descendencia".</note>
       <tuv lang="en-US">
         <seg>No matter how many times King Arthur killed the ogre of Mount Saint Michael, the monster reappeared in another heroic chronicle, bequeathing the Middle Ages an abundance of &lt;f0&gt;morte d’Arthurs.&lt;/f0&gt; Regardless of how many times Sigourney Weaver’s beleaguered Ripley utterly destroys the Monster Culture (Seven Theses) 5 ambiguous Alien that stalks her, its monstrous progeny return, ready to stalk again in another bigger-than-ever sequel.</seg>
       </tuv>
@@ -208,6 +216,7 @@ Ayúdenme a pensar si "Yeti" va con mayúscula.
       </tuv>
     </tu>
     <tu>
+      <note>No entiendo por qué modificás el orden de los adjetivos.</note>
       <tuv lang="en-US">
         <seg>Who is the wild man if not the biblical and classical giant?).</seg>
       </tuv>
