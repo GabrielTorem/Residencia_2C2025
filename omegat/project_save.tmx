@@ -177,6 +177,14 @@ pensar "self-loading".</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Monster Culture (Seven Theses)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250818T225020Z" creationid="solca" creationdate="20250818T225020Z">
+        <seg>La cultura del mostruo (siete tesis)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Foco. No usar siempre pasiva con "se"</note>
       <tuv lang="en-US">
         <seg>Monsters must be examined within the intricate matrix of relations (social, cul- tural, and literary-historical) that generate them.</seg>
