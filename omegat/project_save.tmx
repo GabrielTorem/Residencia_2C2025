@@ -59,6 +59,14 @@ passing</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>And so I would like to make some grand gestures.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250818T231923Z" creationid="solca" creationdate="20250818T231923Z">
+        <seg>Y, por eso, me gustaría hacer gestos audaces.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>No abusar de tanto... como.
 
 A veces "is" es "es".</note>
@@ -257,6 +265,14 @@ posesivo ante "descendencia".</note>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250815T004412Z" creationid="Marina" creationdate="20250815T004412Z">
         <seg>Ningún monstruo saborea la muerte más de una vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nonetheless, his methodology—his archaeology of ideas, his histories of unthought—remains with good reason the chosen route of inquiry for most cultural critics today, whether they work in postmodern cyberculture or in the Middle Ages.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250818T231754Z" creationid="solca" creationdate="20250818T231754Z">
+        <seg>No obstante, su metodología (su arqueología de las ideas, sus historias de lo impensado) permanece, con buenas razones, como la ruta de indagación preferida por la mayoría de los críticos culturales hoy en día, ya sea que trabajen en la cibercultura posmoderna o en la Edad Media.</seg>
       </tuv>
     </tu>
     <tu>
