@@ -141,6 +141,14 @@ La pasiva con "se" no lleva c. agente</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>I offer seven theses toward understanding cultures through the monsters they bear.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250818T232403Z" creationid="solca" creationdate="20250818T232403Z">
+        <seg>Propongo siete tesis para comprender las culturas a través de los monstruos que engendran.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Estás quitando una marca de subjetividad.
 Estás quitando un enfatizador / o matizador</note>
       <tuv lang="en-US">
@@ -356,6 +364,14 @@ posesivo ante "descendencia".</note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250818T213502Z" creationid="Lenovo" creationdate="20250818T213502Z">
         <seg>El monstruo siempre escapa ya que se niega a ser facilmente categorizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thesis I: The Monster’s Body Is a Cultural Body</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250818T232610Z" creationid="solca" creationdate="20250818T232610Z">
+        <seg>Tesis I: El cuerpo del mostruo es un cuerpo cultural</seg>
       </tuv>
     </tu>
     <tu>
