@@ -62,8 +62,8 @@ passing</note>
       <tuv lang="en-US">
         <seg>And so I would like to make some grand gestures.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20250818T231923Z" creationid="solca" creationdate="20250818T231923Z">
-        <seg>Y, por eso, me gustaría hacer gestos audaces.</seg>
+      <tuv lang="es-ES" changeid="solca" changedate="20250818T231945Z" creationid="solca" creationdate="20250818T231923Z">
+        <seg>Y, por eso, me gustaría hacer algunos gestos audace.</seg>
       </tuv>
     </tu>
     <tu>
@@ -301,10 +301,28 @@ posesivo ante "descendencia".</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rather than argue a “theory of Jeffrey Jerome Cohen teratology,’ I offer by way of introduction to the essays that follow a set of breakable postulates in search of specific cultural moments.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250818T232325Z" creationid="solca" creationdate="20250818T232325Z">
+        <seg> En lugar de argumentar una "teoría de la teratología", ofrezco, como introducción a los ensayos que siguen, un conjunto de postulados frágiles en busca de momentos culturales específicos. 
+
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Seldom, however, are monsters as uncomplicated in their use and manufacture as the demons that haunt Sir Bors.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250812T215539Z" creationid="Lenovo" creationdate="20250812T215539Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some fragments will be collected here and bound temporarily together to form a loosely integrated net—or, better, an unassimilated hybrid, a monstrous body.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250818T232124Z" creationid="solca" creationdate="20250818T232124Z">
+        <seg>Algunos fragmentos serán recopilados aquí y unidos temporalmente para formar una red vagamente integrada o, mejor aún, un híbrido no asimilado, un cuerpo monstruoso. </seg>
       </tuv>
     </tu>
     <tu>
@@ -364,6 +382,14 @@ posesivo ante "descendencia".</note>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250815T011935Z" creationid="Marina" creationdate="20250815T011935Z">
         <seg>Se observa la superioridad de “Vampires, Breast-feeding, and Anxiety”, de Joan Copjec, Octubre 58 (otoño de 1991): 25-43, frente a &lt;f0&gt;Vampires, Burial, and Death: Folklore and Reality&lt;/f0&gt; de Paul Barber (New Haven, Conn.: Yale University Press, 1988).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We live in an age that has rightly given up on Unified Theory, an age when we realize that history (ike “individuality,” “subjectivity,” “gender,” and “culture”) is composed of a multitude of fragments, rather than of smooth epistemological wholes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250818T232118Z" creationid="solca" creationdate="20250818T231934Z">
+        <seg>Vivimos en una época que ha abandonado, con razón, a la Teoría Unificada, una época en la que reconocemos que la historia (al igual que la “individualidad”, la “subjetividad”, el “género” y la “cultura”) está compuesta por una multitud de fragmentos, y no por totalidades epistemológicas homogéneas.</seg>
       </tuv>
     </tu>
     <tu>
