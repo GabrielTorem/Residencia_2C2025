@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10,6 +10,30 @@
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250815T012339Z" creationid="Marina" creationdate="20250815T012339Z">
         <seg>1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/f0&gt; Regardless of how many times Sigourney Weaver’s beleaguered Ripley utterly destroys the Monster Culture (Seven Theses) 5 ambiguous Alien that stalks her, its monstrous progeny return, ready to stalk again in another bigger-than-ever sequel.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T012351Z" creationid="gabrielt" creationdate="20250818T012351Z">
+        <seg>Sin importar cuántas veces la asediada teniente Ripley, el personaje de Sigourney Weaver, aniquile por completo al Alien ambiguo que la persigue, la descendencia monstruosa regresa al acecho nuevamente en una secuela sin precedentes. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;/f5&gt; In each of these vampire stories, the undead returns in slightly different clothing, each time to be read against contemporary social movements or a specific, determining event: &lt;f6&gt;la décadence&lt;/f6&gt; and its new possibilities, homophobia and its hateful imperatives, the acceptance of new subjectivities unfixed by binary gender, a fin de siécle social activism paternalistic in its embrace.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T012228Z" creationid="gabrielt" creationdate="20250818T012228Z">
+        <seg>&lt;/f5&gt; En cada una de estas historias de vampiros, los no muertos regresan con atuendos ligeramente distintos, y en cada instancia se leen a la luz de los movimientos sociales contemporáneos o de un evento específico y determinante: &lt;f6&gt;la décadence&lt;/f6&gt; y sus nuevas posibilidades, la homofobia y sus imperativos de odio, la aceptación de las nuevas subjetividades no fijadas por el género binario, un activismo social de fin de siécle de estilo paternalista. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t1/&gt; Or we might analyze Murnau’s self-loathing appropriation of the same demon in &lt;f2&gt;Nosferatu,&lt;/f2&gt; where in the face of nascent fascism the undercurrent of desire surfaces in plague and bodily corruption.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T012436Z" creationid="gabrielt" creationdate="20250818T012436Z">
+        <seg>&lt;t1/&gt; Se podría analizar también la apropiación autodestructiva de Murmau del mismo demonio en &lt;f2&gt;Nosferatu,&lt;/f2&gt; en donde, ante el fascismo naciente, emerge el trasfondo del deseo en forma de plaga y corrupción del cuerpo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -109,6 +133,14 @@ disease of vampirism no es lo mismo que enfermedad vampiresca.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>In speaking of the new kind of vampire invented by Bram Stoker, we might explore the foreign count’s transgressive but compelling sexuality, as subtly alluring to Jonathan Harker as Henry Irving, Stoker’s mentor, was to Stoker.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T012405Z" creationid="gabrielt" creationdate="20250818T012405Z">
+        <seg>Al hablar del nuevo tipo de vampiro creado por Bram Stoker, se podría explorar la sexualidad transgresora e irresistible del conde extranjero, cuya seducción sutil atraía a Jonathan Harker, tal como Henry Irving, el mentor de Stoker, lo cautivaba.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>pensar el "but" en "but compelling". En la primera oración los referentes están confusos.
 
 count y undercurrent no son términos.
@@ -131,12 +163,28 @@ pensar "self-loading".</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>No coincidence, then, that Coppola was putting together a documentary on AIDS at the same time he was working on &lt;f5&gt;Dracula.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T012308Z" creationid="gabrielt" creationdate="20250818T012308Z">
+        <seg>No es mera coincidencia que Coppola estuviera creando un documental sobre el SIDA al mismo tiempo en el que se encontraba trabajando en la película &lt;f5&gt;Drácula.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>event es false friend.</note>
       <tuv lang="en-US">
         <seg>No coincidence, then, that Coppola was putting together a documentary on AIDS at the same time he was working on &lt;f5&gt;Dracula.&lt;/f5&gt; In each of these vampire stories, the undead returns in slightly different clothing, each time to be read against contemporary social movements or a specific, determining event: &lt;f6&gt;la décadence&lt;/f6&gt; and its new possibilities, homophobia and its hateful imperatives, the acceptance of new subjectivities unfixed by binary gender, a fin de siécle social activism paternalistic in its embrace.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250815T010003Z" creationid="Marina" creationdate="20250815T010003Z">
         <seg>No es mera coincidencia que Coppola estuviera creando un documental sobre el SIDA al mismo tiempo en el que se encontraba trabajando en la película &lt;f5&gt;Drácula.&lt;/f5&gt; En cada una de estas historias de vampiros, los no muertos regresan con atuendos ligeramente distintos, y en cada instancia se leen a la luz de los movimientos sociales contemporáneos o de un evento específico y determinante: &lt;f6&gt;la décadence&lt;/f6&gt; y sus nuevas posibilidades, la homofobia y sus imperativos de odio, la aceptación de las nuevas subjetividades no fijadas por el género binario, un activismo social de fin de siécle de estilo paternalista. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No matter how many times King Arthur killed the ogre of Mount Saint Michael, the monster reappeared in another heroic chronicle, bequeathing the Middle Ages an abundance of &lt;f0&gt;morte d’Arthurs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T012324Z" creationid="gabrielt" creationdate="20250818T012324Z">
+        <seg>No importa cuántas veces el Rey Arturo matara al ogro del Monte Saint-Michel, el monstruo reaparecía en otra crónica heroica, lo que legó a la Edad Media una abundancia de &lt;f0&gt;morte d’Arthurs&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
