@@ -341,6 +341,14 @@ Ayúdenme a pensar si "Yeti" va con mayúscula.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>What I will propose here by way of a first foray, as entrance into this book of monstrous content, is a sketch of a new &lt;f0&gt;modus legendi:&lt;/f0&gt; a method of reading cultures from the monsters they engender.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250818T225451Z" creationid="solca" creationdate="20250818T225451Z">
+        <seg>Lo que popondré aquí, a modo de primera incursión, como puerta de entrada a este libro de contenido mostruoso, es un boceto de de un nuevo  &lt;f0&gt;modus legendi:&lt;/f0&gt; un método para leer las culturas según los monstruos que engendran. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>No entiendo por qué modificás el orden de los adjetivos.</note>
       <tuv lang="en-US">
         <seg>Who is the wild man if not the biblical and classical giant?).</seg>
