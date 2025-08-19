@@ -109,6 +109,14 @@ Hay un diacrítico mal usado.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>And so the monster is dangerous, a form suspended between forms that threatens to smash distinctions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T172903Z" creationid="Lenovo" creationdate="20250819T172903Z">
+        <seg>De este modo, el monstruo resulta peligroso, una forma suspendida entre formas que amenaza con hacer trizas las distinciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>No abusar de tanto... como.
 
 A veces "is" es "es".</note>
@@ -136,6 +144,14 @@ Pensar "escrutinio"</note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T172422Z" creationid="Lenovo" creationdate="20250819T172422Z">
         <seg>Barbara Johnson, «Introducción», en Jacques Derrida, &lt;f0&gt;Dissemination,&lt;/f0&gt; trad. Barbara Johnson (Chicago: University of Chicago Press, 1981), xiii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Because of its ontological liminality, the monster notoriously appears at times of crisis as a kind of third term that problematizes the clash of extremes—as “that which questions binary thinking and introduces a crisis.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T173101Z" creationid="Lenovo" creationdate="20250819T173101Z">
+        <seg>Debido a esta liminalidad ontológica, el monstruo aparece con más notoriedad en tiempos de crisis, como una especie de tercer elemento que problematiza el choque entre extremos; surge como "aquello que cuestiona el pensamiento binario e introduce una crisis.</seg>
       </tuv>
     </tu>
     <tu>
