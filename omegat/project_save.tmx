@@ -70,6 +70,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t4/&gt; In the face of the monster, scientific inquiry and its ordered rationality crumble.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T191701Z" creationid="Lenovo" creationdate="20250819T191701Z">
+        <seg>Ante la cara de un monstruo, la investigación científica y su ordenada racionalidad se derrumban.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Stopping no es término
 Problema de traducción:
 strings of cultural moments
@@ -625,6 +633,14 @@ Graciosamente, el nombre del autor viene del encabezado y se coló en esta oraci
       </tuv>
       <tuv lang="es-ES" changeid="solca" changedate="20250818T234726Z" creationid="solca" creationdate="20250818T234726Z">
         <seg>El cuerpo monstruoso es pura cultura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The monstrous is a genus too large to be encapsulated in any conceptual system; the monster’s very existence is a rebuke to boundary and enclosure; like the giants of &lt;f5&gt;Mandeville’s Travels,&lt;/f5&gt; it threatens to devour “all raw &amp; quyk” any thinker who insists otherwise.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T191915Z" creationid="Lenovo" creationdate="20250819T191915Z">
+        <seg>El género de lo monstruoso es demasiado extensivo como para ser encapsulado en cualquier sistema conceptual; la existencia misma del monstruo es un reproche a la demarcación y al cerramiento; al igual que los gigantes en &lt;f5&gt;Los viajes de Mandeville,&lt;/f5&gt; la existencia del monstruo amenaza con devorar “por completo, crudo y vivo” a cualquier pensador que insista en lo contrario. </seg>
       </tuv>
     </tu>
     <tu>
