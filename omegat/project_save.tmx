@@ -94,6 +94,14 @@ hyerophant a glosario.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>A mixed category, the monster resists any classification built on hierarchy or a merely binary opposition, demanding instead a “system” allowing polyphony, mixed response (difference in sameness, repulsion in attraction), and resistance to integration—allowing what Hogle has called with a wonderful pun “a deeper play of differences, a nonbinary polymorphism at the ‘base’ of human nature.”&lt;t3/&gt; The horizon where the monsters dwell might well be imagined as the visible edge of the hermeneutic circle itself: the monstrous offers an escape from its hermetic path, an invitation to explore new spirals, new and interconnected methods of perceiving the world.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T191611Z" creationid="Lenovo" creationdate="20250819T191611Z">
+        <seg>Al ser una categoría diversa, el monstruo resiste cualquier clasificación fundada en jerarquías o en la mera oposición binaria y demanda, en cambio, un "sistema" que permita la polifonía, las respuestas contradictorias (diferencia en el parecido, repulsión en la atracción) y la resistencia a la integración, permitiendo lo que Hogle ha denominado con un juego de palabras genial, “un juego más profundo de diferencias más, un polimorfismo no binario en la 'base' de la naturaleza humana.”&lt;t3/&gt; El horizonte que habitan los monstruos bien podría ser imaginado como el borde visible del mismísimo circulo hermenéutico: los monstruos ofrecen una escapatoria al camino hermético, una invitación a explorar nuevos espirales, métodos nuevos e interconectados de percibir el mundo.   </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Nota técnica: no podemos insertar tags propios.
 Pero vamos a usar una convención:
 *cursiva*, **negrita**.
@@ -617,6 +625,14 @@ Graciosamente, el nombre del autor viene del encabezado y se coló en esta oraci
       </tuv>
       <tuv lang="es-ES" changeid="solca" changedate="20250818T234726Z" creationid="solca" creationdate="20250818T234726Z">
         <seg>El cuerpo monstruoso es pura cultura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The too- precise laws of nature as set forth by science are gleefully violated in the freakish compilation of the monster’s body.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T190859Z" creationid="Lenovo" creationdate="20250819T190859Z">
+        <seg>Las leyes de la naturaleza, demasiado precisas según expone la cienca, se ven alegremente vulneradas por la extraña compilación del cuerpo de un monstruo. </seg>
       </tuv>
     </tu>
     <tu>
