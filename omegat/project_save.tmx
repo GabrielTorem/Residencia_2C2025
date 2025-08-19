@@ -383,14 +383,14 @@ posesivo ante "descendencia".</note>
       </tuv>
     </tu>
     <tu>
-      <note>el determinante está mal. Recordá que es irónico y que Cohen es él mismo.
-No es necesario sumar saltos de línea. Quedan los del original.
-Problematicemos "breakable".</note>
+      <note>el determinante está mal. No es necesario sumar saltos de línea. Quedan los del original.
+Problematicemos "breakable".
+Graciosamente, el nombre del autor viene del encabezado y se coló en esta oración durante la conversión justo donde pasó desapercibido. Lo corregí en tu versión.</note>
       <tuv lang="en-US">
         <seg>Rather than argue a “theory of Jeffrey Jerome Cohen teratology,’ I offer by way of introduction to the essays that follow a set of breakable postulates in search of specific cultural moments.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20250819T102603Z" creationid="solca" creationdate="20250818T232325Z">
-        <seg>En lugar de argumentar la "teoría de la teratología de Jeffrey Jerome Cohen", ofrezco, como introducción a los ensayos que siguen, un conjunto de postulados frágiles en busca de momentos culturales específicos.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250819T115222Z" creationid="solca" creationdate="20250818T232325Z">
+        <seg>En lugar de argumentar la "teoría de la teratología", ofrezco, como introducción a los ensayos que siguen, un conjunto de postulados frágiles en busca de momentos culturales específicos.</seg>
       </tuv>
     </tu>
     <tu>
