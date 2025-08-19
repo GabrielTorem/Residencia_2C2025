@@ -124,6 +124,8 @@ Hay un diacrítico mal usado.
       </tuv>
     </tu>
     <tu>
+      <note>comillas 
+afección (condición es calco)</note>
       <tuv lang="en-US">
         <seg>An analogy here might be the so-called ‘tagged’ gene that shows up in a genetic chain, indicating the presence of some otherwise hidden con- dition.</seg>
       </tuv>
@@ -681,6 +683,8 @@ Graciosamente, el nombre del autor viene del encabezado y se coló en esta oraci
       </tuv>
     </tu>
     <tu>
+      <note>investigar Megasthenes
+buscar la cita de Otello </note>
       <tuv lang="en-US">
         <seg>These are the ancient monsters recorded first by the Greek writers Ktesias and Megasthenes, and include such wild imaginings as the Pygmies, the Sciapods (men with one large foot with which they can hop about at tremendous speed or that they can lift over their reclining bodies as a sort of beach umbrella), Blemmyae (“men whose heads / Do grow beneath their shoulders,” in Othello’s words), and Cynocephali, ferocious dog-headed men who are anthropophagous to boot.</seg>
       </tuv>
