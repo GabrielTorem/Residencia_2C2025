@@ -26,8 +26,7 @@ metaphoric crossroads	encrucijada metafórica	Macarena
 glyph	símbolo	Macarena
 glyph	símbolo	Macarena
 modus legendi	modus legendi	B:Fittipaldi
-modus legendi	modus legendi	B: Fittipaldi Definición: las distintas 
-formas de abordar un texto escrito: oral (o en voz alta) y silenciosamente (o mentalmente),. URL: file:///C:/Users/solca/Downloads/Dialnet-DelModoDeLeerComoModoDeProduccionYConsumoTextual-2560748%20(1).pdf
+modus legendi	modus legendi	B: Fittipaldi Definición: las distintas
 Sketch	Boceto	B: Fittipaldi / Def:  Esbozo o bosquejo de rasgos generales que sirve de base al artista antes de emprender la obra definitiva. URL: https://www.wordreference.com/definicion/boceto / 2.3
 modus legendi	modus legendi	Las distintas formas de abordar un texto escrito: oral (o en voz alta) y silenciosamente (o mentalmente). URL: file:///C:/Users/solca/Downloads/Dialnet-DelModoDeLeerComoModoDeProduccionYConsumoTextual-2560748.pdf / 3.3
 dicta	Máxima	B: Fittipaldi / Def: plural de "dictum":, máximas, sentencias URL: https://dictionary.cambridge.org/dictionary/english-spanish/dicta / 3.3
