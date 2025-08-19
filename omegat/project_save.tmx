@@ -84,6 +84,14 @@ Hay un diacrítico mal usado.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>An analogy here might be the so-called ‘tagged’ gene that shows up in a genetic chain, indicating the presence of some otherwise hidden con- dition.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T165520Z" creationid="Lenovo" creationdate="20250819T165520Z">
+        <seg>El denominado "gen marcado" podría funcionar como analogía, ya que al aparecer en una cadena genética, indica la presencia de una condición que de otro modo permanecería oculta. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Discutamos tu traducción de "grand  gestures"</note>
       <tuv lang="en-US">
         <seg>And so I would like to make some grand gestures.</seg>
