@@ -29,11 +29,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>ataractic: para glosario</note>
       <tuv lang="en-US">
         <seg>&lt;t0/&gt; The monster’s body quite literally incorporates fear, desire, anxiety, and fantasy (ataractic or incendiary), giving them life and an uncanny independence.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20250818T234716Z" creationid="solca" creationdate="20250818T234716Z">
-        <seg>El cuerpo del monstruo incorpora literalmente el miedo, el deseo, la ansiedad y la fantasía (sedante o incendiaria), dándoles vida y una independencia inquietante.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250819T105344Z" creationid="solca" creationdate="20250818T234716Z">
+        <seg>&lt;t0/&gt;El cuerpo del monstruo incorpora literalmente el miedo, el deseo, la ansiedad y la fantasía (sedante o incendiaria), dándoles vida y una independencia inquietante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -112,6 +113,7 @@ Pensar "escrutinio"</note>
       </tuv>
     </tu>
     <tu>
+      <note>corpse es importante en un texto sobre monstruos</note>
       <tuv lang="en-US">
         <seg>Behead the corpse, so that, acephalic, it will not know itself as subject, only as pure body.</seg>
       </tuv>
