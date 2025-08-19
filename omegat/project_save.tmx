@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -220,6 +220,7 @@ disease of vampirism no es lo mismo que enfermedad vampiresca.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Hay una manera de vincular el corrector ortográfico. También podés activar Language Tool, desde las preferencias. Acá te quedó un error.</note>
       <tuv lang="en-US">
         <seg>In doing so, I will partially violate two of the sacred dicta of recent cultural studies: the compulsion to historical specificity and the insistence that all knowledge (and hence all cartographies of that knowledge) is local.</seg>
       </tuv>
@@ -350,6 +351,7 @@ posesivo ante "descendencia".</note>
       </tuv>
     </tu>
     <tu>
+      <note>fetishized no es término. Está mal cargado; falta el resto de la información. </note>
       <tuv lang="en-US">
         <seg>Of the first I will say only that in cultural studies today history (disguised perhaps as “culture”) tends to be fetishized as a &lt;f1&gt;telos&lt;/f1&gt;, as a final determinant of meaning; post de Man, post Foucault, post Hayden White, one must bear in mind that history is just another text in a procession of texts, and not a guarantor of any singular signification.</seg>
       </tuv>
