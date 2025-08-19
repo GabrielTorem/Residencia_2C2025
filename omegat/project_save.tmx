@@ -62,6 +62,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t2/&gt; Classical “wonder books” radically undermine the Aristotelian taxonomic system, for by refusing an easy compartmentalization of their monstrous contents, they demand a radical rethinking of boundary and normality.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T190753Z" creationid="Lenovo" creationdate="20250819T190753Z">
+        <seg>&lt;t2/&gt; Los "libros de fantasía” clásicos socavan radicalmente el sistema taxonómico aristotélico, ya que, al rechazar una fácil compartimentación de su monstruoso contenido, exigen repensar de manera radical los límites y la normalidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Stopping no es término
 Problema de traducción:
 strings of cultural moments
