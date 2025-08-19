@@ -25,3 +25,6 @@ metaphoric crossroads	encrucijada metafórica	Macarena
 metaphoric crossroads	encrucijada metafórica	Macarena
 glyph	símbolo	Macarena
 glyph	símbolo	Macarena
+modus legendi	modus legendi	B:Fittipaldi
+modus legendi	modus legendi	B: Fittipaldi Definición: las distintas 
+formas de abordar un texto escrito: oral (o en voz alta) y silenciosamente (o mentalmente),. URL: file:///C:/Users/solca/Downloads/Dialnet-DelModoDeLeerComoModoDeProduccionYConsumoTextual-2560748%20(1).pdf
