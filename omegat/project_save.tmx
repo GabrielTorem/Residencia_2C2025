@@ -540,6 +540,14 @@ Graciosamente, el nombre del autor viene del encabezado y se coló en esta oraci
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>These are the ancient monsters recorded first by the Greek writers Ktesias and Megasthenes, and include such wild imaginings as the Pygmies, the Sciapods (men with one large foot with which they can hop about at tremendous speed or that they can lift over their reclining bodies as a sort of beach umbrella), Blemmyae (“men whose heads / Do grow beneath their shoulders,” in Othello’s words), and Cynocephali, ferocious dog-headed men who are anthropophagous to boot.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T171625Z" creationid="Lenovo" creationdate="20250819T171625Z">
+        <seg>Estos son los antiguos monstruos, registrados por primera vez por los escritores griegos Ctesias y Megasthenes e incluyen creaciones tan descabelladas como los pigmeos, los sciapodes (hombres con un solo pie grande con el que pueden saltar a gran velocidad o que pueden levantar sobre sus cuerpos recostados a modo de sombrilla de playa), los blemios ("hombres cuyas cabezas/en realidad crecen debajo de sus hombros", en palabras de Otello) y cinocéfalos, feroces hombres con cabeza de perro que, además, son antropófagos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"différance" podría ir como explicación al glosario.</note>
       <tuv lang="en-US">
         <seg>These epistemological spaces between the monster’s bones are Derrida’s familiar chasm of &lt;f2&gt;différance:&lt;/f2&gt; a genetic uncertainty principle, the essence of the monster’s vitality, the reason it always rises from the dissection table as its secrets are about to be revealed and vanishes into the night.</seg>
