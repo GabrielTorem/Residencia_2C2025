@@ -277,8 +277,8 @@ La pasiva con "se" no lleva c. agente</note>
       <tuv lang="en-US">
         <seg>Garber writes at some length about “category crisis,” which she defines as “a failure of definitional distinction, a borderline that becomes perme- able, that permits of border crossings from one (apparently distinct) category to another: black/white, Jew/Christian, noble/bourgeois, master/servant, master/slave….</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T155754Z" creationid="Lenovo" creationdate="20250819T155305Z">
-        <seg>Garber escribe extensamente sobre la "crisis de categorías", la cual define como "un fracaso de la distinción definicional, una frontera que se vuelve permeable, que permite cruzar de una categoría (aparentemente distinta): negro/blanco, judío/cristiano, noble/burgués, amo/sirviente, amo/esclavo.... </seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T193719Z" creationid="Lenovo" creationdate="20250819T155305Z">
+        <seg>Garber escribe extensamente sobre la "crisis de categorías", a la cual define como "un fracaso de la distinción definicional, una frontera que se vuelve permeable, que permite cruzar de una categoría (aparentemente distinta) a otras: negro/blanco, judío/cristiano, noble/burgués, amo/sirviente, amo/esclavo.... </seg>
       </tuv>
     </tu>
     <tu>
@@ -394,8 +394,8 @@ pensar "self-loading".</note>
       <tuv lang="en-US">
         <seg>It sheds its skin like a snake, its carapace like an arthropod.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T154256Z" creationid="Lenovo" creationdate="20250819T154256Z">
-        <seg>Cambia de piel como una serpiente, tiene caparazón como los artrópodos.</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T193513Z" creationid="Lenovo" creationdate="20250819T154256Z">
+        <seg>Cambia de piel como una serpiente, tiene caparazón como un artrópodos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -806,8 +806,8 @@ Ayúdenme a pensar si "Yeti" va con mayúscula.
       <tuv lang="en-US">
         <seg>… It responds according to Lamarckian &lt;f0&gt;and&lt;/f0&gt; Darwinian principles.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T154416Z" creationid="Lenovo" creationdate="20250819T154416Z">
-        <seg>...Responde a los principios lamarckianos  &lt;f0&gt;y&lt;/f0&gt; darwinianos.</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T193614Z" creationid="Lenovo" creationdate="20250819T154416Z">
+        <seg>...Responde de acuerdo a los principios lamarckianos  &lt;f0&gt;y&lt;/f0&gt; darwinianos.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
