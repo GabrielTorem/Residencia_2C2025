@@ -17,7 +17,7 @@ leimotif	leitmotiv	B:Gentile, C:https://dle.rae.es/leitmotiv
 signifier	significante	B:Gentile, C:https://dictionary.cambridge.org/es/diccionario/ingles-espanol/signifier
 stopping	detención	B:Gentile, C:https://periodicos.ufjf.br/index.php/numen/article/download/48744/29147/218640
 On Longing: Narratives of the Miniature, the Gigantic, the Souvenir, the Collection	El ansia: Narrativas de la miniatura, lo gigantesco, el souvenir y la colección	B: Gentile, C:https://www.waldhuter.com.ar/Papel/9789508452696/El+ansia
-engender engendrar https://dictionary.cambridge.org/es/diccionario/ingles-espanol/engender Macarena
+
 modus legendi	modus legendi	B:Fittipaldi
 modus legendi	modus legendi	B: Fittipaldi Definición: las distintas
 Sketch	Boceto	B: Fittipaldi / Def:  Esbozo o bosquejo de rasgos generales que sirve de base al artista antes de emprender la obra definitiva. URL: https://www.wordreference.com/definicion/boceto / 2.3
