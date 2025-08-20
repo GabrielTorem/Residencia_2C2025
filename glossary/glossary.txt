@@ -33,3 +33,4 @@ inquiry	investigación	https://dictionary.cambridge.org/es/diccionario/ingles-es
 grand gestures	gestos grandilocuentes	https://www.collinsdictionary.com/es/diccionario/ingles-espanol/a-grand-gesture Macarena
 loosely	vagamente	https://www.wordreference.com/es/translation.asp?tranword=loosely
 corpse	cadáver	https://dictionary.cambridge.org/es/diccionario/ingles-espanol/corpse
+incendiary	incendiario	https://dictionary.cambridge.org/es/diccionario/ingles-espanol/incendiary
