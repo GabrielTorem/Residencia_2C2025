@@ -30,3 +30,4 @@ acephalic	acéfalo	B: Fittipaldi. Def: que no tiene cabeza URL: https://www.word
 teratology	teralogía	B: Fittipaldi Def: La teratología es una rama especializada de la Biología y la Medicina que se enfoca en el estudio de las anomalías físicas y fisiológicas, conocidas como malformaciones congénitas o defectos de nacimiento, que se presentan en el desarrollo embrionario o fetal. URL: https://www.cun.es/diccionario-medico/terminos/teratologia / 3.3
 engender	engendrar	https://dictionary.cambridge.org/es/diccionario/ingles-espanol/engender Macarena
 inquiry	investigación	https://dictionary.cambridge.org/es/diccionario/ingles-espanol/inquiry Macarena
+grand gestures	gestos grandilocuentes	https://www.collinsdictionary.com/es/diccionario/ingles-espanol/a-grand-gesture Macarena
