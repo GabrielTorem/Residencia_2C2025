@@ -31,3 +31,5 @@ teratology	teralogía	B: Fittipaldi Def: La teratología es una rama especializa
 engender	engendrar	https://dictionary.cambridge.org/es/diccionario/ingles-espanol/engender Macarena
 inquiry	investigación	https://dictionary.cambridge.org/es/diccionario/ingles-espanol/inquiry Macarena
 grand gestures	gestos grandilocuentes	https://www.collinsdictionary.com/es/diccionario/ingles-espanol/a-grand-gesture Macarena
+loosely	vagamente	https://www.wordreference.com/es/translation.asp?tranword=loosely
+corpse	cadáver	https://dictionary.cambridge.org/es/diccionario/ingles-espanol/corpse
