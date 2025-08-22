@@ -164,12 +164,12 @@ A veces "is" es "es". (Resuelto)</note>
     <tu>
       <note>La entra de apotheosize está mal: traducís un verbo por un sustantivo. Es discutible si es término.
 Conjoin no es término.
-Pensar "escrutinio"</note>
+Pensar "escrutinio" (Resuelto)</note>
       <tuv lang="en-US">
         <seg>Anne Rice has given the myth a modern rewriting in which homosexuality and vampirism have been conjoined, apotheosized; that she has created a pop culture phenomenon in the process is not insignificant, especially at a time when gender as a construct has been scrutinized at almost every social register.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250815T005252Z" creationid="Marina" creationdate="20250815T005252Z">
-        <seg>Anne Rice le dio al mito una reescritura moderna en la que la homosexualidad y el vampirismo se han fusionado y apoteosizado; que haya creado un fenómeno de la cultura pop en el proceso no es menor, especialmente en una época en que el género como constructo ha sido objeto de escrutinio en casi todos los registros sociales. </seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250822T140953Z" creationid="Marina" creationdate="20250815T005252Z">
+        <seg>Anne Rice le dio al mito una reescritura moderna en la que la homosexualidad y el vampirismo se han fusionado y apoteosizado; que haya creado un fenómeno de la cultura pop en el proceso no es menor, especialmente en una época en que el género como constructo ha sido problematizado en casi todos los registros sociales. </seg>
       </tuv>
     </tu>
     <tu>
