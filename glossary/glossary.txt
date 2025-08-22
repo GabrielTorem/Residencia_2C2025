@@ -8,8 +8,6 @@ revenant	resucitado	B:Gentile, C:https://www.proz.com/kudoz/english-to-spanish/o
 slumberer	sonámbulo	B:Gentile, C:https://dictionary.cambridge.org/es/diccionario/ingles-espanol/slumber
 count	conde	B:Gentile, C:https://dictionary.cambridge.org/es/diccionario/ingles-espanol/count
 undercurrent	trasfondo	B:Gentile, C:https://dictionary.cambridge.org/es/diccionario/ingles-espanol/undercurrent
-conjoin	unir	B:Gentile, C:https://www.wordreference.com/es/translation.asp?tranword=conjoined
-apotheosize	apoteosis	B:Gentile, C:https://dictionary.cambridge.org/es/diccionario/ingles-espanol/apotheosis
 blockbuster	éxito de taquilla	B:Gentile, C:https://dictionary.cambridge.org/es/diccionario/ingles-espanol/blockbuster
 lamia	lamia	B:Gentile, C:https://ffyh.aulavirtual.unc.edu.ar/pluginfile.php/556139/mod_folder/content/0/Cohen%20-%20La%20cultura%20del%20monstruo%207%20tesis.pdf?forcedownload=1
 corpuscles	glóbulo, corpúsculo	B:Gentile, C:https://dictionary.cambridge.org/es/diccionario/ingles-espanol/corpuscle
@@ -17,7 +15,6 @@ leimotif	leitmotiv	B:Gentile, C:https://dle.rae.es/leitmotiv
 signifier	significante	B:Gentile, C:https://dictionary.cambridge.org/es/diccionario/ingles-espanol/signifier
 stopping	detención	B:Gentile, C:https://periodicos.ufjf.br/index.php/numen/article/download/48744/29147/218640
 On Longing: Narratives of the Miniature, the Gigantic, the Souvenir, the Collection	El ansia: Narrativas de la miniatura, lo gigantesco, el souvenir y la colección	B: Gentile, C:https://www.waldhuter.com.ar/Papel/9789508452696/El+ansia
-
 modus legendi	modus legendi	B:Fittipaldi
 modus legendi	modus legendi	B: Fittipaldi Definición: las distintas
 Sketch	Boceto	B: Fittipaldi / Def:  Esbozo o bosquejo de rasgos generales que sirve de base al artista antes de emprender la obra definitiva. URL: https://www.wordreference.com/definicion/boceto / 2.3
