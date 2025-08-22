@@ -522,8 +522,8 @@ posesivo ante "descendencia".</note>
       <tuv lang="en-US">
         <seg>No monster tastes of death but once.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250815T004412Z" creationid="Marina" creationdate="20250815T004412Z">
-        <seg>Ningún monstruo saborea la muerte más de una vez.</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250822T140432Z" creationid="Marina" creationdate="20250815T004412Z">
+        <seg>Ningún monstruo saborea la muerte solo una vez.</seg>
       </tuv>
     </tu>
     <tu>
