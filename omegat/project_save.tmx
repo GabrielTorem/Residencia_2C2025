@@ -736,12 +736,12 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
       </tuv>
     </tu>
     <tu>
-      <note>Hay un elemento cohesivo que quitás</note>
+      <note>Hay un elemento cohesivo que quitás (Modificado)</note>
       <tuv lang="en-US">
         <seg>Thus the superiority of Joan Copjec’s “Vampires, Breast-feeding, and Anxiety,” October 58 (Fall 1991): 25-43, to Paul Barber’s &lt;f0&gt;Vampires, Burial, and Death: Folklore and Reality&lt;/f0&gt; (New Haven, Conn.: Yale University Press, 1988).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250815T011935Z" creationid="Marina" creationdate="20250815T011935Z">
-        <seg>Se observa la superioridad de “Vampires, Breast-feeding, and Anxiety”, de Joan Copjec, Octubre 58 (otoño de 1991): 25-43, frente a &lt;f0&gt;Vampires, Burial, and Death: Folklore and Reality&lt;/f0&gt; de Paul Barber (New Haven, Conn.: Yale University Press, 1988).</seg>
+      <tuv lang="es-ES" changeid="tomas" changedate="20250822T134853Z" creationid="Marina" creationdate="20250815T011935Z">
+        <seg>Por lo tanto, se observa la superioridad de “Vampires, Breast-feeding, and Anxiety”, de Joan Copjec, Octubre 58 (otoño de 1991): 25-43, frente a &lt;f0&gt;Vampires, Burial, and Death: Folklore and Reality&lt;/f0&gt; de Paul Barber (New Haven, Conn.: Yale University Press, 1988).</seg>
       </tuv>
     </tu>
     <tu>
