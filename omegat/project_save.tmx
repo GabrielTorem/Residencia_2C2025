@@ -312,13 +312,13 @@ Estás quitando un enfatizador / o matizador (Modificado) </note>
     <tu>
       <note>no incluir más de una opción por entrada de glosario.
 La referencia de "lamia" requiere usuario y contraseña.
-no  es lo mismo glóbulo  que corpúsculo
-disease of vampirism no es lo mismo que enfermedad vampiresca.</note>
+no  es lo mismo glóbulo  que corpúsculo (Resuelto)
+disease of vampirism no es lo mismo que enfermedad vampiresca. (Resuelto)</note>
       <tuv lang="en-US">
         <seg>In Francis Coppola’s recent blockbuster, Bram Stoker’s &lt;f3&gt;Dracula,&lt;/f3&gt; the homosexual subtext present at least since the appearance of Sheridan Le Fanu’s lesbian lamia (&lt;f4&gt;Carmilla,&lt;/f4&gt; 1872) has, like the red corpuscles that serve as the film’s leitmotif, risen to the surface, primarily as an AIDS awareness that transforms the disease of vampirism into a sadistic (and very medieval) form of redemption through the torments of the body in pain.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Profesorado" changedate="20250819T213349Z" creationid="Marina" creationdate="20250815T005638Z">
-        <seg>En el reciente éxito de taquilla de Francis Coppola, &lt;f3&gt;Drácula, de Bram Stoker,&lt;/f3&gt; el subtexto homosexual presente, al menos desde la aparición de la lamia lesbiana de Sheridan Le Fanu (&lt;f4&gt;Carmilla,&lt;/f4&gt; 1872), ha resurgido, como los glóbulos rojos que sirven de *leitmotiv* de la trama, principalmente como una concientización sobre el SIDA que transforma la enfermedad vampiresca en una forma sadista (y muy medieval) de redención mediante los tormentos del cuerpo en agonía. </seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250822T141625Z" creationid="Marina" creationdate="20250815T005638Z">
+        <seg>En el reciente éxito de taquilla de Francis Coppola, &lt;f3&gt;Drácula, de Bram Stoker,&lt;/f3&gt; el subtexto homosexual presente, al menos desde la aparición de la lamia lesbiana de Sheridan Le Fanu (&lt;f4&gt;Carmilla,&lt;/f4&gt; 1872), ha resurgido, como los glóbulos rojos que sirven de *leitmotiv* de la trama, principalmente como una concientización sobre el SIDA que transforma la enfermedad del vampirismo en una forma sadista (y muy medieval) de redención mediante los tormentos del cuerpo en agonía. </seg>
       </tuv>
     </tu>
     <tu>
