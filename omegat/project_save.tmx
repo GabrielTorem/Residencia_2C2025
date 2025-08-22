@@ -300,13 +300,13 @@ La pasiva con "se" no lleva c. agente</note>
       </tuv>
     </tu>
     <tu>
-      <note>Estás quitando una marca de subjetividad.
-Estás quitando un enfatizador / o matizador</note>
+      <note>Estás quitando una marca de subjetividad. (Modificado)
+Estás quitando un enfatizador / o matizador (Modificado) </note>
       <tuv lang="en-US">
         <seg>I realize that this is an interpretive biographical maneuver Barthes would surely have called “the living death of the author.”</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250815T011627Z" creationid="Marina" creationdate="20250815T011627Z">
-        <seg>Esto puede entenderse como una maniobra interpretativa de carácter biográfico que Barthes habría calificado de "muerte viva del autor". </seg>
+      <tuv lang="es-ES" changeid="tomas" changedate="20250822T134324Z" creationid="Marina" creationdate="20250815T011627Z">
+        <seg>Comprendo esto como una maniobra interpretativa de carácter biográfico que Barthes sin duda habría calificado de "muerte viva del autor". </seg>
       </tuv>
     </tu>
     <tu>
