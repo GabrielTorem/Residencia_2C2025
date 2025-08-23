@@ -94,6 +94,24 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t4/&gt; Its male reproductive organ is said to be disproportionately large, but the monster could use either sex at its own discretion.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250823T232113Z" creationid="Marina" creationdate="20250823T232113Z">
+        <seg>Se decía que su órgano reproductor masculino era desproporcionadamente largo, pero el monstruo podía usar indistintamente uno u otro sexo a su elección. 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t5/&gt; This strange creature, a composite of the supposedly discrete categories “male” and “female,” arrives before King Louis to validate heterosexuality over homosexuality, with its supposed inversions and transformations (“Equa fit equus,” one Latin writer declared; “The horse becomes a mare”).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250823T232251Z" creationid="Marina" creationdate="20250823T232251Z">
+        <seg>Esta criatura extraña, un compuesto de las categorías supuestamente distintas “masculino” y “femenino”, llega ante el rey Luis para validar la heterosexualidad por encima de la homosexualidad, con sus supuestas inversiones y transformaciones (*Equa fit equus*, declaraba un escritor en Latín: “El caballo se vuelve yegua”).
+</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Stopping no es término (Debatido)
 Problema de traducción:
 strings of cultural moments (resuelto "cadenas")
@@ -222,6 +240,15 @@ Pensar "escrutinio" (Resuelto)</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Bruno Roy writes of this fantastic hybrid: “What warning did he come to deliver to the king?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250823T232121Z" creationid="Marina" creationdate="20250823T232121Z">
+        <seg>Bruno Roy escribe acerca de este fantástico híbrido: “¿Qué advertencia traería al rey? 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Pensemos interlocutor.
 repensar lo de "se cruza con"</note>
       <tuv lang="en-US">
@@ -313,6 +340,15 @@ La pasiva con "se" no lleva c. agente (Resuelto)</note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T193226Z" creationid="Lenovo" creationdate="20250819T154053Z">
         <seg>Harvey R. Greenberg, “Reimagining the Gargoyle: Psychoanalytic Notes on &lt;f0&gt;Alien&lt;f0&gt;”, en &lt;f1&gt;Close Encounters: Film, Feminism, and Science Fiction, &lt;/f1&gt; editado por Constance Penley, Elisabeth Lyon, Lynn Spigel y Janet Bergstrom (Minneapolis: University of Minnesota Press, 1991), 90-91.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>He came to bear witness to sexual norms.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250823T232127Z" creationid="Marina" creationdate="20250823T232127Z">
+        <seg>Venía a dar fe de las normas sexuales.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -866,6 +902,15 @@ Ayúdenme a pensar si "Yeti" va con mayúscula. (Resuelto: en min)
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T195538Z" creationid="Lenovo" creationdate="20250819T172339Z">
         <seg>«El círculo hermenéutico no permite el acceso ni el escape a una realidad ininterrumpida; pero no [debemos] seguir dando vueltas por el mismo camino». Barbara Herrnstein Smith, «Belief and Resistance: A Symmetrical Account» (Creencia y resistencia: un relato simétrico), &lt;f0&gt;Critical Inquiry&lt;/f0&gt; 18 (otoño de 1991): 137-38.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>… He embodied the punishment earned by those who violate sexual taboos.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250823T232137Z" creationid="Marina" creationdate="20250823T232137Z">
+        <seg>… Personificaba el castigo que se ganaban quienes violaban los tabúes sexuales.”
+</seg>
       </tuv>
     </tu>
     <tu>
