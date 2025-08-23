@@ -33,3 +33,4 @@ corpse	cadáver	https://dictionary.cambridge.org/es/diccionario/ingles-espanol/c
 incendiary	incendiario	https://dictionary.cambridge.org/es/diccionario/ingles-espanol/incendiary Macarena
 Weird	Fatídica	B: Gentile, f: https://www.google.com/url?q=https://tienda.planetadelibros.com.ar/products/macbeth?srsltid%3DAfmBOopMEHYO9TNBOE-ZbKn_XY4WqMNJn-H5Lq-mkIXj1PFYgR_OVdgm&sa=D&source=docs&ust=1755988474176413&usg=AOvVaw3CV41lr3KZ1O38Fvnz2LVv  , 3/3 (el texto original menciona el término 'wyrd', no 'weird').
 monsterization	monstruización	B: Gentile, F: https://genero.institutos.filo.uba.ar/sites/genero.institutos.filo.uba.ar/files/Libro%20Monstruos%20Terminado%2007-07-08.pdf
+significant	significativo	B: Gentile, F: https://www.google.com/url?q=https://soraps.unive.it/files/2019/06/IO1-Stereotypes-and-prejudices-Guidelines_V4-05_01_19_ES.pdf&sa=D&source=docs&ust=1755985994587440&usg=AOvVaw3vXQz-Xw9meekqzWzVQiJe - "otro significativo" como unidad léxica.
