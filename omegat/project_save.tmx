@@ -37,6 +37,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0/&gt; History itself becomes a monster: defeaturing, self-deconstructive, always in danger of exposing the sutures that bind its disparate elements into a single, unnatural body.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250823T230139Z" creationid="Marina" creationdate="20250823T230139Z">
+        <seg>La historia misma se vuelve un monstruo: desfigurado, autodeconstructivo, siempre en peligro de exponer las suturas que unen sus elementos dispares en un solo cuerpo innatural. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>ataractic: para glosario</note>
       <tuv lang="en-US">
         <seg>&lt;t0/&gt; The monster’s body quite literally incorporates fear, desire, anxiety, and fantasy (ataractic or incendiary), giving them life and an uncanny independence.</seg>
@@ -170,6 +178,14 @@ Pensar "escrutinio" (Resuelto)</note>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250822T140953Z" creationid="Marina" creationdate="20250815T005252Z">
         <seg>Anne Rice le dio al mito una reescritura moderna en la que la homosexualidad y el vampirismo se han fusionado y apoteosizado; que haya creado un fenómeno de la cultura pop en el proceso no es menor, especialmente en una época en que el género como constructo ha sido problematizado en casi todos los registros sociales. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At the same time Richard moves between Monster and Man, the disturbing suggestion arises that this incoherent body, denaturalized and always in peril of disaggregation, may well be our own.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250823T230149Z" creationid="Marina" creationdate="20250823T230149Z">
+        <seg>Al mismo tiempo que Ricardo se movía entre el Monstruo y el Hombre, la sugestión alarmante plantea que este cuerpo incoherente, desnaturalizado y siempre en riesgo de disgregación puede claramente ser el nuestro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -604,6 +620,14 @@ Graciosamente, el nombre del autor viene del encabezado y se coló en esta oraci
       </tuv>
       <tuv lang="es-ES" changeid="borrar" changedate="20250731T020236Z" creationid="borrar" creationdate="20250731T020236Z">
         <seg>Título</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The almost obsessive descanting on Richard from Polydor Vergil in the Renaissance to the Friends of Richard III Incorporated in our own era demonstrates the process of “monster theory” at its most active: culture gives birth to a monster before our eyes, painting over the normally proportioned Richard who once lived, raising his shoulder to deform simultaneously person, cultural response, and the possibility of objectivity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250823T230124Z" creationid="Marina" creationdate="20250823T230124Z">
+        <seg>El discurso casi obsesivo sobre Ricardo, desde Polydor Vergil en el Renacimiento hasta la Asociación Amigos de Ricardo III en nuestra época, demuestra la dinámica de la “teoría del monstruo” en todo su esplendor: la cultura da a luz a los monstruos ante nuestros ojos, cubriendo la normalidad proporcionada del Ricardo histórico, levantando su hombro para deformar simultáneamente a la persona, la respuesta cultural y la posibilidad de objetividad.</seg>
       </tuv>
     </tu>
     <tu>
