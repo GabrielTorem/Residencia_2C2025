@@ -112,6 +112,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t6/&gt; The strange dog-headed monster is a living excoriation of gender ambiguity and sexual abnormality, as Vincent’s cultural moment defines them: heteronormalization incarnate.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250823T232308Z" creationid="Marina" creationdate="20250823T232308Z">
+        <seg>El extraño monstruo con cabeza de perro es una viva reprobación de la ambigüedad de género y de la anormalidad sexual, como el momento cultural de Vincent la definía: la heteronormalización encarnada.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Stopping no es término (Debatido)
 Problema de traducción:
 strings of cultural moments (resuelto "cadenas")
@@ -155,6 +163,14 @@ Hay un diacrítico mal usado.
       </tuv>
       <tuv lang="es-ES" changeid="solca" changedate="20250819T004803Z" creationid="solca" creationdate="20250818T231614Z">
         <seg>Un movimiento que se aleja de la &lt;f1&gt; longue durée&lt;/f1&gt; y se dirige hacia la microeconomía (del capital o del género) se asocia con mayor frecuencia con la crítica foucaultiana; sin embargo, críticos recientes han señalado que dónde Foucault erró fue principalmente en sus detalles, en sus especificidades minuciosas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Africa early became the West’s significant other, the sign of its ontological difference simply being skin color.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250823T232713Z" creationid="Marina" creationdate="20250823T232713Z">
+        <seg>África se convirtió tempranamente en el “otro significativo” de Occidente, el signo de su diferencia ontológica expresado simplemente en el color de la piel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -316,6 +332,15 @@ La pasiva con "se" no lleva c. agente (Resuelto)</note>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250817T134310Z" creationid="Marina" creationdate="20250815T012004Z">
         <seg>Incluso en la atribución del paisaje inmóvil al gigante, son las actividades del gigante, sus acciones legendarias, las que han dejado la huella observable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the classical period into the twentieth century, race has been almost as powerful a catalyst to the creation of monsters as culture, gender, and sexuality.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250823T232334Z" creationid="Marina" creationdate="20250823T232334Z">
+        <seg>Desde el período clásico hasta el siglo veinte, la raza ha sido un catalizador casi tan poderoso para la creación de monstruos como lo han sido la cultura, el género y la sexualidad.
+</seg>
       </tuv>
     </tu>
     <tu>
