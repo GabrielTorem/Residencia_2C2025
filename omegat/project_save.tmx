@@ -672,6 +672,16 @@ Graciosamente, el nombre del autor viene del encabezado y se coló en esta oraci
       </tuv>
     </tu>
     <tu>
+      <note>El ejemplar de título "Speculum naturale" mantiene su mismo título en cursiva. No tiene una traducción definida (entre espéculo y espejo), por lo que decidí dejar la cita tal cual como la del texto original. Fuente: https://www.unmeditora.unm.edu.ar/files/cegopp_digital.pdf</note>
+      <tuv lang="en-US">
+        <seg>The great medieval encyclopedist Vincent of Beauvais describes the visit of a hermaphroditic cynocephalus to the French court in his &lt;f3&gt;Speculum naturale&lt;/f3&gt; (31.126).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250823T232050Z" creationid="Marina" creationdate="20250823T232050Z">
+        <seg>El gran enciclopedista medieval Vincent de Beauvais describe en su *Speculum naturale* la visita de un cinocéfalo hermafrodita a la corte francesa (31.126).
+</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Adj antepuesto</note>
       <tuv lang="en-US">
         <seg>The monster always escapes because it refuses easy categorization.</seg>
