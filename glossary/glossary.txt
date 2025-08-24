@@ -37,3 +37,4 @@ blackamoore	moro	B: Gentile, se prefiere "moro negro" F: https://historia.nation
 imported	importado	B: Gentile, p. 327 F: https://repositorio.uchile.cl/bitstream/handle/2250/181355/El-fenomeno-de-la-esclavitud-y-del-trabajo-esclavo-perspectiva-historico-juridica-e-historica.pdf?sequence=1
 
 monsterization	monstruización	B: Gentile, F: https://genero.institutos.filo.uba.ar/sites/genero.institutos.filo.uba.ar/files/Libro%20Monstruos%20Terminado%2007-07-08.pdf
+inversion	inversión	B: Gentile, F: https://www.memoria.fahce.unlp.edu.ar/programas/pp.11473/pp.11473.pdf
