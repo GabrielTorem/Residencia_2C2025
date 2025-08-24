@@ -284,6 +284,14 @@ repensar lo de "se cruza con"</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But a second portrait, possibly of earlier date, in the Royal Collection, seems to emblematize the whole controversy [over Richard ’s supposed monstrosity], for in it, X-ray examination reveals an original straight shoulder line, which was subsequently painted over to present the raised right shoulder silhouette so often copied by later portraitists.” Ibid., 35.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250824T005239Z" creationid="Marina" creationdate="20250824T005239Z">
+        <seg>Pero un segundo retrato, posiblemente de fecha anterior, en la Royal Collection, parece simbolizar toda la controversia (en torno a la supuesta monstruosidad de Ricardo), pues en él, un examen radiográfico revela una línea original de hombros recta, que fue posteriormente repintada para presentar la silueta del hombro derecho elevado, tan a menudo copiada por retratistas posteriores.” Ibid., 35.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clinical Summary</seg>
       </tuv>
       <tuv lang="es-ES" changeid="borrar" changedate="20250731T020242Z" creationid="borrar" creationdate="20250731T020242Z">
@@ -1000,6 +1008,9 @@ Libro V, P. 183.
 </note>
       <tuv lang="en-US">
         <seg>“A portrait now in the Society of Antiquaries of London, painted about 1505, shows a Richard with straight shoulders.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250824T004814Z">
+        <seg>Un retrato que se conserva actualmente en la Sociedad de Anticuarios de Londres, pintado hacia 1505, muestra a un Ricardo con los hombros rectos.</seg>
       </tuv>
     </tu>
     <tu>
