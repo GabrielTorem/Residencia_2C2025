@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>(Quebec: Les Editions de P Aurore, 1975), 77.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250824T020315Z" creationid="Marina" creationdate="20250824T020315Z">
+        <seg>(Quebec: Les Éditions de l’Aurore, 1975), 77.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250815T012339Z" creationid="Marina" creationdate="20250815T012339Z">
@@ -281,6 +289,14 @@ Pensar "escrutinio" (Resuelto)</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Bruno Roy, “En marge du monde connu: Les races de monstres,” in &lt;f0&gt;Aspects de la marginalité au Moyen Age,&lt;/f0&gt; ed. Guy-H Allard.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250824T020310Z" creationid="Marina" creationdate="20250824T020310Z">
+        <seg>Bruno Roy, "En marge du monde connu: Les races de monstres" en *Aspects de la marginalité au Moyen Âge*, ed. Guy-H Allard.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Pensemos interlocutor.
 repensar lo de "se cruza con"</note>
       <tuv lang="en-US">
@@ -296,6 +312,14 @@ repensar lo de "se cruza con"</note>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250824T005239Z" creationid="Marina" creationdate="20250824T005239Z">
         <seg>Pero un segundo retrato, posiblemente de fecha anterior, en la Royal Collection, parece simbolizar toda la controversia (en torno a la supuesta monstruosidad de Ricardo), pues en él, un examen radiográfico revela una línea original de hombros recta, que fue posteriormente repintada para presentar la silueta del hombro derecho elevado, tan a menudo copiada por retratistas posteriores.” Ibid., 35.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cited by Friedman, &lt;f0&gt;The Monstrous Races,&lt;/f0&gt; 64.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250824T020533Z" creationid="Marina" creationdate="20250824T020533Z">
+        <seg>Citado por Friedman, *The Monstrous Races*, 64.</seg>
       </tuv>
     </tu>
     <tu>
@@ -729,6 +753,15 @@ Graciosamente, el nombre del autor viene del encabezado y se coló en esta oraci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See, for example, Monica E. McAlpine, “The Pardoner’s Homosexuality and How It Matters,” &lt;f0&gt;PMLA&lt;/f0&gt; 95 (1980): 8-22.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250824T020437Z" creationid="Marina" creationdate="20250824T020437Z">
+        <seg>Véase, por ejemplo, Monica E. McAlpine, “The Pardoner’s Homosexuality and How It Matters” en *PMLA 95* (1980): 8-22.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Seldom, however, are monsters as uncomplicated in their use and manufacture as the demons that haunt Sir Bors.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250812T215539Z" creationid="Lenovo" creationdate="20250812T215539Z">
@@ -947,6 +980,14 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T195740Z" creationid="Lenovo" creationdate="20250819T172757Z">
         <seg>El rechazo a participar del "orden de las cosas" clasificatorio puede aplicarse a todos los monstruos: son híbridos perturbadores cuyos cuerpos de apariencia incoherente resisten los intentos por incluirlos en cualquier tipo de estructrura sistémica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This translation is mine.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250824T020323Z" creationid="Marina" creationdate="20250824T020323Z">
+        <seg>Esta traducción es mía. </seg>
       </tuv>
     </tu>
     <tu>
