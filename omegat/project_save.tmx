@@ -396,8 +396,8 @@ La pasiva con "se" no lleva c. agente (Resuelto)</note>
       <tuv lang="en-US">
         <seg>I am hinting here at the possibility of a feminist recuperation of the gendered monster by citing the titles of two famous books about Lilith (a favorite figure in feminist writing): Jacques Bril’s &lt;f0&gt;Lilith, ou, La Mere obscure&lt;/f0&gt; (Paris: Payot, 1981), and Siegmund Hurwitz’s &lt;f1&gt;Lilith, die erste Eva: Eine Studie uber dunkle Aspekte des Weiblichen&lt;/f1&gt; (Zurich: Daimon Verlag, 1980).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250824T011310Z" creationid="Marina" creationdate="20250824T005730Z">
-        <seg>Aquí insinúo la posibilidad de una recuperación feminista del monstruo sexuado al citar los títulos de dos libros famosos sobre Lilith, figura predilecta en la escritura feminista: &lt;f0&gt;Lilith, ou, La Mère obscure&lt;/f0&gt;, de Jacques Bril (París: Payot, 1981), y &lt;f1&gt;Lilith, die erste Eva: Eine Studie über dunkle Aspekte des Weiblichen&lt;/f1&gt;, de Siegmund Hurwitz (Zúrich: Daimon Verlag, 1980).</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250824T013514Z" creationid="Marina" creationdate="20250824T005730Z">
+        <seg>Aquí insinúo la posibilidad de una recuperación feminista del monstruo sexuado al citar los títulos de dos libros famosos sobre Lilith, figura predilecta en la escritura feminista: &lt;f0&gt;*Lilith, ou, La Mère obscure*&lt;/f0&gt;, de Jacques Bril (París: Payot, 1981), y &lt;f1&gt;*Lilith, die erste Eva: Eine Studie über dunkle Aspekte des Weiblichen*&lt;/f1&gt;, de Siegmund Hurwitz (Zúrich: Daimon Verlag, 1980).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1052,10 +1052,10 @@ Corpus pdf: https://drive.google.com/drive/folders/1MeQ75-wyBg2Fq2b0VS0tMA5E_JzF
       <tuv lang="en-US">
         <seg>“The monster-woman, threatening to replace her angelic sister, embodies intransigent female autonomy and thus represents both the author’s power to allay ‘his’ anxieties by calling their source bad names (witch, bitch, fiend, monster) and simul- taneously, the mysterious power of the character who refuses to stay in her textually ordained ‘place’ and thus generates a story that ‘gets away’ from its author.” Sandra M. Gilbert and Susan Gubar, &lt;f0&gt;The Madwoman in the Attic: The Woman Writer and the Nineteenth Century Literary Imagination&lt;/f0&gt; (New Haven, Conn.: Yale University Press, 1984), 28.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250824T012517Z" creationid="Marina" creationdate="20250824T012507Z">
+      <tuv lang="es-ES" changeid="Marina" changedate="20250824T013522Z" creationid="Marina" creationdate="20250824T012507Z">
         <seg>"La mujer-monstruo, amenazando con reemplazar a su
 hermana angelical, encarna la autonomía femenina intransigente y, de este modo, representa tanto el poder del autor para aliviar &lt;sus» ansiedades insultando a su fuente con malas palabras (bruja, zorra, demonio, monstruo) como, de forma simultánea, el misterioso poder del personaje que se niega a permanecer en su 'lugar' ordenado del texto y, por lo tanto, genera
-una historia que 'escapa' de su autor". Sandra M. Gilbert y Susan Gubar, &lt;f0&gt;"La loca del desván: La escritora y la imaginación literaria del siglo XIX"&lt;/f0&gt;  (Ediciones Cátedra, S. A., Madrid, 1998), 43.
+una historia que 'escapa' de su autor". Sandra M. Gilbert y Susan Gubar, &lt;f0&gt;*La loca del desván: La escritora y la imaginación literaria del siglo XIX*&lt;/f0&gt;  (Ediciones Cátedra, S. A., Madrid, 1998), 43.
 </seg>
       </tuv>
     </tu>
