@@ -664,6 +664,15 @@ escribe HG </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Paulinus of Nola, a wealthy landowner turned early church homilist, explained that the Ethiopians had been scorched by sin and vice rather than by the sun, and the anonymous commentator to Theodulus’s influential &lt;f8&gt;Ecloga&lt;/f8&gt; (tenth century) succinctly glossed the meaning of the word &lt;f9&gt;Ethyopium:&lt;/f9&gt; “Ethiopians, that is, sinners.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250824T000353Z" creationid="Marina" creationdate="20250824T000353Z">
+        <seg>Paulino de Nola, un terrateniente adinerado que se volvió predicador de la iglesia, explicaba que los etíopes se habían quemado más por sus pecados y vicios que por el sol; el comentarista anónimo de la influyente Ecloga de Theodulus (siglo X) afirmaba en pocas palabras el significado del término *Ethyopium*: “Etíopes, esto es, pecadores.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>el determinante está mal. No es necesario sumar saltos de línea. Quedan los del original.
 Problematicemos "breakable".
 Graciosamente, el nombre del autor viene del encabezado y se coló en esta oración durante la conversión justo donde pasó desapercibido. Lo corregí en tu versión.</note>
@@ -829,6 +838,15 @@ buscar la cita de Otello </note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T195135Z" creationid="Lenovo" creationdate="20250819T171625Z">
         <seg>Estos son los antiguos monstruos, registrados por primera vez por los escritores griegos Ctesias y Megasthenes, e incluyen creaciones tan descabelladas como los pigmeos, los sciapodes (hombres con un solo pie grande con el que pueden saltar a gran velocidad o que pueden levantar sobre sus cuerpos recostados a modo de sombrilla de playa), los blemios ("hombres cuyas cabezas / crecen, de hecho, debajo de sus hombros", en palabras de Otello) y cinocéfalos, feroces hombres con cabeza de perro que, además, son antropófagos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These differences were quickly moralized through a pervasive rhetoric of deviance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250824T000304Z" creationid="Marina" creationdate="20250824T000304Z">
+        <seg>Estas diferencias fueron moralizadas rápidamente a través de una incisiva retórica de la desviación.
+</seg>
       </tuv>
     </tu>
     <tu>
