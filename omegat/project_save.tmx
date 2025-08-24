@@ -40,8 +40,8 @@
       <tuv lang="en-US">
         <seg>&lt;t0/&gt; History itself becomes a monster: defeaturing, self-deconstructive, always in danger of exposing the sutures that bind its disparate elements into a single, unnatural body.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250823T230139Z" creationid="Marina" creationdate="20250823T230139Z">
-        <seg>La historia misma se vuelve un monstruo: desfigurado, autodeconstructivo, siempre en peligro de exponer las suturas que unen sus elementos dispares en un solo cuerpo innatural. </seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250824T001524Z" creationid="Marina" creationdate="20250823T230139Z">
+        <seg>&lt;t0/&gt; La historia misma se vuelve un monstruo: desfigurado, autodeconstructivo, siempre en peligro de exponer las suturas que unen sus elementos dispares en un solo cuerpo innatural. </seg>
       </tuv>
     </tu>
     <tu>
@@ -231,11 +231,12 @@ Pensar "escrutinio" (Resuelto)</note>
       </tuv>
     </tu>
     <tu>
+      <note>'Monstruo' y 'Hombre' con mayúscula por ser figuras</note>
       <tuv lang="en-US">
         <seg>At the same time Richard moves between Monster and Man, the disturbing suggestion arises that this incoherent body, denaturalized and always in peril of disaggregation, may well be our own.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250823T230149Z" creationid="Marina" creationdate="20250823T230149Z">
-        <seg>Al mismo tiempo que Ricardo se movía entre el Monstruo y el Hombre, la sugestión alarmante plantea que este cuerpo incoherente, desnaturalizado y siempre en riesgo de disgregación puede claramente ser el nuestro.</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250824T001625Z" creationid="Marina" creationdate="20250823T230149Z">
+        <seg>Al mismo tiempo que Ricardo se mueve entre el Monstruo y el Hombre, la sugestión alarmante plantea que este cuerpo incoherente, desnaturalizado y siempre en riesgo de disgregación puede claramente ser el nuestro.</seg>
       </tuv>
     </tu>
     <tu>
