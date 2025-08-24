@@ -231,12 +231,12 @@ Pensar "escrutinio" (Resuelto)</note>
       </tuv>
     </tu>
     <tu>
-      <note>'Monstruo' y 'Hombre' con mayúscula por ser figuras</note>
+      <note>'monstruo' y 'hombre' con minúscula, tal como el caso de 'yeti', para sostener la decisión a lo largo del texto.</note>
       <tuv lang="en-US">
         <seg>At the same time Richard moves between Monster and Man, the disturbing suggestion arises that this incoherent body, denaturalized and always in peril of disaggregation, may well be our own.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250824T001625Z" creationid="Marina" creationdate="20250823T230149Z">
-        <seg>Al mismo tiempo que Ricardo se mueve entre el Monstruo y el Hombre, la sugestión alarmante plantea que este cuerpo incoherente, desnaturalizado y siempre en riesgo de disgregación puede claramente ser el nuestro.</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250824T001922Z" creationid="Marina" creationdate="20250823T230149Z">
+        <seg>Al mismo tiempo que Ricardo se mueve entre el monstruo y el hombre, la sugestión alarmante plantea que este cuerpo incoherente, desnaturalizado y siempre en riesgo de disgregación puede claramente ser el nuestro.</seg>
       </tuv>
     </tu>
     <tu>
