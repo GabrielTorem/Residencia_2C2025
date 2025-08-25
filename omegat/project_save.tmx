@@ -807,6 +807,22 @@ Graciosamente, el nombre del autor viene del encabezado y se coló en esta oraci
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>René Girard, &lt;f0&gt;The Scapegoat,&lt;/f0&gt; trans. Yvonne Freccero (Baltimore: Johns Hopkins University Press, 1986), 33.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250825T144930Z" creationid="Lenovo" creationdate="20250825T144930Z">
+        <seg>René Girard, &lt;f0&gt;The Scapegoat (El chivo expiatorio),&lt;/f0&gt; trad. Yvonne Freccero (Baltimore: Johns Hopkins University Press, 1986), 33.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Edward Said, &lt;f0&gt;Orientalism&lt;/f0&gt; (New York: Pantheon, 1978); Henry Louis Gates Jr., &lt;f1&gt;The Signifying Monkey: A Theory of Afro-American Literature&lt;/f1&gt; (New York: Oxford University Press, 1988).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250825T144717Z" creationid="Lenovo" creationdate="20250825T144717Z">
+        <seg>Consultar Edward Said, &lt;f0&gt;Orientalism [Orientalismo]&lt;/f0&gt; (Nueva York: Pantheon, 1978); Henry Louis Gates Jr., The Signifying Monkey: A Theory of Afro-American Literature [El mono significativo: una teoría de la crítica literaria afroamericana] (Nueva York: Oxford University Press, 1988).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See Giraldus Cambrensis, &lt;f0&gt;Topographia Hibernae (The History and Topography of Ireland),&lt;/f0&gt; trans. John J. O’Meara (Atlantic Highlands, N.J.: Humanities Press, 1982), 24.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250825T144340Z" creationid="Lenovo" creationdate="20250825T144340Z">
