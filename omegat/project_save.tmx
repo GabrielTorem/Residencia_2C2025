@@ -65,8 +65,8 @@
       <tuv lang="en-US">
         <seg>&lt;t0/&gt; The monster’s body quite literally incorporates fear, desire, anxiety, and fantasy (ataractic or incendiary), giving them life and an uncanny independence.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20250819T105344Z" creationid="solca" creationdate="20250818T234716Z">
-        <seg>&lt;t0/&gt;El cuerpo del monstruo incorpora literalmente el miedo, el deseo, la ansiedad y la fantasía (sedante o incendiaria), dándoles vida y una independencia inquietante.</seg>
+      <tuv lang="es-ES" changeid="solca" changedate="20250825T234956Z" creationid="solca" creationdate="20250818T234716Z">
+        <seg>&lt;t0/&gt;El cuerpo del monstruo incorpora literalmente el miedo, el deseo, la ansiedad y la fantasía (ataráxico o incendiaria), dándoles vida y una independencia inquietante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -316,8 +316,8 @@ Pensar "escrutinio" (Resuelto)</note>
       <tuv lang="en-US">
         <seg>Behead the corpse, so that, acephalic, it will not know itself as subject, only as pure body.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20250818T234612Z" creationid="solca" creationdate="20250818T234612Z">
-        <seg>Decápitalo, para que, acéfalo, no pueda reconocerse como sujeto, sino únicamente como cuerpo puro.</seg>
+      <tuv lang="es-ES" changeid="solca" changedate="20250825T234649Z" creationid="solca" creationdate="20250818T234612Z">
+        <seg>Decapitar el cadáver, para que, acéfalo, no pueda reconocerse como sujeto, sino únicamente como cuerpo puro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1129,8 +1129,8 @@ buscar la cita de Otello </note>
       <tuv lang="en-US">
         <seg>These epistemological spaces between the monster’s bones are Derrida’s familiar chasm of &lt;f2&gt;différance:&lt;/f2&gt; a genetic uncertainty principle, the essence of the monster’s vitality, the reason it always rises from the dissection table as its secrets are about to be revealed and vanishes into the night.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20250819T110013Z" creationid="solca" creationdate="20250819T000016Z">
-        <seg>Estos espacios epistemológicos entre los huesos del monstruo son el conocido abismo de la &lt;f2&gt;différance:&lt;/f2&gt; de Derrida: un principio de incertidumbre genética, la esencia de la vitalidad del monstruo, la razón por la que siempre se alza de la mesa de disección cuando sus secretos están a punto de ser revelados y desaparece en la noche.</seg>
+      <tuv lang="es-ES" changeid="solca" changedate="20250825T234729Z" creationid="solca" creationdate="20250819T000016Z">
+        <seg>Estos espacios epistemológicos entre los huesos del monstruo son el conocido abismo de la &lt;f2&gt;*différance*:&lt;/f2&gt; de Derrida: un principio de incertidumbre genética, la esencia de la vitalidad del monstruo, la razón por la que siempre se alza de la mesa de disección cuando sus secretos están a punto de ser revelados y desaparece en la noche.</seg>
       </tuv>
     </tu>
     <tu>
