@@ -38,3 +38,4 @@ monsterization	monstruización	B: Gentile, F: https://genero.institutos.filo.uba
 inversion	inversión	B: Gentile, F: https://www.memoria.fahce.unlp.edu.ar/programas/pp.11473/pp.11473.pdf
 Gilbert	Gilbert	B: Gentile, F: https://drive.google.com/file/d/18mw50NxMjr1dgM7b-mu_9bt61hNB2zoX/view?usp=sharing
 corpuscles	glóbulo, corpúsculo	B:Gentile, C:https://dictionary.cambridge.org/es/diccionario/ingles-espanol/corpuscle
+Topography of Ireland	Topografía de Irlanda	https://en.wikipedia.org/wiki/Topographia_Hibernica
