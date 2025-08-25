@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -429,6 +429,14 @@ La pasiva con "se" no lleva c. agente (Resuelto)</note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T193743Z" creationid="Lenovo" creationdate="20250819T155305Z">
         <seg>Garber escribe extensamente sobre la "crisis de categorías", a la cual define como "un fracaso de la distinción definicional, una frontera que se vuelve permeable, que permite cruzar de una categoría (aparentemente distinta) a otra: negro/blanco, judío/cristiano, noble/burgués, amo/sirviente, amo/esclavo.... </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Giraldus Cambrensis demonstrates just this slippage of the foreign in his &lt;f0&gt;Topography of Ireland;&lt;/f0&gt; when he writes of the Irish (ostensibly simply to provide information about them to a curious English court, but actually as a first step toward invading and colonizing the island), he observes:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250825T144137Z" creationid="Lenovo" creationdate="20250825T144137Z">
+        <seg>Giraldus Cambrensis ilustra precisamente la deficiencia de lo extranjero en su &lt;f0&gt;Topografía de Irlanda;&lt;/f0&gt; al escribir sobre los irlandeses (en apariencia, solo para brindar información sobre ellos a una corte inglesa curiosa, pero en realidad como primer paso para invadir y colonizar la isla), el autor observa:  </seg>
       </tuv>
     </tu>
     <tu>
@@ -1031,12 +1039,28 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Through all of these monsters the boundaries between personal and national bodies blur.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250825T142823Z" creationid="Lenovo" creationdate="20250825T142823Z">
+        <seg>A través de todos estos monstruos se difuminan las fronteras entre los cuerpos personales y nacionales. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Hay un elemento cohesivo que quitás (Modificado)</note>
       <tuv lang="en-US">
         <seg>Thus the superiority of Joan Copjec’s “Vampires, Breast-feeding, and Anxiety,” October 58 (Fall 1991): 25-43, to Paul Barber’s &lt;f0&gt;Vampires, Burial, and Death: Folklore and Reality&lt;/f0&gt; (New Haven, Conn.: Yale University Press, 1988).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250822T135234Z" creationid="Marina" creationdate="20250815T011935Z">
         <seg>Por lo tanto, se observa la superioridad de “Vampires, Breast-feeding, and Anxiety”, de Joan Copjec, Octubre 58 (otoño de 1991): 25-43, frente a &lt;f0&gt;Vampires, Burial, and Death: Folklore and Reality&lt;/f0&gt; de Paul Barber (New Haven, Conn.: Yale University Press, 1988).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To complicate this category confusion further, one kind of alterity is often written as another, so that national difference (for example) is transformed into sexual difference.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250825T142909Z" creationid="Lenovo" creationdate="20250825T142909Z">
+        <seg>Para complicar aún más la confusión de categorías, a menudo un tipo de alteridad es escrito como otro, de modo que la diferencia nacional (por ejemplo) se transforma en diferencia sexual. </seg>
       </tuv>
     </tu>
     <tu>
