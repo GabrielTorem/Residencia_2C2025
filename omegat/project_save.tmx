@@ -121,6 +121,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>discrete: ver sentido. El original traduce mal del latín.</note>
       <tuv lang="en-US">
         <seg>&lt;t5/&gt; This strange creature, a composite of the supposedly discrete categories “male” and “female,” arrives before King Louis to validate heterosexuality over homosexuality, with its supposed inversions and transformations (“Equa fit equus,” one Latin writer declared; “The horse becomes a mare”).</seg>
       </tuv>
@@ -130,6 +131,8 @@
       </tuv>
     </tu>
     <tu>
+      <note>¿Por qué normalizás el vocabulario? Discutámoslo.
+Invertir S y P. Veamos lo de los  tiempos que señalabas más arriba.</note>
       <tuv lang="en-US">
         <seg>&lt;t6/&gt; The strange dog-headed monster is a living excoriation of gender ambiguity and sexual abnormality, as Vincent’s cultural moment defines them: heteronormalization incarnate.</seg>
       </tuv>
@@ -1297,6 +1300,7 @@ no me gusta cómo tradujiste ordained </note>
       </tuv>
     </tu>
     <tu>
+      <note>pensar suj. expr.</note>
       <tuv lang="en-US">
         <seg>… He embodied the punishment earned by those who violate sexual taboos.</seg>
       </tuv>
