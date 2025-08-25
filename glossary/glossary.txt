@@ -39,3 +39,5 @@ inversion	inversión	B: Gentile, F: https://www.memoria.fahce.unlp.edu.ar/progra
 Gilbert	Gilbert	B: Gentile, F: https://drive.google.com/file/d/18mw50NxMjr1dgM7b-mu_9bt61hNB2zoX/view?usp=sharing
 corpuscles	glóbulo, corpúsculo	B:Gentile, C:https://dictionary.cambridge.org/es/diccionario/ingles-espanol/corpuscle
 Topography of Ireland	Topografía de Irlanda	https://en.wikipedia.org/wiki/Topographia_Hibernica
+Venn diagram	diagrama de Venn	https://www.scielo.org.mx/scielo.php?pid=S1870-00632019000300063&script=sci_arttext
+Venn diagram	diagrama de Venn	https://www.scielo.org.mx/scielo.php?pid=S1870-00632019000300063&script=sci_arttext
