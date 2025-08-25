@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -299,6 +299,7 @@ Pensar "escrutinio" (Resuelto)</note>
       </tuv>
     </tu>
     <tu>
+      <note>editors no son editores en español, son compiladores.</note>
       <tuv lang="en-US">
         <seg>Bruno Roy, “En marge du monde connu: Les races de monstres,” in &lt;f0&gt;Aspects de la marginalité au Moyen Age,&lt;/f0&gt; ed. Guy-H Allard.</seg>
       </tuv>
@@ -881,6 +882,8 @@ Graciosamente, el nombre del autor viene del encabezado y se coló en esta oraci
       </tuv>
     </tu>
     <tu>
+      <note>No normalices, en lo posible, el vocabulario elaborado, como "descanting", "painting over", que produce una atmósfera.
+coloc: demostrar en ... esplendor </note>
       <tuv lang="en-US">
         <seg>The almost obsessive descanting on Richard from Polydor Vergil in the Renaissance to the Friends of Richard III Incorporated in our own era demonstrates the process of “monster theory” at its most active: culture gives birth to a monster before our eyes, painting over the normally proportioned Richard who once lived, raising his shoulder to deform simultaneously person, cultural response, and the possibility of objectivity.</seg>
       </tuv>
