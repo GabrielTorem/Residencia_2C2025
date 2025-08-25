@@ -204,6 +204,7 @@ Hay un diacrítico mal usado.
       </tuv>
     </tu>
     <tu>
+      <note>estructura.</note>
       <tuv lang="en-US">
         <seg>According to the Greek myth of Phaéton, the denizens of mysterious and uncertain Ethiopia were black because they had been scorched by the too-close passing of the sun.</seg>
       </tuv>
@@ -431,6 +432,7 @@ La pasiva con "se" no lleva c. agente (Resuelto)</note>
       </tuv>
     </tu>
     <tu>
+      <note>s. XX es la norma.</note>
       <tuv lang="en-US">
         <seg>From the classical period into the twentieth century, race has been almost as powerful a catalyst to the creation of monsters as culture, gender, and sexuality.</seg>
       </tuv>
@@ -1067,6 +1069,7 @@ buscar la cita de Otello </note>
       </tuv>
     </tu>
     <tu>
+      <note>pervasive =? incisiva</note>
       <tuv lang="en-US">
         <seg>These differences were quickly moralized through a pervasive rhetoric of deviance.</seg>
       </tuv>
