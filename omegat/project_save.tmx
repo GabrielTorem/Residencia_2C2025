@@ -532,6 +532,14 @@ Estás quitando un enfatizador / o matizador (Modificado) </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Ibid., 21-22.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250825T165128Z" creationid="Lenovo" creationdate="20250825T165128Z">
+        <seg>Ibíd., 21-22.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>no incluir más de una opción por entrada de glosario.
 La referencia de "lamia" requiere usuario y contraseña.
 no  es lo mismo glóbulo  que corpúsculo (Resuelto)
@@ -1258,6 +1266,14 @@ Ayúdenme a pensar si "Yeti" va con mayúscula. (Resuelto: en min)
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T194458Z" creationid="Lenovo" creationdate="20250819T164020Z">
         <seg>(Todo lo que cruza la frontera, como las travestis) siempre funcionará a modo de mecanismo de sobredeterminación: un mecanismo de desplazamiento desde una límite difuso a otro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>the potential for the system to differ from its own difference, in other words not to be different at all, to cease to exist as a system.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250825T165217Z" creationid="Lenovo" creationdate="20250825T165217Z">
+        <seg>El potencial del Sistema para diferir de su propia diferencia, en otras palabras, para no ser diferente en absoluto y dejar de existir como sistema. </seg>
       </tuv>
     </tu>
     <tu>
