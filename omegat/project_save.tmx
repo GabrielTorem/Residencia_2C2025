@@ -450,7 +450,9 @@ La pasiva con "se" no lleva c. agente (Resuelto)</note>
       <note>Verlag significa editorial. Es un error del original, que podemos enmendar.
 Pensar la traducción de gendered por sexuado. Puede estar bien, pero vale  problematizarlo. No concordar plurales en construcciones de N+OI.
 
-El comentario sobre los asteriscos vale para los casos en que el original no estuviera en cursiva;  en este caso, sabemos que está en cursiva viendo el texto fuera del programa o, más fácilmente orientándonos por los tags.</note>
+El comentario sobre los asteriscos vale para los casos en que el original no estuviera en cursiva;  en este caso, sabemos que está en cursiva viendo el texto fuera del programa o, más fácilmente orientándonos por los tags.
+
+Excelente la fuente de Monstruización.</note>
       <tuv lang="en-US">
         <seg>I am hinting here at the possibility of a feminist recuperation of the gendered monster by citing the titles of two famous books about Lilith (a favorite figure in feminist writing): Jacques Bril’s &lt;f0&gt;Lilith, ou, La Mere obscure&lt;/f0&gt; (Paris: Payot, 1981), and Siegmund Hurwitz’s &lt;f1&gt;Lilith, die erste Eva: Eine Studie uber dunkle Aspekte des Weiblichen&lt;/f1&gt; (Zurich: Daimon Verlag, 1980).</seg>
       </tuv>
@@ -1148,6 +1150,14 @@ Corpus pdf: https://drive.google.com/drive/folders/1MeQ75-wyBg2Fq2b0VS0tMA5E_JzF
       </tuv>
     </tu>
     <tu>
+      <note>Los apellidos no van a glosario. Lo podés quitar editando el txt de tu carpeta, al que accedés desde el menú Project. Luego me confirmás si las modificaciones se actualizan correctamente.
+
+Both... as... No siempre es tanto... como. A veces, una conjunción ayuda a desmontar un original muy verboso y confuso.
+"his" se contrapone a  "her", y por eso las comillas. Las palabras entre paréntesis  no son malas palabras.
+
+Quedó toda muy verbosa.
+
+no me gusta cómo tradujiste ordained </note>
       <tuv lang="en-US">
         <seg>“The monster-woman, threatening to replace her angelic sister, embodies intransigent female autonomy and thus represents both the author’s power to allay ‘his’ anxieties by calling their source bad names (witch, bitch, fiend, monster) and simul- taneously, the mysterious power of the character who refuses to stay in her textually ordained ‘place’ and thus generates a story that ‘gets away’ from its author.” Sandra M. Gilbert and Susan Gubar, &lt;f0&gt;The Madwoman in the Attic: The Woman Writer and the Nineteenth Century Literary Imagination&lt;/f0&gt; (New Haven, Conn.: Yale University Press, 1984), 28.</seg>
       </tuv>
