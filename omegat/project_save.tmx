@@ -387,6 +387,14 @@ Hay una conc. excesiva "en la Royal..."
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Difference that exists outside the system is terrifying because it reveals the truth of the system, its relativity, its fragility, and its mortality.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250825T165310Z" creationid="Lenovo" creationdate="20250825T165310Z">
+        <seg>La diferencia que existe por fuera del sistema es aterradora ya que revela la verdad del sistema, su relatividad, su fragilidad y su mortalidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>me interesa ver "labeled"</note>
       <tuv lang="en-US">
         <seg>Discourse extracting a transcultural, transtemporal phenomenon labeled “the vampire” is of rather limited utility; even if vampiric figures are found almost worldwide, from ancient Egypt to modern Hollywood, each reappearance and its analysis is still bound in a double act of construction and reconstitution.</seg>
@@ -1354,6 +1362,14 @@ no me gusta cómo tradujiste ordained </note>
       <tuv lang="es-ES" changeid="Marina" changedate="20250824T200148Z" creationid="Marina" creationdate="20250824T012507Z">
         <seg>"La mujer-monstruo, amenazando con reemplazar a su hermana angelical, encarna la autonomía femenina intransigente y, de este modo, representa tanto el poder del autor para aliviar 'sus' ansiedades insultando a su fuente con malas palabras (bruja, zorra, demonio, monstruo) como, de forma simultánea, el misterioso poder del personaje que se niega a permanecer en su 'lugar' ordenado del texto y, por lo tanto, genera una historia que 'escapa' de su autor". Sandra M. Gilbert y Susan Gubar, &lt;f0&gt;*La loca del desván: La escritora y la imaginación literaria del siglo XIX*&lt;/f0&gt;  (Madrid: Ediciones Cátedra, 1998), 43.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>… Despite what is said around us persecutors are never obsessed with difference but rather by its unutterable contrary, the lack of difference.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250825T165317Z" creationid="Lenovo" creationdate="20250825T165317Z">
+        <seg>… A pesar de lo que se afirma a nuestro alrededor, los persecutores nunca están obsesionados con la diferencia, sino más bien con su impronunciable opuesto, la falta de diferencia. </seg>
       </tuv>
     </tu>
     <tu>
