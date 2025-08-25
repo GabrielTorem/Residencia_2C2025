@@ -41,3 +41,4 @@ corpuscles	glóbulo, corpúsculo	B:Gentile, C:https://dictionary.cambridge.org/e
 Topography of Ireland	Topografía de Irlanda	https://en.wikipedia.org/wiki/Topographia_Hibernica
 Venn diagram	diagrama de Venn	https://www.scielo.org.mx/scielo.php?pid=S1870-00632019000300063&script=sci_arttext
 Venn diagram	diagrama de Venn	https://www.scielo.org.mx/scielo.php?pid=S1870-00632019000300063&script=sci_arttext
+Hegelian master/slave dialectic	dialéctica hegeliana	chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://perio.unlp.edu.ar/catedras/wp-content/uploads/sites/129/2020/05/clase-Melamed-Hegel-Dial%C3%A9ctica-e-historia-en-el-idealismo_copy.pdf
