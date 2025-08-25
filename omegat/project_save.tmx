@@ -942,6 +942,8 @@ coloc: demostrar en ... esplendor </note>
       </tuv>
     </tu>
     <tu>
+      <note>collection: false  cognate.
+colocación: impetus</note>
       <tuv lang="en-US">
         <seg>The difficult project of constructing and maintaining gender identities elicits an array of anxious responses throughout culture, producing another impetus to teratogenesis.</seg>
       </tuv>
@@ -1025,6 +1027,10 @@ coloc: demostrar en ... esplendor </note>
       </tuv>
     </tu>
     <tu>
+      <note>ojo, es obscuré, oscurecida. Debemos acordar si traducimos las frases en otros idiomas. Más arriba no lo hiciste.
+Generaré un documento de Acuerdos generales aquí mismo.
+
+La fuente de Weird nos remite solo al texto en castellano. Está bien igual. El glosario se modifica accediendo al txt.</note>
       <tuv lang="en-US">
         <seg>The woman who oversteps the boundaries of her gender role risks becoming a Scylla, Weird Sister, Lilith (“die erste Eva,” “la mére obscuré”),&lt;t1/&gt; Bertha Mason, or Gorgon.</seg>
       </tuv>
