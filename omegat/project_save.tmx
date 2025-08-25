@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -442,6 +442,14 @@ La pasiva con "se" no lleva c. agente (Resuelto)</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Giraldus creates a vision of monstrous gender (aberrant, demonstrative): the violation of the cultural codes that valence gendered behaviors creates a rupture that must be cemented with (in this case) the binding, corrective mortar of English normalcy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250825T145225Z" creationid="Lenovo" creationdate="20250825T145225Z">
+        <seg>Giraldus crea una visión que se condice con el género monstruoso (aberrante, demostrativa): la violación de los códigos culturales en cuanto a los comportamientos de género acordados introduce una ruptura que debe ser cementada con (en este caso) los morteros cohesivos, correctivos de la normalidad inglesa. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Harvey R. Greenberg, “Reimaging the Gargoyle: Psychoanalytic Notes on &lt;f0&gt;Alien&lt;/f0&gt;,” in &lt;f1&gt;Close Encounters: Film, Feminism, and Science Fiction,&lt;/f1&gt; ed. Constance Penley, Elisabeth Lyon, Lynn Spigel, and Janet Bergstrom (Minneapolis: University of Minnesota Press, 1991), 90-91.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T193226Z" creationid="Lenovo" creationdate="20250819T154053Z">
@@ -784,6 +792,14 @@ escribe HG </note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T153648Z" creationid="Lenovo" creationdate="20250817T162904Z">
         <seg>Sobre la terrorífica criatura a la que Ridley Scott dio vida en &lt;f0&gt;Alien,&lt;/f0&gt; Harvey Greenberg escribe: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One kind of inversion becomes another as Giraldus deciphers the alphabet of Irish culture—and reads it backwards, against the norm of English masculinity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250825T145129Z" creationid="Lenovo" creationdate="20250825T145129Z">
+        <seg>Un tipo de inversión se convierte en otro a medida que Giraldus descifra el &lt;f0&gt;abc&lt;/f0&gt; de la cultura irlandesa (y la lee en reversa, en contraste con la norma de masculinidad inglesa). </seg>
       </tuv>
     </tu>
     <tu>
