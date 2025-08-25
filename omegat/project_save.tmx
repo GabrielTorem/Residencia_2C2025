@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1076,19 +1076,33 @@ Ayúdenme a pensar si "Yeti" va con mayúscula. (Resuelto: en min)
       </tuv>
     </tu>
     <tu>
-      <note>Hola, Gabriel: 
+      <note>Sobre este framgento: pensemos la opción de "recto".
+Abajo las respuestas a tus comentarios.
 
-Dejo notas en este espacio ya que, al colocarlas en el segmento correspondiente, se activa un hipervínculo incorrecto que no sé cómo desactivar. 
+Hola, Gabriel: 
+Dejo notas en este espacio ya que, al colocarlas en el segmento correspondiente, se activa un hipervínculo incorrecto que no sé cómo desactivar. . 
+
+Es correcto. Este es el espacio para las notas.
 
 -Resolví dejar la estructura "esto es" para representar la fórmula típica de la exégesis medieval, porque imita el "id est" latino, frecuente en glosas.
 
+Correcto.
+
 -Sostengo el verbo en presente "es" ya que, al tiempo de su publicación, la reina Isabel aún vivía.
+
+Buena observación. Podemos discutir, pensando en el horizonte de lectura, si amerita una nota.
 
 -Sostengo el verbo en presente "escribe" ya que, al tiempo de su publicación, Bruno Roy aún vivía.
 
--El ejemplar de título "Speculum naturale" mantiene su mismo título en cursiva. No tiene una traducción definida (entre espéculo y espejo), por lo que decidí dejar la cita tal cual como la del texto original. Fuente: https://www.unmeditora.unm.edu.ar/files/cegopp_digital.pdf
+Lo mismo.
+
+-El ejemplar de título "Speculum naturale" mantene su mismo título en cursiva. No tiene una traducción definida (entre espéculo y espejo), por lo que decidí dejar la cita tal cual como la del texto original. Fuente: https://www.unmeditora.unm.edu.ar/files/cegopp_digital.pdf
+Es una frase latina. No tendría por qué alterarse.
 
 -'monstruo' y 'hombre' con minúscula, tal como el caso de 'yeti', para sostener la decisión a lo largo del texto.
+Acá habrá que llegar a un acuerdo. No es lo que decidió Marina la semana pasada. Le pedí que lo investigara un poco más para cerciorarnos de su decisión. Ctrl+F teniendo  la palabra pintada te devuelve las traducciones hechas hasta ahora. Veo que no está en glosario. Te sugiero que la insertes, con una aclaración sobre el uso de mayúsculas en la caja de Remarks.
+
+
 
 -Según Plinio: 
 Etíope: «de rostro quemado», negro. Diversos pueblos etíopes aparecen citados en Plinio (libros II, V y VI). 
@@ -1097,6 +1111,9 @@ Libro V, P. 183.
 
 
 Corpus pdf: https://drive.google.com/drive/folders/1MeQ75-wyBg2Fq2b0VS0tMA5E_JzFmo9X?usp=sharing
+¡Qué bueno esto!  Gracias por este corpus.
+
+
 </note>
       <tuv lang="en-US">
         <seg>“A portrait now in the Society of Antiquaries of London, painted about 1505, shows a Richard with straight shoulders.</seg>
