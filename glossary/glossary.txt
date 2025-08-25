@@ -45,3 +45,4 @@ Hegelian master/slave dialectic	dialéctica hegeliana	chrome-extension://efaidnb
 agitprop	propaganda de agitación política	https://www.lisanews.org/internacional/que-es-la-propaganda-de-agitacion-politica-o-agitprop/
 ex nihilo	ex nihilo	https://www.rae.es/dpd/ex%20nihilo
 Lilith	Lilith	Macarena: https://es.wikipedia.org/wiki/Lilit
+intransigent	Macarena intransigente	https://dictionary.cambridge.org/es/diccionario/ingles-espanol/intransigent
