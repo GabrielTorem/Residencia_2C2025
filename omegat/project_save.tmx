@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -56,8 +56,8 @@
       <tuv lang="en-US">
         <seg>&lt;t0/&gt; One kind of difference becomes another as the normative categories of gender, sexuality, national identity, and ethnicity slide together like the imbricated circles of a Venn diagram, abjecting from the center that which becomes the monster.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250825T145414Z" creationid="Lenovo" creationdate="20250825T145414Z">
-        <seg>Un tipo de diferencia se convierte en otro a medida que las categorías normativas de género, sexualidad, identidad nacional y origen étnico se superponen como los círculos de un diagrama de Venn y expulsan del centro, por abyecto, a aquel que se convierte en monstruo.</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250825T163557Z" creationid="Lenovo" creationdate="20250825T145414Z">
+        <seg>Un tipo de diferencia se convierte en otro a medida que las categorías normativas de género, sexualidad, identidad nacional y origen étnico se deslizan una sobre otra como los círculos de un diagrama de Venn superpuestos y expulsan del centro, por abyecto, a aquel que se convierte en el monstruo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1141,8 +1141,8 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
       <tuv lang="en-US">
         <seg>This violent foreclosure erects a self-validating, Hegelian master/slave dialectic that naturalizes the subjugation of one cultural body by another by writing the body excluded from personhood and agency as in every way different, monstrous.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250825T150202Z" creationid="Lenovo" creationdate="20250825T150202Z">
-        <seg>Esta expulsión violenta instaura una dialéctica hegeliana de amo y esclavo que se legitima a sí misma y naturaliza la subordinación de un cuerpo cultural a otro; la cultura que subyuga escribe sobre el cuerpo subyugado como algo monstruoso, excluido de toda condición de persona y voluntad, debido a que es diferente en todos los aspectos. </seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250825T163320Z" creationid="Lenovo" creationdate="20250825T150202Z">
+        <seg>Dicha expulsión violenta instaura una dialéctica hegeliana de amo y esclavo que se legitima a sí misma y naturaliza la subordinación de un cuerpo cultural a otro; la cultura que subyuga escribe sobre el cuerpo subyugado como algo monstruoso, excluido de toda condición de persona y voluntad, debido a que es diferente en todos los aspectos. </seg>
       </tuv>
     </tu>
     <tu>
