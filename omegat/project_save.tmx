@@ -1021,6 +1021,14 @@ colocación: impetus</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The flames devour the Jews of thirteenth-century England, who stole children from proper families and baked seder matzo with their blood; as a menace to the survival of English race and culture, they were expelled from the country and their property confiscated.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250826T003500Z" creationid="solca" creationdate="20250826T003500Z">
+        <seg>Las llamas devoran a los judíos de la Inglaterra del siglo XIII, quienes, se decía, robaban niños de sus familias y preparaban matzá de pascua con su sangre. Dado que se los consideraba una amenaza para la supervivencia de la raza y la cultura inglesas, fueron expulsados del país y confiscaron sus propiedades. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Me parece que hay un error en el original en "naturale", ¿Podrías verificarlo por favor? Naturae sería más lógico.</note>
       <tuv lang="en-US">
         <seg>The great medieval encyclopedist Vincent of Beauvais describes the visit of a hermaphroditic cynocephalus to the French court in his &lt;f3&gt;Speculum naturale&lt;/f3&gt; (31.126).</seg>
