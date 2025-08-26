@@ -217,6 +217,7 @@ Hay un diacrítico mal usado.
       </tuv>
     </tu>
     <tu>
+      <note>quedó muy confusa.</note>
       <tuv lang="en-US">
         <seg>A polysemy is granted so that a greater threat can be encoded; multiplicity of meanings, paradoxically, iterates the same restricting, agitprop representations that narrowed signification performs.</seg>
       </tuv>
@@ -1367,6 +1368,8 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
       </tuv>
     </tu>
     <tu>
+      <note>... cultural a...:  está mal la prep.
+Buen intento de parafrasear, pero se fue el sentido.</note>
       <tuv lang="en-US">
         <seg>This violent foreclosure erects a self-validating, Hegelian master/slave dialectic that naturalizes the subjugation of one cultural body by another by writing the body excluded from personhood and agency as in every way different, monstrous.</seg>
       </tuv>
@@ -1485,6 +1488,7 @@ Ayúdenme a pensar si "Yeti" va con mayúscula. (Resuelto: en min)
       </tuv>
     </tu>
     <tu>
+      <note>no tradujiste "as"</note>
       <tuv lang="en-US">
         <seg>Yet a danger resides in this multiplication: as difference, like a Hydra, sprouts two heads where one has been lopped away, the possibilities of escape, resistance, disruption arise with more force.</seg>
       </tuv>
