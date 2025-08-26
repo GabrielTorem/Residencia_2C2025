@@ -1341,6 +1341,14 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>We distrust and loathe the monster at the same time we envy its freedom, and perhaps its sublime despair.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250826T012908Z" creationid="solca" creationdate="20250826T012908Z">
+        <seg>Desconfiamos y aborrecemos al monstruo al mismo tiempo que envidiamos su libertad, y quizás su sublime desesperación. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Unified Theory es para glosario
 Coincido con tu traducción del paréntesis, pero problematicémoslo.</note>
       <tuv lang="en-US">
