@@ -229,6 +229,14 @@ Hay un diacrítico mal usado.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Among the flames we see the old women of Salem hanging, accused of sexual relations with the black devil; we suspect they died because they crossed a different border, one that prohibits women from managing property and living solitary, unmanaged lives.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250826T002403Z" creationid="solca" creationdate="20250826T002403Z">
+        <seg>Entre las llamas, vemos a las ancianas de Salem colgadas, acusadas de tener relaciones sexuales con el diablo negro; sospechamos que murieron porque cruzaron una frontera diferente: una que prohíbe que las mujeres administren propiedades y vivan vidas solitarias, sin que las controlen.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>comillas 
 afección (condición es calco)</note>
       <tuv lang="en-US">
