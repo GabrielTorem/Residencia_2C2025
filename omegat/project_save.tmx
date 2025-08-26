@@ -1073,6 +1073,14 @@ colocación: impetus</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The monster also attracts.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250826T012023Z" creationid="solca" creationdate="20250826T012023Z">
+        <seg>El monstruo también atrae.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Adj antepuesto</note>
       <tuv lang="en-US">
         <seg>The monster always escapes because it refuses easy categorization.</seg>
@@ -1154,6 +1162,14 @@ forcibly imported...</note>
       </tuv>
       <tuv lang="es-ES" changeid="solca" changedate="20250826T011632Z" creationid="solca" creationdate="20250826T011632Z">
         <seg>Sin embargo, lo reprimido parece que siempre regresa como el propio Freud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The same creatures who terrify and interdict can evoke potent escapist fantasies; the linking of monstrosity with the forbidden makes the monster all the more appealing as a temporary egress from constraint.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250826T012208Z" creationid="solca" creationdate="20250826T012208Z">
+        <seg>Las mismas criaturas que nos aterrorizan e imponen prohibiciones pueden evocar poderosas fantasías de escape;  la vinculación de la monstruosidad con lo prohibido hace que el monstruo sea aún más atractivo como una salida temporal de las restricciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1257,6 +1273,14 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T195740Z" creationid="Lenovo" creationdate="20250819T172757Z">
         <seg>El rechazo a participar del "orden de las cosas" clasificatorio puede aplicarse a todos los monstruos: son híbridos perturbadores cuyos cuerpos de apariencia incoherente resisten los intentos por incluirlos en cualquier tipo de estructrura sistémica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This simultaneous repulsion and attraction at the core of the monster’s composition accounts greatly for its continued cultural popularity, for the fact that the monster seldom can be contained in a simple, binary dialectic (thesis, antithesis… no synthesis).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250826T012326Z" creationid="solca" creationdate="20250826T012326Z">
+        <seg>Esta repulsión y atracción simultáneas en el núcleo de la composición del monstruo explican en gran medida su continua popularidad cultural, el hecho de que el monstruo rara vez pueda ser contenido en una dialéctica simple y binaria (tesis, antítesis... sin síntesis).</seg>
       </tuv>
     </tu>
     <tu>
