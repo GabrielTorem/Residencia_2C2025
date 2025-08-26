@@ -684,6 +684,8 @@ de Nuevo América</note>
       </tuv>
     </tu>
     <tu>
+      <note>Tenés que señalar fuente de la traducción o aclarar que es tuya.
+Negar con "ninguna"</note>
       <tuv lang="en-US">
         <seg>It is indeed a most filthy race, a race sunk in vice, a race more ignorant than all other nations of the first principles of faith.</seg>
       </tuv>
@@ -992,6 +994,7 @@ Graciosamente, el nombre del autor viene del encabezado y se coló en esta oraci
       </tuv>
     </tu>
     <tu>
+      <note>Sobre "consultar" unificar en el archivo "Comentarios.txt". Lo mismo, sobre las traducciones. Esta es una traducción del latín al inglés. Como lo señalaste está mal.</note>
       <tuv lang="en-US">
         <seg>See Giraldus Cambrensis, &lt;f0&gt;Topographia Hibernae (The History and Topography of Ireland),&lt;/f0&gt; trans. John J. O’Meara (Atlantic Highlands, N.J.: Humanities Press, 1982), 24.</seg>
       </tuv>
