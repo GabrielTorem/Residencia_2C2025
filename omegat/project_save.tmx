@@ -532,6 +532,7 @@ La pasiva con "se" no lleva c. agente (Resuelto)</note>
       </tuv>
     </tu>
     <tu>
+      <note>mortar no es un mortero como los que usamos para moler. </note>
       <tuv lang="en-US">
         <seg>Giraldus creates a vision of monstrous gender (aberrant, demonstrative): the violation of the cultural codes that valence gendered behaviors creates a rupture that must be cemented with (in this case) the binding, corrective mortar of English normalcy.</seg>
       </tuv>
@@ -941,6 +942,7 @@ escribe HG </note>
       </tuv>
     </tu>
     <tu>
+      <note>No se pueden insertar tags foráneos. La cursiva se hace añadiendo un asterisco al principio y al final.</note>
       <tuv lang="en-US">
         <seg>One kind of inversion becomes another as Giraldus deciphers the alphabet of Irish culture—and reads it backwards, against the norm of English masculinity.</seg>
       </tuv>
@@ -986,6 +988,7 @@ Graciosamente, el nombre del autor viene del encabezado y se coló en esta oraci
       </tuv>
     </tu>
     <tu>
+      <note>Lo mismo sobre las citas</note>
       <tuv lang="en-US">
         <seg>See Edward Said, &lt;f0&gt;Orientalism&lt;/f0&gt; (New York: Pantheon, 1978); Henry Louis Gates Jr., &lt;f1&gt;The Signifying Monkey: A Theory of Afro-American Literature&lt;/f1&gt; (New York: Oxford University Press, 1988).</seg>
       </tuv>
