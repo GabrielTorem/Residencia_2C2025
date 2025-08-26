@@ -239,6 +239,7 @@ Hay un diacrítico mal usado.
       </tuv>
     </tu>
     <tu>
+      <note>¿ancianas o viejas?</note>
       <tuv lang="en-US">
         <seg>Among the flames we see the old women of Salem hanging, accused of sexual relations with the black devil; we suspect they died because they crossed a different border, one that prohibits women from managing property and living solitary, unmanaged lives.</seg>
       </tuv>
@@ -296,6 +297,12 @@ Pensar "escrutinio" (Resuelto)</note>
       </tuv>
     </tu>
     <tu>
+      <note>American no es "americana".
+Mejorar "rutinariamente"
+coloc. tenerlas
+Occidente sin artículo. Unificar. Pero West acá no es Occidnte
+lugar de peligro no es una colocación feliz
+hay leísmo</note>
       <tuv lang="en-US">
         <seg>As the American frontier expanded beneath the banner of Manifest Destiny in the nineteenth century, tales circulated about how “Indians” routinely kidnapped white women to furnish wives for themselves; the West was a place of danger waiting to be tamed into farms, its menacing native inhabitants fit only to be dispossessed.</seg>
       </tuv>
@@ -1086,6 +1093,8 @@ colocación: impetus</note>
       </tuv>
     </tu>
     <tu>
+      <note>seder es palabra hebrea; la mantenemos.
+Mantememos el ";"</note>
       <tuv lang="en-US">
         <seg>The flames devour the Jews of thirteenth-century England, who stole children from proper families and baked seder matzo with their blood; as a menace to the survival of English race and culture, they were expelled from the country and their property confiscated.</seg>
       </tuv>
