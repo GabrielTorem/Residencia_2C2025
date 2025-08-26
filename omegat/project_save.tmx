@@ -1151,6 +1151,7 @@ Mantememos el ";"</note>
       </tuv>
     </tu>
     <tu>
+      <note>enforce no es reforzar</note>
       <tuv lang="en-US">
         <seg>The monster is continually linked to forbidden practices, in order to normalize and to enforce.</seg>
       </tuv>
@@ -1222,6 +1223,7 @@ forcibly imported...</note>
       </tuv>
     </tu>
     <tu>
+      <note>las restricciones no refleja bien "constraint"</note>
       <tuv lang="en-US">
         <seg>The same creatures who terrify and interdict can evoke potent escapist fantasies; the linking of monstrosity with the forbidden makes the monster all the more appealing as a temporary egress from constraint.</seg>
       </tuv>
