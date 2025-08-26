@@ -1,0 +1,7 @@
+En este documento incorporaremos comentarios. Para ello, "traduciremos" el fragmento que dice "Insertar comenntarios 'traduciendo aquí'. O respondiendo preguntas que voy dejando.
+El glosario solo puede modificarse desde el txt, en Project>Source Files.
+
+"Insertar comenntarios 'traduciendo aquí'.
+
+¿Traducimos las citas en otros idiomas?
+¿Situamos temporalmente la traducción a fecha de hoy o en el momento de producción del original? Hacemos nota para ello? Para insertar notas, añadimos [^N. de T.] y al finalizar el fragmento: [^N. de  T.:] <y nuestra nota>. Esto creará una nota tras una fácil conversión al final.
