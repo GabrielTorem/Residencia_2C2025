@@ -52,3 +52,4 @@ other	otro-alteridad	Macarena: https://dle.rae.es/alteridad?m=form
 Ecloga	égloga	Macarena: https://dle.rae.es/%C3%A9gloga#6HRHyqR
 Theodulus’s <f8>Ecloga	La égloga de Theodulus	Macarena: https://es.wikipedia.org/wiki/Ecloca_de_Theodulus
 miscegenation	mestizaje	Macarena: https://dictionary.cambridge.org/es/diccionario/ingles-espanol/miscegenation
+teratogenesis	teratogénesis	Macarena: https://dictionary.cambridge.org/es/diccionario/ingles/teratogenesis
