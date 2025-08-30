@@ -1524,13 +1524,15 @@ Ayúdenme a pensar si "Yeti" va con mayúscula. (Resuelto: en min)
       <tuv lang="en-US">
         <seg>¿Traducimos las citas en otros idiomas?</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250830T140813Z" creationid="Lenovo" creationdate="20250830T140813Z">
-        <seg>se debe empezar, pues, por el nombre de pila seguido de los apellidos (escritos de redondo
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250830T151139Z" creationid="Lenovo" creationdate="20250830T140813Z">
+        <seg>Se debe empezar, pues, por el nombre de pila seguido de los apellidos (escritos de redondo
 sin diacríticos), el título de la obra, el pie editorial (lugar de edición y editor,
 generalmente entre corchetes), el año y las páginas donde aparece el texto
 que se cita:
 4 Juan Gabriel López Guix y Jacqueline Minett Wilkinson: Manual de traducción:
-inglés/castellano [Barcelona: Gedisa], 1997, 235-298.</seg>
+inglés/castellano [Barcelona: Gedisa], 1997, 235-298. Si más adelante se cita al mismo autor y la misma o distinta obra, la grafía depende de cuál sea la realidad. Por
+ejemplo, si en la misma página, a continuación de la cita anterior, se hace otra cita bibliográfica del mismo autor y la misma obra, en la segunda se pone
+id. (ídem) para indicar que es el mis-mo autor, seguido de ib. (ibídem) (en ambos casos sin diacríticos, es decir, escrito en redondo) para indicar quees la misma obra, y a continuación la nueva página: 5 Ídem, ib., 252.</seg>
       </tuv>
     </tu>
     <tu>
