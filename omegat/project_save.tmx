@@ -114,6 +114,15 @@ https://drive.google.com/file/d/1XR_aCTt7QGOcPjn-SR0D9UT1j3QOUSSe/view?usp=shari
       </tuv>
     </tu>
     <tu>
+      <note>En el texto original, esta oración tiene un tag sin inicio.</note>
+      <tuv lang="en-US">
+        <seg>&lt;t2/&gt; The prototype in Western culture for this kind of “geographic” monster is Homer’s Polyphemos.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250831T204009Z" creationid="Marina" creationdate="20250831T204009Z">
+        <seg>&lt;t2/&gt; El prototipo en la cultura occidental para este tipo de monstruo geográfico es el Polifemo de Homero.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Rég. pr. de susceptible</note>
       <tuv lang="en-US">
         <seg>&lt;t2/&gt; “Deviant” sexual identity is similarly susceptible to monsterization.</seg>
@@ -212,6 +221,14 @@ hyerophant a glosario.</note>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250824T202440Z" creationid="Marina" creationdate="20250824T013640Z">
         <seg>Un cinocéfalo es un hombre con cabeza de perro, como San Cristóbal, descanonizado hace poco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A kind of herdsman, this monster delimits the social space through which cultural bodies may move, and in classical times (for example) validated a tight, hierarchical system of naturalized leadership and control where every man had a functional place.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250831T203940Z" creationid="Marina" creationdate="20250831T203940Z">
+        <seg>Como una suerte de guardián del rebaño, este monstruo delimita el espacio social por el que los cuerpos culturales pueden dirigirse, y, en tiempos clásicos (por ejemplo), validaban un sistema rígido y jerárquico de liderazgo naturalizado y control, donde cada hombre ocupaba un lugar funcional.</seg>
       </tuv>
     </tu>
     <tu>
