@@ -1496,6 +1496,14 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This dissociation from community leads to a rugged individualism that in Homeric terms can only be horrifying.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250831T204203Z" creationid="Marina" creationdate="20250831T204203Z">
+        <seg>Esta disociación de la comunidad lleva a un individualismo áspero que, en términos homéricos, solo puede ser horroroso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This refusal to participate in the classificatory “order of things” is true of monsters generally: they are disturbing hybrids whose externally incoherent bodies resist attempts to include them in any systematic structuration.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T195740Z" creationid="Lenovo" creationdate="20250819T172757Z">
