@@ -1364,6 +1364,15 @@ forcibly imported...</note>
       </tuv>
     </tu>
     <tu>
+      <note>En el texto original, esta oración tiene un tag sin inicio.</note>
+      <tuv lang="en-US">
+        <seg>The quintessential xenophobic rendition of the foreign (the barbaric—that which is unintelligible within a given cultural-linguistic system),&lt;t3/&gt; the Cyclopes are represented as savages who have not “a law to bless them” and who lack the techne to produce (Greek-style) civilization.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250831T204021Z" creationid="Marina" creationdate="20250831T204021Z">
+        <seg>Como rendición xenofóbica por excelencia del extranjero (el bárbaro—lo ininteligible dentro de un sistema cultural-lingüístico dado),&lt;t3/&gt; los cíclopes son representados como salvajes que no tienen “una ley que los bendiga” ni la técnica para producir la civilización (al estilo griego).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Reordenar; cambia el foco demasiado.</note>
       <tuv lang="en-US">
         <seg>The repressed, however, like Freud himself, always seems to return.</seg>
@@ -1408,6 +1417,15 @@ La fuente de Weird nos remite solo al texto en castellano. Está bien igual. El 
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250826T225705Z" creationid="Marina" creationdate="20250824T013441Z">
         <seg>El papel “peligroso” de la voluntad femenina en la gestación de monstruos también es explorado por Marie-Hélène Huet en &lt;f1&gt;Monstrous Imagination&lt;/f1&gt; (Cambridge: Harvard University Press, 1993).
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Their archaism is conveyed through their lack of hierarchy and of a politics of precedent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250831T204115Z" creationid="Marina" creationdate="20250831T204115Z">
+        <seg>Su arcaísmo se manifiesta mediante su ausencia de jerarquía y de una política basada en precedentes.
 </seg>
       </tuv>
     </tu>
