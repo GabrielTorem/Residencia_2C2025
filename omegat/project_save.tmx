@@ -1702,6 +1702,19 @@ Ayúdenme a pensar si "Yeti" va con mayúscula. (Resuelto: en min)
       </tuv>
     </tu>
     <tu>
+      <note>El texto original tiene tags sin inicio. 
+
+Extraje la cita de Foucault de la traducción del libro, p. 30: https://drive.google.com/file/d/11E3Oc2Q635kc9I8nozyKpevuHYU80kdw/view?usp=sharing
+
+Extraje la cita de Susan Stewart de la traducción de su libro, p. 166: https://drive.google.com/file/d/1XR_aCTt7QGOcPjn-SR0D9UT1j3QOUSSe/view?usp=sharing</note>
+      <tuv lang="en-US">
+        <seg>[to be] drawn out, revealed, isolated, intensified, incorporated, by multifarious power devices.”&lt;t4/&gt; Susan Stewart has observed that “the monster’s sexuality takes on a separate life”;&lt;t5/&gt; Foucault helps us to see why.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250831T205030Z" creationid="Marina" creationdate="20250831T205030Z">
+        <seg>[para ser] solidificados en ellos, mediante múltiples dispositivos de poder”.&lt;t4/&gt; Susan Stewart ha señalado que “la sexualidad del monstruo tiene una vida independiente”;&lt;t5/&gt; Foucault nos ayuda a ver el porqué.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Mirar el original. Sigue como cita. Empieza en minúsc.</note>
       <tuv lang="en-US">
         <seg>the potential for the system to differ from its own difference, in other words not to be different at all, to cease to exist as a system.</seg>
