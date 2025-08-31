@@ -29,6 +29,16 @@
       </tuv>
     </tu>
     <tu>
+      <note>Adjunto el link del capítulo "El cuerpo imaginario". El número de la página pertenece a tal traducción. 
+https://drive.google.com/file/d/1XR_aCTt7QGOcPjn-SR0D9UT1j3QOUSSe/view?usp=sharing</note>
+      <tuv lang="en-US">
+        <seg>&lt;/f0&gt; See especially “The Imaginary Body,” 104-31.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250831T203703Z" creationid="Marina" creationdate="20250831T203703Z">
+        <seg>Véase especialmente “El cuerpo imaginario”, p.166. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>&lt;/f5&gt; In each of these vampire stories, the undead returns in slightly different clothing, each time to be read against contemporary social movements or a specific, determining event: &lt;f6&gt;la décadence&lt;/f6&gt; and its new possibilities, homophobia and its hateful imperatives, the acceptance of new subjectivities unfixed by binary gender, a fin de siécle social activism paternalistic in its embrace.</seg>
       </tuv>
@@ -1095,6 +1105,15 @@ El ensayo "The Armour of an Alienating Identity" puede verse aquí: https://www.
       </tuv>
       <tuv lang="es-ES" changeid="solca" changedate="20250825T232922Z" creationid="solca" creationdate="20250818T232124Z">
         <seg>Aquí se recopilarán y unificarán algunos fragmentos temporalmente para formar una red vagamente integrada o, mejor aún, un híbrido no asimilado, un cuerpo monstruoso. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stewart, &lt;f0&gt;On Longing.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250831T203612Z" creationid="Marina" creationdate="20250831T203612Z">
+        <seg>Stewart, &lt;f0&gt;El ansia.
+</seg>
       </tuv>
     </tu>
     <tu>
