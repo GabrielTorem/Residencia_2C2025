@@ -1302,6 +1302,17 @@ Mantememos el ";"</note>
       </tuv>
     </tu>
     <tu>
+      <note>Esta cita pertenece a la traducción del texto de Foucault, la cual adjunto aquí: https://drive.google.com/file/d/11E3Oc2Q635kc9I8nozyKpevuHYU80kdw/view?usp=sharing, página 30.
+
+El original tiene un espacio antes del punto.</note>
+      <tuv lang="en-US">
+        <seg>The monster is a powerful ally of what Foucault calls “the society of the panopticon,” in which “polymorphous conducts [are] actually extracted from people’s bodies and from their pleasures .</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250831T204819Z" creationid="Marina" creationdate="20250831T204819Z">
+        <seg>El monstruo es un aliado poderoso de lo que Foucault llama “la sociedad del panóptico”, en la que “esos comportamientos polimorfos [son] realmente extraídos del cuerpo de los hombres y de sus placeres”. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The monster is born only at this metaphoric crossroads, as an embodiment of a certain cultural moment—of a time, a feeling, and a place.</seg>
       </tuv>
