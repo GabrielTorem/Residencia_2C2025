@@ -1320,14 +1320,14 @@ Mantememos el ";"</note>
       </tuv>
     </tu>
     <tu>
-      <note>Esta cita pertenece a la traducción del texto de Foucault, la cual adjunto aquí: https://drive.google.com/file/d/11E3Oc2Q635kc9I8nozyKpevuHYU80kdw/view?usp=sharing, página 30.
+      <note>[^1. de T.:] Traducción tomada de Ulises Guiñazú, Historia de la sexualidad, Foucault.  P.30: https://drive.google.com/file/d/11E3Oc2Q635kc9I8nozyKpevuHYU80kdw/view?usp=sharing, página 30.
 
 El original tiene un espacio antes del punto.</note>
       <tuv lang="en-US">
         <seg>The monster is a powerful ally of what Foucault calls “the society of the panopticon,” in which “polymorphous conducts [are] actually extracted from people’s bodies and from their pleasures .</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250831T204819Z" creationid="Marina" creationdate="20250831T204819Z">
-        <seg>El monstruo es un aliado poderoso de lo que Foucault llama “la sociedad del panóptico”, en la que “esos comportamientos polimorfos [son] realmente extraídos del cuerpo de los hombres y de sus placeres”. </seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250831T210953Z" creationid="Marina" creationdate="20250831T204819Z">
+        <seg>El monstruo es un aliado poderoso de lo que Foucault llama “la sociedad del panóptico”, en la que “esos comportamientos polimorfos [son] realmente extraídos del cuerpo de los hombres y de sus placeres”[^1. de T.]. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1722,14 +1722,14 @@ Ayúdenme a pensar si "Yeti" va con mayúscula. (Resuelto: en min)
     <tu>
       <note>El texto original tiene tags sin inicio. 
 
-Extraje la cita de Foucault de la traducción del libro, p. 30: https://drive.google.com/file/d/11E3Oc2Q635kc9I8nozyKpevuHYU80kdw/view?usp=sharing
+[^2. de T.:] Traducción tomada de Ulises Guiñazú, Historia de la sexualidad, Foucault. P. 30: https://drive.google.com/file/d/11E3Oc2Q635kc9I8nozyKpevuHYU80kdw/view?usp=sharing
 
-Extraje la cita de Susan Stewart de la traducción de su libro, p. 166: https://drive.google.com/file/d/1XR_aCTt7QGOcPjn-SR0D9UT1j3QOUSSe/view?usp=sharing</note>
+[^3. de T.:] Traducción tomada de Adriana Astutti, El ansia, Susan Stewart. P. 166: https://drive.google.com/file/d/1XR_aCTt7QGOcPjn-SR0D9UT1j3QOUSSe/view?usp=sharing</note>
       <tuv lang="en-US">
         <seg>[to be] drawn out, revealed, isolated, intensified, incorporated, by multifarious power devices.”&lt;t4/&gt; Susan Stewart has observed that “the monster’s sexuality takes on a separate life”;&lt;t5/&gt; Foucault helps us to see why.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250831T205208Z" creationid="Marina" creationdate="20250831T205030Z">
-        <seg>[para ser] solidificados en ellos, mediante múltiples dispositivos de poder”.&lt;t4/&gt; Susan Stewart ha señalado que “la sexualidad del monstruo tiene una vida independiente”;&lt;t5/&gt; Foucault nos ayuda a entender por qué.</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250831T211105Z" creationid="Marina" creationdate="20250831T205030Z">
+        <seg>[para ser] solidificados en ellos, mediante múltiples dispositivos de poder”[^2. de T.]&lt;t4/&gt; Susan Stewart ha señalado que “la sexualidad del monstruo tiene una vida independiente”[^3. de T.];&lt;t5/&gt; Foucault nos ayuda a entender por qué.</seg>
       </tuv>
     </tu>
     <tu>
