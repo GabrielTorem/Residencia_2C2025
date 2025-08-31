@@ -58,3 +58,5 @@ Maénnerbunde	männerbünde	B: Gentile, F: https://es.wikipedia.org/wiki/M%C3%A4
 Michigan	Michigan	B: Gentile, F: https://www.kalcounty.gov/DocumentCenter/View/4376/Kalamazoo-County-Taps-Dell-Darnell-as-DEI-Director-Spanish---PDF - Tener en cuenta que si es sólo el nombre en español del estado, según la RAE, es Míchigan (con tilde).
 Medieval	Medieval	B: Gentile, F: https://drive.google.com/file/d/17z4XpMKiu18bvmV3MIZ3-koDWaWixBpb/view?usp=sharing   - 3/3
 interscripta	Interscripta	B: Gentile, F: https://drive.google.com/file/d/1jWWM2ZXbItDfjUU7voNAXi7fxfirNSGl/view?usp=sharing  - 3/3
+craze	moda	Macarena: https://dictionary.cambridge.org/es/diccionario/ingles-espanol/craze
+virago	virago	Macarena: https://www.wordreference.com/es/translation.asp?tranword=virago
