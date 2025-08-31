@@ -60,3 +60,4 @@ Medieval	Medieval	B: Gentile, F: https://drive.google.com/file/d/17z4XpMKiu18bvm
 interscripta	Interscripta	B: Gentile, F: https://drive.google.com/file/d/1jWWM2ZXbItDfjUU7voNAXi7fxfirNSGl/view?usp=sharing  - 3/3
 craze	moda	Macarena: https://dictionary.cambridge.org/es/diccionario/ingles-espanol/craze
 virago	virago	Macarena: https://www.wordreference.com/es/translation.asp?tranword=virago
+exogamy	exogamia	Macarena: https://dictionary.cambridge.org/es/diccionario/ingles-espanol/exogamy
