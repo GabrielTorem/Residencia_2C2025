@@ -55,6 +55,16 @@ https://drive.google.com/file/d/1XR_aCTt7QGOcPjn-SR0D9UT1j3QOUSSe/view?usp=shari
       </tuv>
     </tu>
     <tu>
+      <note>El texto original tiene un tag sin inicio.</note>
+      <tuv lang="en-US">
+        <seg>&lt;t0/&gt; Every monster is in this way a double narrative, two living stories: one that describes how the monster came to be and another, its testimony, detailing what cultural use the monster serves.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250831T203824Z" creationid="Marina" creationdate="20250831T203824Z">
+        <seg>&lt;t0/&gt; Every monster is in this way a double narrative, two living stories: one that describes how the monster came to be and another, its testimony, detailing what cultural use the monster serves.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>&lt;t0/&gt; History itself becomes a monster: defeaturing, self-deconstructive, always in danger of exposing the sutures that bind its disparate elements into a single, unnatural body.</seg>
       </tuv>
@@ -735,6 +745,14 @@ Negar con "ninguna"</note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T194332Z" creationid="Lenovo" creationdate="20250819T165710Z">
         <seg>No es el gen en sí mismo, sino su presencia, lo que señala el foco problemático e indica la probabilidad de una crisis en algún lugar, en otro lugar" (pp. 16-17). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is possible, for example, that medieval merchants intentionally disseminated maps depicting sea serpents like Leviathan at the edges of their trade routes in order to discourage further exploration and to establish monopolies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250831T203800Z" creationid="Marina" creationdate="20250831T203800Z">
+        <seg>Es posible que, por ejemplo, los mercaderes medievales diseminaran intencionalmente mapas que mostraran serpientes marinas, como el Leviatán, en los confines de sus rutas comerciales, para desalentar la exploración ulterior y establecer monopolios. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1557,6 +1575,15 @@ Ayúdenme a pensar si "Yeti" va con mayúscula. (Resuelto: en min)
       </tuv>
       <tuv lang="es-ES" changeid="solca" changedate="20250826T013716Z" creationid="solca" creationdate="20250826T013716Z">
         <seg>Cuando está contenido por una marginación geográfica, genérica o epistémica, el monstruo puede funcionar como un alter ego, como una proyección seductora de un ("Otro") yo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Whereas monsters born of political expedience and self-justifying nationalism function as living invitations to action, usually military (invasions, usurpations, colonizations), the monster of prohibition polices the borders of the possible, interdicting through its grotesque body some behaviors and actions, envaluing others.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250831T203746Z" creationid="Marina" creationdate="20250831T203746Z">
+        <seg>Mientras que los monstruos nacidos de la conveniencia política y el nacionalismo autojustificatorio funcionan como invitaciones vivientes a la acción, usualmente militares (invasiones, usurpaciones o colonizaciones), el monstruo de la prohibición vigila los límites de lo posible: mediante su cuerpo grotesco, prohíbe ciertos comportamientos y acciones, mientras que legitima otros.
+</seg>
       </tuv>
     </tu>
     <tu>
