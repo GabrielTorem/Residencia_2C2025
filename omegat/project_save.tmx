@@ -1567,6 +1567,16 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This discussion owes an obvious debt to Mary Douglas, Purity and Danger: &lt;f0&gt;An Analysis of the Concepts of Pollution and Taboo&lt;/f0&gt; (New York: Routledge &amp; Kegan Paul, 1966).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250901T132923Z" creationid="Lenovo" creationdate="20250901T132923Z">
+        <seg>Este debate tiene una deuda evidente con Mary Douglas, Purity and Danger: An Analysis of the Concepts of Pollution and Taboo (Nueva York: Routledge &amp; Kegan Paul, 1966).
+
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This dissociation from community leads to a rugged individualism that in Homeric terms can only be horrifying.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250831T204203Z" creationid="Marina" creationdate="20250831T204203Z">
