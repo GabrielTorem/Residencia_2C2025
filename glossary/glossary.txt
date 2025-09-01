@@ -62,3 +62,4 @@ craze	moda	Macarena: https://dictionary.cambridge.org/es/diccionario/ingles-espa
 virago	virago	Macarena: https://www.wordreference.com/es/translation.asp?tranword=virago
 exogamy	exogamia	Macarena: https://dictionary.cambridge.org/es/diccionario/ingles-espanol/exogamy
 Incest	incesto	Macarena: https://dictionary.cambridge.org/es/diccionario/ingles-espanol/incest
+incest taboo	tabú del incesto	chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://scielo.edu.uy/pdf/pcs/v4n1/v4n1a06.pdf
