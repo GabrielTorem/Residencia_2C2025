@@ -288,6 +288,14 @@ Hay un diacrítico mal usado.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>A political figure suddenly out of favor is transformed like an unwilling participant in a science experiment by the appointed historians of the replacement regime: “monstrous history” is rife with sudden, Ovidian metamorphoses, from Vlad Tepes to Ronald Reagan.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250901T230719Z" creationid="solca" creationdate="20250901T230719Z">
+        <seg>Una figura política que cae en desgracia es transformada, como un sujeto involuntario de un experimento científico, por los historiadores del nuevo régimen: la “historia monstruosa” está llena de metamorfosis súbitas, al estilo de Ovidio, desde Vlad Tepes hasta Ronald Reagan. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>quedó muy confusa.</note>
       <tuv lang="en-US">
         <seg>A polysemy is granted so that a greater threat can be encoded; multiplicity of meanings, paradoxically, iterates the same restricting, agitprop representations that narrowed signification performs.</seg>
