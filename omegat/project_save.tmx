@@ -289,6 +289,14 @@ Hay un diacrítico mal usado.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>A recent newspaper article on Yugoslavia reminds us how persistent these divisive mythologies can be, and how they can endure divorced from any grounding in historical reality:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250901T225415Z" creationid="solca" creationdate="20250901T225415Z">
+        <seg>Un reciente artículo periodístico sobre Yugoslavia recuerda lo persistentes que pueden ser estas mitologías divisorias, incluso cuando se encuentran completamente desvinculadas de la realidad histórica:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Con respecto al nombre de la Universidad, encontré un documento en la página web de Kalamazoo, el cual adjunto en el glosario con la palabra Michigan. Si bien la RAE admite el término "Míchigan", en este caso el nombre de la Universidad contiene la palabra "Western", por lo que decidí mantener ambos nombres en inglés.
 
 En el caso de "Medieval", encontré un ensayo de la Revista Calamus, de la Sociedad Argentina de Estudios Medievales (adjunto en glosario). En la misma, se denomina "Instituto Medieval" al departamento de la Universidad de Míchigan.</note>
