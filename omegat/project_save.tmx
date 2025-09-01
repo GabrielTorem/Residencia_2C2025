@@ -1374,6 +1374,14 @@ colocación: impetus</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The fears of contamination, impurity, and loss of identity that produce stories like the Genesis episode are strong, and they reappear incessantly.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250901T161034Z" creationid="Lenovo" creationdate="20250901T161034Z">
+        <seg>Las historias como el citado episodio del Génesis producen un profundo temor a la contaminación, la impureza y la pérdida de identidad, y reaparecen incesantemente.  </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>seder es palabra hebrea; la mantenemos.
 Mantememos el ";"</note>
       <tuv lang="en-US">
@@ -1477,6 +1485,14 @@ El original tiene un espacio antes del punto.</note>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250831T205953Z" creationid="Marina" creationdate="20250831T203857Z">
         <seg>El monstruo de la prohibición existe para delimitar los lazos que unen al sistema de relaciones al que llamamos cultura, y señalar, de manera horripilante, los límites que no pueden—&lt;f1&gt;no deben&lt;/f1&gt;— cruzarse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The monsters are here, as elsewhere, expedient representations of other cultures, generalized and demonized to enforce a strict notion of group sameness.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250901T160431Z" creationid="Lenovo" creationdate="20250901T160431Z">
+        <seg>Los monstruos son aquí, como en todos los otros ejemplos, representaciones convenientes de otras culturas, desde un enfoque generalizador y demonizado para imponer una noción estricta de igualdad grupal. </seg>
       </tuv>
     </tu>
     <tu>
