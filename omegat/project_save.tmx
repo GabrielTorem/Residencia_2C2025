@@ -533,6 +533,14 @@ Hay una conc. excesiva "en la Royal..."
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But the militiaman is convinced and can recall all the wrongs that Muslims may or may not have perpetrated during their 500 years of rule.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250901T225810Z" creationid="solca" creationdate="20250901T225810Z">
+        <seg>Sin embargo, el miliciano lo cree firmemente, y es capaz de enumerar todos los errores que los musulmanes pudieron —o no— haber cometido durante sus quinientos años de dominio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cited by Friedman, &lt;f0&gt;The Monstrous Races,&lt;/f0&gt; 64.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250824T020739Z" creationid="Marina" creationdate="20250824T020533Z">
@@ -1693,6 +1701,14 @@ La fuente de Weird nos remite solo al texto en castellano. Está bien igual. El 
       <tuv lang="es-ES" changeid="Marina" changedate="20250831T204457Z" creationid="Marina" creationdate="20250831T204115Z">
         <seg>Su arcaísmo se transmite a través de su falta de jerarquía y de una política de precedentes.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There aren’t any animals left alive in the Sarajevo zoo.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250901T225643Z" creationid="solca" creationdate="20250901T225643Z">
+        <seg>No quedan animales vivos en el zoológico de Sarajevo.</seg>
       </tuv>
     </tu>
     <tu>
