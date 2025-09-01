@@ -2217,6 +2217,14 @@ Emular un habla arcaica</note>
         <seg>… Estas gentes, que tienen costumbres tan diferentes a las de las demás y, a su vez, tan opuestas, hacen gestos ya sea con las manos o la cabeza, gesticulan cuando quieren decir que debes retirarte y asienten hacia atrás cada vez que desean liberarse de ti. </seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>… hee came into the worlde with feete forward, … also not vntothed.”&lt;t0/&gt; From birth, More declares, Richard was a monster, “his deformed body a readable text”&lt;t1/&gt; on which was inscribed his deviant morality (indistinguishable from an incorrect political orientation).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250901T233151Z" creationid="solca" creationdate="20250901T233151Z">
+        <seg> … vino al mundo con los pies por delante, … y también sin dientes”. </seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
