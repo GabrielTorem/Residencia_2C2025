@@ -942,8 +942,8 @@ safe in the knowledge está mal reflejado</note>
       <tuv lang="en-US">
         <seg>Likewise, the story on the page before us may horrify (whether it appears in the New York Times news section or Stephen King’s latest novel matters little), so long as we are safe in the knowledge of its nearing end (the number of pages in our right hand is dwindling) and our liberation from it.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20250826T014324Z" creationid="solca" creationdate="20250826T014324Z">
-        <seg>Del mismo modo, la historia en la página ante nosotros puede horrorizarnos (poco importa si aparece en la sección de noticias del New York Times o en la última novela de Stephen King), siempre y cuando estemos seguros de que se acerca su final (la cantidad de páginas en nuestra mano derecha está disminuyendo) y de nuestra liberación de ella.</seg>
+      <tuv lang="es-ES" changeid="solca" changedate="20250901T221430Z" creationid="solca" creationdate="20250826T014324Z">
+        <seg>La historia que tenemos frente a nosotros puede ser horrible (y poco importa si se lee en la sección de noticias del New York Times o en la última novela de Stephen King), pero nos resulta soportable porque estamos a salvo, con la certeza de que su final está cerca y nuestra liberación es inminente. Sabemos que la historia terminará porque el número de páginas que tenemos en la mano derecha es cada vez menor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1423,8 +1423,8 @@ Mantememos el ";"</note>
       <tuv lang="en-US">
         <seg>The monster awakens one to the pleasures of the body, to the simple and fleeting joys of being frightened, or frightening—to the experience of mortality and corporality.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20250826T013759Z" creationid="solca" creationdate="20250826T013759Z">
-        <seg>El monstruo despierta al placer del cuerpo, a las alegrías simples y fugaces de estar asustado o de asustar, a la experiencia de la mortalidad y la corporalidad. </seg>
+      <tuv lang="es-ES" changeid="solca" changedate="20250901T221106Z" creationid="solca" creationdate="20250826T013759Z">
+        <seg>El monstruo despierta el placer del cuerpo, a las alegrías simples y fugaces de estar asustado o de asustar, a la experiencia de la mortalidad y la corporalidad. </seg>
       </tuv>
     </tu>
     <tu>
