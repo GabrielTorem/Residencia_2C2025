@@ -1648,6 +1648,14 @@ El original tiene un espacio antes del punto.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The most illustrious of these propaganda-bred demons is the English king Richard III, whom Thomas More famously described as “little of stature, ill fetured of limmes, croke backed, his left shoulder much higher then his right, hard fauoured of visage.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250901T232437Z" creationid="solca" creationdate="20250901T232437Z">
+        <seg>El más ilustre de estos demonios generados por la propaganda es el rey inglés Ricardo III, a quien Thomas More describió de manera célebre como “de pequeña estatura, de miembros mal formados, con la espalda encorvada, el hombro izquierdo mucho más alto que el derecho, de rostro de facciones duras. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Tradujiste el segmento equivocado. La semana que viene hacé el 4. Fijate también las fechas.
 
 han condenado... Necesitamos agentividad.</note>
