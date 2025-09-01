@@ -61,3 +61,4 @@ interscripta	Interscripta	B: Gentile, F: https://drive.google.com/file/d/1jWWM2Z
 craze	moda	Macarena: https://dictionary.cambridge.org/es/diccionario/ingles-espanol/craze
 virago	virago	Macarena: https://www.wordreference.com/es/translation.asp?tranword=virago
 exogamy	exogamia	Macarena: https://dictionary.cambridge.org/es/diccionario/ingles-espanol/exogamy
+Incest	incesto	Macarena: https://dictionary.cambridge.org/es/diccionario/ingles-espanol/incest
