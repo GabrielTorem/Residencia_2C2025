@@ -429,6 +429,8 @@ Pensar "escrutinio" (Resuelto)</note>
       </tuv>
     </tu>
     <tu>
+      <note>"de bajo presupuesto" no es el término en  la jerga.
+Repetís "películas"</note>
       <tuv lang="en-US">
         <seg>Anyone familiar with the low-budget science fiction movie craze of the 1950s will recognize in the preceding sentence two superb films of the genre, one about a radioactive virago from outer space who kills every man she touches, the other a social parable in which giant ants (really, Communists) burrow beneath Los Angeles (that is, Hollywood) and threaten world peace (that is, American conservatism).</seg>
       </tuv>
@@ -1012,7 +1014,8 @@ Cargá al glosario la traducción y la fuente del título.</note>
       </tuv>
     </tu>
     <tu>
-      <note>|)!</note>
+      <note>Falta "Retakes".
+Pensemos qué hacemos con las traducciones.</note>
       <tuv lang="en-US">
         <seg>John Eastman, Retakes: &lt;f0&gt;Behind the Scenes of 500 Classic Movies,&lt;/f0&gt; 9-10.</seg>
       </tuv>
@@ -1907,6 +1910,7 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
       </tuv>
     </tu>
     <tu>
+      <note>Usar cursiva.</note>
       <tuv lang="en-US">
         <seg>This discussion owes an obvious debt to Mary Douglas, Purity and Danger: &lt;f0&gt;An Analysis of the Concepts of Pollution and Taboo&lt;/f0&gt; (New York: Routledge &amp; Kegan Paul, 1966).</seg>
       </tuv>
