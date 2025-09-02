@@ -1295,12 +1295,14 @@ Graciosamente, el nombre del autor viene del encabezado y se coló en esta oraci
       </tuv>
     </tu>
     <tu>
-      <note>#|</note>
+      <note>Arreglo la llave mal insertada en el original. De nuevo, el juego de palabras.
+Mal la posición de la comilla.
+Uso de comillas. La inserción de la traducción en la cita está formalmente mal]</note>
       <tuv lang="en-US">
         <seg>Rather to be an ‘inappropriate/d other’ means to be in critical deconstructive relationality, in a diffracting rather than reflecting {ratio)nality—as the means of making potent connection that exceeds domination.” “The Promises of Monsters,” in &lt;f0&gt;Simians, Cyborgs, and Women: The Reinvention of Nature&lt;/f0&gt; (New York: Routledge, 1991), 299.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250902T135651Z" creationid="Lenovo" creationdate="20250901T132831Z">
-        <seg>Más bien, ser un 'otro inapropiado/apropiado' significa estar en una relacionalidad deconstructiva crítica, en una {racio)nalidad difractante en lugar de reflectante, como medio para hacer una conexión potente que excede la dominación." “The Promises of Monsters,” en &lt;f0&gt;Simians, Cyborgs, and Women: The Reinvention of Nature&lt;/f0&gt; [“Las promesas de los monstruos,” en &lt;f0&gt;Mujeres, simios y cíborgs: La reinvención de la naturaleza&lt;/f0&gt; (New York: Routledge, 1991), 299. </seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250902T200754Z" creationid="Lenovo" creationdate="20250901T132831Z">
+        <seg>Más bien, ser un 'otro inapropiado/apropiado' significa estar en una relacionalidad deconstructiva crítica, en una (racio)nalidad difractante en lugar de reflectante, como medio para hacer una conexión potente que excede la dominación." “The Promises of Monsters,” en &lt;f0&gt;Simians, Cyborgs, and Women: The Reinvention of Nature&lt;/f0&gt; [“Las promesas de los monstruos,” en &lt;f0&gt;Mujeres, simios y cíborgs: La reinvención de la naturaleza&lt;/f0&gt; (New York: Routledge, 1991), 299. </seg>
       </tuv>
     </tu>
     <tu>
