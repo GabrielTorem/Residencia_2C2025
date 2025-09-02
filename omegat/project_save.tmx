@@ -30,12 +30,15 @@
     </tu>
     <tu>
       <note>Adjunto el link del capítulo "El cuerpo imaginario". El número de la página pertenece a tal traducción. 
-https://drive.google.com/file/d/1XR_aCTt7QGOcPjn-SR0D9UT1j3QOUSSe/view?usp=sharing</note>
+https://drive.google.com/file/d/1XR_aCTt7QGOcPjn-SR0D9UT1j3QOUSSe/view?usp=sharing
+
+Bien; ¿tenemos nombre de la traductora?
+Agregué un tag.</note>
       <tuv lang="en-US">
         <seg>&lt;/f0&gt; See especially “The Imaginary Body,” 104-31.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250831T203703Z" creationid="Marina" creationdate="20250831T203703Z">
-        <seg>Véase especialmente “El cuerpo imaginario”, p.166. </seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250902T192557Z" creationid="Marina" creationdate="20250831T203703Z">
+        <seg>&lt;/f0&gt;Véase especialmente “El cuerpo imaginario”, p.166. </seg>
       </tuv>
     </tu>
     <tu>
@@ -928,6 +931,7 @@ Negar con "ninguna"</note>
       </tuv>
     </tu>
     <tu>
+      <note>diseminar es "false friend"</note>
       <tuv lang="en-US">
         <seg>It is possible, for example, that medieval merchants intentionally disseminated maps depicting sea serpents like Leviathan at the edges of their trade routes in order to discourage further exploration and to establish monopolies.</seg>
       </tuv>
@@ -2050,6 +2054,7 @@ Ayúdenme a pensar si "Yeti" va con mayúscula. (Resuelto: en min)
       </tuv>
     </tu>
     <tu>
+      <note>Discordancia en "militares"</note>
       <tuv lang="en-US">
         <seg>Whereas monsters born of political expedience and self-justifying nationalism function as living invitations to action, usually military (invasions, usurpations, colonizations), the monster of prohibition polices the borders of the possible, interdicting through its grotesque body some behaviors and actions, envaluing others.</seg>
       </tuv>
