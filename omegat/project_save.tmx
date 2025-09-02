@@ -273,12 +273,11 @@ hyerophant a glosario.</note>
       </tuv>
     </tu>
     <tu>
-      <note>rég prep de "dirigirse"</note>
       <tuv lang="en-US">
         <seg>A kind of herdsman, this monster delimits the social space through which cultural bodies may move, and in classical times (for example) validated a tight, hierarchical system of naturalized leadership and control where every man had a functional place.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250831T203940Z" creationid="Marina" creationdate="20250831T203940Z">
-        <seg>Como una suerte de guardián del rebaño, este monstruo delimita el espacio social por el que los cuerpos culturales pueden dirigirse, y, en tiempos clásicos (por ejemplo), validaban un sistema rígido y jerárquico de liderazgo naturalizado y control, donde cada hombre ocupaba un lugar funcional.</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250902T221413Z" creationid="Marina" creationdate="20250831T203940Z">
+        <seg>Como una suerte de guardián del rebaño, este monstruo delimita el espacio social por el que los cuerpos culturales se pueden dirigir, y, en tiempos clásicos (por ejemplo), validaban un sistema rígido y jerárquico de liderazgo naturalizado y control, donde cada hombre ocupaba un lugar funcional.</seg>
       </tuv>
     </tu>
     <tu>
