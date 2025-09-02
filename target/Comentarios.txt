@@ -3,5 +3,12 @@ El glosario solo puede modificarse desde el txt, en Project>Source Files.
 
 "Insertar comenntarios 'traduciendo aquí'.
 
-¿Traducimos las citas en otros idiomas?
+Se debe empezar, pues, por el nombre de pila seguido de los apellidos (escritos de redondo
+sin diacríticos), el título de la obra, el pie editorial (lugar de edición y editor,
+generalmente entre corchetes), el año y las páginas donde aparece el texto
+que se cita:
+4 Juan Gabriel López Guix y Jacqueline Minett Wilkinson: Manual de traducción:
+inglés/castellano [Barcelona: Gedisa], 1997, 235-298. Si más adelante se cita al mismo autor y la misma o distinta obra, la grafía depende de cuál sea la realidad. Por
+ejemplo, si en la misma página, a continuación de la cita anterior, se hace otra cita bibliográfica del mismo autor y la misma obra, en la segunda se pone
+id. (ídem) para indicar que es el mis-mo autor, seguido de ib. (ibídem) (en ambos casos sin diacríticos, es decir, escrito en redondo) para indicar quees la misma obra, y a continuación la nueva página: 5 Ídem, ib., 252.
 ¿Situamos temporalmente la traducción a fecha de hoy o en el momento de producción del original? Hacemos nota para ello? Para insertar notas, añadimos [^N. de T.] y al finalizar el fragmento: [^N. de  T.:] <y nuestra nota>. Esto creará una nota tras una fácil conversión al final.
