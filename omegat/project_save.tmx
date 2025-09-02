@@ -577,11 +577,14 @@ Hay una conc. excesiva "en la Royal..."
       </tuv>
     </tu>
     <tu>
+      <note>Mantenés el error de transcripción del original.
+dobles espacios
+esencia brutal modifica mal.</note>
       <tuv lang="en-US">
         <seg>Charlotte Bronté reversed the usual paradigm in &lt;f4&gt;Jane Eyre&lt;/f4&gt; (white Rochester and lunatic Jamaican Bertha Mason), but horror movies as seemingly innocent as &lt;f5&gt;King Kong&lt;/f5&gt; demonstrate miscegenation anxiety in its brutal essence.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250902T140930Z" creationid="Lenovo" creationdate="20250902T014529Z">
-        <seg>Charlotte Bronté invirtió el paradigma habitual en  &lt;f4&gt;Jane Eyre&lt;/f4&gt;  (el blanco Rochester y la jamaiquina lunática Bertha Mason), pero las películas de terror, incluso las más inocentes en apariencia, como &lt;f5&gt;King Kong/f5&gt;, demuestran en su esencia brutal la ansiedad que genera el mestizaje. </seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250902T203645Z" creationid="Lenovo" creationdate="20250902T014529Z">
+        <seg>Charlotte Bronté invirtió el paradigma habitual en  &lt;f4&gt;Jane Eyre&lt;/f4&gt;  (el blanco Rochester y la jamaiquina lunática Bertha Mason), pero las películas de terror, incluso las más inocentes en apariencia, como &lt;f5&gt;King Kong&lt;/f5&gt;, demuestran en su esencia brutal la ansiedad que genera el mestizaje. </seg>
       </tuv>
     </tu>
     <tu>
@@ -670,6 +673,10 @@ La pasiva con "se" no lleva c. agente (Resuelto)</note>
       </tuv>
     </tu>
     <tu>
+      <note>¿Ponemos nota sobre el año de producción del texto? pensar encargo.
+el hombre dentro... conc. exc.
+
+¿decimos tribu Masai? ¿Usamos mayúscula?</note>
       <tuv lang="en-US">
         <seg>Even a film as recent as 1979’s immensely successful Alien may have a cognizance of the fear in its underworkings: the grotesque creature that stalks the heroine (dressed in the final scene only in her underwear) drips a glistening slime of K-Y Jelly from its teeth; the jaw tendons are constructed of shredded condoms; and the man inside the rubber suit is Bolaji Badejo, a Masai tribesman standing seven feet tall who happened to be studying in England at the time the film was cast.</seg>
       </tuv>
