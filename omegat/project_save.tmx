@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -913,8 +913,8 @@ pensar "self-loading".</note>
       <tuv lang="en-US">
         <seg>In the United States, Native Americans were presented as unredeemable savages so that the powerful political machine of Manifest Destiny could push westward with disregard.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20250901T225949Z" creationid="solca" creationdate="20250901T225949Z">
-        <seg>En Estados Unidos, los nativos americanos fueron presentados como salvajes irredimibles para justificar el avance del poderoso mecanismo político del Destino Manifiesto hacia el oeste. </seg>
+      <tuv lang="es-ES" changeid="solca" changedate="20250902T221803Z" creationid="solca" creationdate="20250901T225949Z">
+        <seg>En Estados Unidos, los nativos americanos fueron presentados como salvajes irredimibles para justificar el avance del poderoso mecanismo político del Destino Manifiesto hacia el Oeste. </seg>
       </tuv>
     </tu>
     <tu>
