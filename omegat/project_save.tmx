@@ -862,11 +862,15 @@ disease of vampirism no es lo mismo que enfermedad vampiresca. (Resuelto)</note>
       </tuv>
     </tu>
     <tu>
+      <note>Corrijo un problema técnico.
+Pensar en conjunto la grafía de "otro"
+loci lo normalizás.
+Within lo normalizás</note>
       <tuv lang="en-US">
         <seg>In its function as dialectical Other or third-term supplement, the monster is an incorporation of the Outside, the Beyond—of all those loci that are rhetorically placed as distant and distinct but originate Within.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20250901T223154Z" creationid="solca" creationdate="20250901T223154Z">
-        <seg>El monstruo es la diferencia hecha carne, que llega a vivir entre nosotros. Como un "otro" dialéctico o un suplemento que rompe las dicotomías, el monstruo encarna lo externo, lo que está más allá: todos esos lugares que, retoricamente, se presentan como lejanos y distintos, pero que en realidad se originan en el interior.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250902T204813Z" creationid="solca" creationdate="20250901T223154Z">
+        <seg>Como un "otro" dialéctico o un suplemento que rompe las dicotomías, el monstruo encarna lo externo, lo que está más allá: todos esos lugares que, retoricamente, se presentan como lejanos y distintos, pero que en realidad se originan en el interior.</seg>
       </tuv>
     </tu>
     <tu>
