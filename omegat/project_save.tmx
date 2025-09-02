@@ -58,7 +58,11 @@ Agregué un tag.</note>
       </tuv>
     </tu>
     <tu>
-      <note>She es la novela de H. Rider Haggard ("Ella", 1887) y Them! es la película de Gordon Douglas ("El mundo en peligro" en Argentina, 1954). Elegí dejarlos tal cual como en inglés para no perder el guiño cultural. Cohen construye una metáfora: "She" simboliza la figura de la mujer monstruosa (la "radioactive virago"). "Them!" hace referencia a la amenaza del “otro” colectivo (las hormigas gigantes mutantes). Por lo tanto, está usando esos títulos como símbolos culturales reconocibles.</note>
+      <note>She es la novela de H. Rider Haggard ("Ella", 1887) y Them! es la película de Gordon Douglas ("El mundo en peligro" en Argentina, 1954). Elegí dejarlos tal cual como en inglés para no perder el guiño cultural. Cohen construye una metáfora: "She" simboliza la figura de la mujer monstruosa (la "radioactive virago"). "Them!" hace referencia a la amenaza del “otro” colectivo (las hormigas gigantes mutantes). Por lo tanto, está usando esos títulos como símbolos culturales reconocibles.
+
+Armaste un lío de formato.
+
+Podemos poner una nota sobre cómo se conocieron en Argentina. No perdamos de vista el encargo.</note>
       <tuv lang="en-US">
         <seg>&lt;f6&gt;She&lt;/f6&gt; and &lt;f7&gt;Them!:&lt;/f7&gt; the monster enforces the cultural codes that regulate sexual desire.</seg>
       </tuv>
@@ -1593,6 +1597,7 @@ Mantememos el ";"</note>
       </tuv>
     </tu>
     <tu>
+      <note>Sobra una coma.</note>
       <tuv lang="en-US">
         <seg>The monster embodies those sexual practices that must not be committed, or that may be committed only through the body of the monster.</seg>
       </tuv>
