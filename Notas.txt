@@ -3,3 +3,15 @@ Fittipaldi: 9:
 Gentile: 5
 Nazar:
 M. Piñeiro: 8
+
+2.
+Fittipaldi: 7
+Gentile: 7
+Nazar: 6
+Piñeiro: 6
+
+3.
+Fittipaldi: 6 
+Gentile: 7
+Nazar: 4
+Piñeiro: 
