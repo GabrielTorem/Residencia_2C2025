@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -874,8 +874,8 @@ Within lo normalizás   .
       <tuv lang="en-US">
         <seg>In its function as dialectical Other or third-term supplement, the monster is an incorporation of the Outside, the Beyond—of all those loci that are rhetorically placed as distant and distinct but originate Within.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20250902T204813Z" creationid="solca" creationdate="20250901T223154Z">
-        <seg>Como un "otro" dialéctico o un suplemento que rompe las dicotomías, el monstruo encarna lo externo, lo que está más allá: todos esos lugares que, retoricamente, se presentan como lejanos y distintos, pero que en realidad se originan en el interior.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250902T222351Z" creationid="solca" creationdate="20250901T223154Z">
+        <seg>Como un "otro" dialéctico o un suplemento que rompe las dicotomías, el monstruo encarna lo externo, lo que está más allá: todos esos lugares que, retóricamente, se presentan como lejanos y distintos, pero que en realidad se originan en el interior.</seg>
       </tuv>
     </tu>
     <tu>
