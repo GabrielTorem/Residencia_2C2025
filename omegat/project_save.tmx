@@ -437,8 +437,8 @@ Repetís "películas"</note>
       <tuv lang="en-US">
         <seg>Anyone familiar with the low-budget science fiction movie craze of the 1950s will recognize in the preceding sentence two superb films of the genre, one about a radioactive virago from outer space who kills every man she touches, the other a social parable in which giant ants (really, Communists) burrow beneath Los Angeles (that is, Hollywood) and threaten world peace (that is, American conservatism).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250901T150335Z" creationid="Lenovo" creationdate="20250901T133236Z">
-        <seg>Cualquiera que conozca las películas de ciencia ficción de bajo presupuesto que causaron furor en los años cincuenta reconocerá en la oración anterior dos películas magníficas del género: una sobre una virago radioactiva del espacio exterior que mata a todos los hombres que toca, y la otra, una parábola social en la que hormigas gigantes (en realidad, comunistas) excavan túneles debajo de Los Ángeles (es decir, Hollywood) y amenazan la paz mundial (es decir, el conservadurismo estadounidense). </seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250902T222713Z" creationid="Lenovo" creationdate="20250901T133236Z">
+        <seg>Cualquiera que conozca las películas de ciencia ficción de bajo presupuesto que causaron furor en los años cincuenta reconocerá en la oración anterior dos magníficos exponentes del género: una sobre una virago radioactiva del espacio exterior que mata a todos los hombres que toca, y la otra, una parábola social en la que hormigas gigantes (en realidad, comunistas) excavan túneles debajo de Los Ángeles (es decir, Hollywood) y amenazan la paz mundial (es decir, el conservadurismo estadounidense).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1054,10 +1054,8 @@ Pensemos qué hacemos con las traducciones.</note>
       <tuv lang="en-US">
         <seg>John Eastman, Retakes: &lt;f0&gt;Behind the Scenes of 500 Classic Movies,&lt;/f0&gt; 9-10.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250901T133131Z" creationid="Lenovo" creationdate="20250901T133131Z">
-        <seg>John Eastman, &lt;f0&gt;Behind the Scenes of 500 Classic Movies,&lt;/f0&gt;  Tomas falsas: Detrás de las escenas de 500 películas clásicas, 9-10.
-
-</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250902T222546Z" creationid="Lenovo" creationdate="20250901T133131Z">
+        <seg>John Eastman, Retakes: &lt;f0&gt;Behind the Scenes of 500 Classic Movies,&lt;/f0&gt;  Tomas falsas: Detrás de las escenas de 500 películas clásicas, 9-10.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1471,8 +1469,8 @@ Perfecto, lo cambio.</note>
       <tuv lang="en-US">
         <seg>Sexual orientation further complicates the picture, as we shall see.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250901T131723Z" creationid="Lenovo" creationdate="20250901T131723Z">
-        <seg>La orientación sexual complica aún más el panorama, como veremos.</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250902T222338Z" creationid="Lenovo" creationdate="20250901T131723Z">
+        <seg>La orientación sexual complica aun más el panorama, como veremos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1743,8 +1741,8 @@ Es que hay puntos suspensivos. Intentaré arreglarlo en el programa.
       <tuv lang="en-US">
         <seg>The monster’s destructiveness is really a deconstructiveness: it threatens to reveal that difference originates in process, rather than in fact (and that “fact” is subject to constant reconstruction and change).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250902T015028Z" creationid="Lenovo" creationdate="20250901T152456Z">
-        <seg>La destrucción del monstruo es en realidad deconstrucción: amenaza con revelar que la diferencia se origina en el proceso, más que en el hecho (y que “el hecho” es sujeto de cambio y reconstrucción constantes). </seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250902T223305Z" creationid="Lenovo" creationdate="20250901T152456Z">
+        <seg>La destrucción del monstruo es en realidad deconstrucción: amenaza con revelar que la diferencia se origina en el proceso, más que en lo concreto (y que “el hecho” es sujeto de cambio y reconstrucción constantes).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1974,10 +1972,8 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
       <tuv lang="en-US">
         <seg>This discussion owes an obvious debt to Mary Douglas, Purity and Danger: &lt;f0&gt;An Analysis of the Concepts of Pollution and Taboo&lt;/f0&gt; (New York: Routledge &amp; Kegan Paul, 1966).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250901T132923Z" creationid="Lenovo" creationdate="20250901T132923Z">
-        <seg>Este debate tiene una deuda evidente con Mary Douglas, Purity and Danger: An Analysis of the Concepts of Pollution and Taboo (Nueva York: Routledge &amp; Kegan Paul, 1966).
-
-</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250902T222516Z" creationid="Lenovo" creationdate="20250901T132923Z">
+        <seg>Este debate tiene una deuda evidente con Mary Douglas, Purity and Danger: &lt;f0&gt; An Analysis of the Concepts of Pollution and Taboo&lt;/f0&gt; (Nueva York: Routledge &amp; Kegan Paul, 1966).</seg>
       </tuv>
     </tu>
     <tu>
