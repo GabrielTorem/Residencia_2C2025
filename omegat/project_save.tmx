@@ -424,6 +424,8 @@ Pensar "escrutinio" (Resuelto)</note>
       </tuv>
     </tu>
     <tu>
+      <note>inscrita necesita prep.
+No me gusta cómo se logró monstruos difference</note>
       <tuv lang="en-US">
         <seg>Any kind of alterity can be inscribed across (constructed through) the monstrous body, but for the most part monstrous difference tends to be cultural, political, racial, economic, sexual.</seg>
       </tuv>
@@ -874,6 +876,7 @@ Within lo normalizás</note>
       </tuv>
     </tu>
     <tu>
+      <note>Ver original. Usar cursiva.</note>
       <tuv lang="en-US">
         <seg>In medieval France the chansons de geste celebrated the crusades by transforming Muslims into demonic caricatures whose menacing lack of humanity was readable from their bestial attributes; by culturally glossing “Saracens” as “monstra,” propagandists rendered rhetorically admissible the annexation of the East by the West.</seg>
       </tuv>
@@ -1962,11 +1965,13 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
       </tuv>
     </tu>
     <tu>
+      <note>Proy... de repres... no me gusta.
+pensar cursivas</note>
       <tuv lang="en-US">
         <seg>This representational project was part of a whole dictionary of strategic glosses in which “monstra” slipped into significations of the feminine and the hypermasculine.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20250901T225221Z" creationid="solca" creationdate="20250901T225221Z">
-        <seg>ste proyecto de representación formaba parte de un amplio repertorio de significados estratégicos en los que monstra se asociaba también con lo femenino o lo hipermasculino.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250902T205212Z" creationid="solca" creationdate="20250901T225221Z">
+        <seg>Este proyecto de representación formaba parte de un amplio repertorio de significados estratégicos en los que monstra se asociaba también con lo femenino o lo hipermasculino.</seg>
       </tuv>
     </tu>
     <tu>
