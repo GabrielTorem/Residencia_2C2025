@@ -2336,13 +2336,13 @@ no me gusta cómo tradujiste ordained
       </tuv>
     </tu>
     <tu>
-      <note>pensar suj. expr.</note>
+      <note>pensar suj. expr.
+Resuelto.</note>
       <tuv lang="en-US">
         <seg>… He embodied the punishment earned by those who violate sexual taboos.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250824T010723Z" creationid="Marina" creationdate="20250823T232137Z">
-        <seg>… Él personificaba el castigo que se ganaban quienes violaban los tabúes sexuales.”
-</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250902T231136Z" creationid="Marina" creationdate="20250823T232137Z">
+        <seg>… Él personificaba el castigo que recibían quienes violaban los tabúes sexuales.</seg>
       </tuv>
     </tu>
     <tu>
