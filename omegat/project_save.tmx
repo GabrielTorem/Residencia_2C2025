@@ -1252,6 +1252,9 @@ escribe HG </note>
       </tuv>
     </tu>
     <tu>
+      <note>ss está mal puesto
+elaborated puede ser false friend.
+No está bien lograda.</note>
       <tuv lang="en-US">
         <seg>One of these pronouncements is a straightforward command from God that comes through the mouth of the prophet Joshua (Joshua 23:12ff.); another is a cryptic episode in Genesis much elaborated during the medieval period, alluding to “sons of God” who impregnate the “daughters of men” with a race of wicked giants (Genesis 6:4).</seg>
       </tuv>
@@ -1682,6 +1685,7 @@ Es que hay puntos suspensivos. Intentaré arreglarlo en el programa.
       </tuv>
     </tu>
     <tu>
+      <note>expedient; mal traducido</note>
       <tuv lang="en-US">
         <seg>The monsters are here, as elsewhere, expedient representations of other cultures, generalized and demonized to enforce a strict notion of group sameness.</seg>
       </tuv>
