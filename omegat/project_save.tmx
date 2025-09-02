@@ -305,6 +305,7 @@ Hay un diacrítico mal usado.
       </tuv>
     </tu>
     <tu>
+      <note>La voz pasiva deja todo raro</note>
       <tuv lang="en-US">
         <seg>A political figure suddenly out of favor is transformed like an unwilling participant in a science experiment by the appointed historians of the replacement regime: “monstrous history” is rife with sudden, Ovidian metamorphoses, from Vlad Tepes to Ronald Reagan.</seg>
       </tuv>
@@ -2340,6 +2341,7 @@ Emular un habla arcaica</note>
       </tuv>
     </tu>
     <tu>
+      <note>Quedó irrresuelta.</note>
       <tuv lang="en-US">
         <seg>… hee came into the worlde with feete forward, … also not vntothed.”&lt;t0/&gt; From birth, More declares, Richard was a monster, “his deformed body a readable text”&lt;t1/&gt; on which was inscribed his deviant morality (indistinguishable from an incorrect political orientation).</seg>
       </tuv>
