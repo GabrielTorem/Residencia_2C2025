@@ -1583,12 +1583,14 @@ Resuelto.</note>
     </tu>
     <tu>
       <note>collection: false  cognate.
-colocación: impetus</note>
+colocación: impetus
+
+Resuelto.</note>
       <tuv lang="en-US">
         <seg>The difficult project of constructing and maintaining gender identities elicits an array of anxious responses throughout culture, producing another impetus to teratogenesis.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250824T002046Z" creationid="Marina" creationdate="20250823T230158Z">
-        <seg>El difícil proyecto de construir y sostener las identidades de género provoca una colección de respuestas preocupantes en toda la cultura, lo que produjo otro ímpetu para la teratogénesis.</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250902T230452Z" creationid="Marina" creationdate="20250823T230158Z">
+        <seg>El difícil proyecto de construir y sostener las identidades de género provoca una serie de respuestas preocupantes en toda la cultura, lo que genera un nuevo impulso para la teratogénesis.</seg>
       </tuv>
     </tu>
     <tu>
