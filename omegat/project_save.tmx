@@ -154,12 +154,13 @@ No olvides las comillas</note>
       </tuv>
     </tu>
     <tu>
-      <note>Rég. pr. de susceptible</note>
+      <note>Rég. pr. de susceptible
+Resuelto.</note>
       <tuv lang="en-US">
         <seg>&lt;t2/&gt; “Deviant” sexual identity is similarly susceptible to monsterization.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250824T002159Z" creationid="Marina" creationdate="20250823T230919Z">
-        <seg>&lt;t2/&gt; La identidad sexual “desviada” es, del mismo modo, susceptible de una monstruización.</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250902T230631Z" creationid="Marina" creationdate="20250823T230919Z">
+        <seg>&lt;t2/&gt; La identidad sexual “desviada” es, del mismo modo, susceptible a una monstruización.</seg>
       </tuv>
     </tu>
     <tu>
