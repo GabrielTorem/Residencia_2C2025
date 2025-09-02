@@ -534,12 +534,13 @@ Resuelto.</note>
       </tuv>
     </tu>
     <tu>
-      <note>¿por qué la posic. atributiva?</note>
+      <note>¿por qué la posic. atributiva?
+Resuelto.</note>
       <tuv lang="en-US">
         <seg>Bruno Roy writes of this fantastic hybrid: “What warning did he come to deliver to the king?</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250823T232121Z" creationid="Marina" creationdate="20250823T232121Z">
-        <seg>Bruno Roy escribe acerca de este fantástico híbrido: “¿Qué advertencia traería al rey? 
+      <tuv lang="es-ES" changeid="Marina" changedate="20250902T230846Z" creationid="Marina" creationdate="20250823T232121Z">
+        <seg>Bruno Roy escribe acerca de este híbrido fantástico: “¿Qué advertencia traería al rey? 
 </seg>
       </tuv>
     </tu>
