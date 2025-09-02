@@ -1405,6 +1405,7 @@ Tengo dudas sobre "nonhypertext"</note>
       </tuv>
     </tu>
     <tu>
+      <note>ortografía "aún"</note>
       <tuv lang="en-US">
         <seg>Sexual orientation further complicates the picture, as we shall see.</seg>
       </tuv>
@@ -1767,6 +1768,7 @@ Rendition creo que proviene de rendering. En castellano sería false  friend.</n
       </tuv>
     </tu>
     <tu>
+      <note>Quitar espacios adicionals al final del párrafo.</note>
       <tuv lang="en-US">
         <seg>The situation was obviously far more complex than these statements can begin to show; “European,” for example, usually includes only males of the Western Latin tradition.</seg>
       </tuv>
@@ -2109,6 +2111,9 @@ Ayúdenme a pensar si "Yeti" va con mayúscula. (Resuelto: en min)
       </tuv>
     </tu>
     <tu>
+      <note>está mal el juego de palabras.
+Hay concisión excesiva
+decimos seres humanos</note>
       <tuv lang="en-US">
         <seg>[^]: Donna Haraway, following Trinh Minh-ha, calls the humans beneath the monstrous skin “inappropriate/d others”: “To be ‘inappropriate/d’ does not mean ‘not to be in relation with —.e., to be in a special reservation, with the status of the authentic, the untouched, in the allochronic and allotropic condition of innocence.</seg>
       </tuv>
