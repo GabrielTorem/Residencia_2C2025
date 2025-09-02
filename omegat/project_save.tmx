@@ -571,6 +571,7 @@ Hay una conc. excesiva "en la Royal..."
       </tuv>
     </tu>
     <tu>
+      <note>wrongs: mal traducida</note>
       <tuv lang="en-US">
         <seg>But the militiaman is convinced and can recall all the wrongs that Muslims may or may not have perpetrated during their 500 years of rule.</seg>
       </tuv>
@@ -906,6 +907,7 @@ pensar "self-loading".</note>
       </tuv>
     </tu>
     <tu>
+      <note>mayúsc. en "oeste"</note>
       <tuv lang="en-US">
         <seg>In the United States, Native Americans were presented as unredeemable savages so that the powerful political machine of Manifest Destiny could push westward with disregard.</seg>
       </tuv>
@@ -1141,6 +1143,12 @@ repensar estructura
       </tuv>
     </tu>
     <tu>
+      <note>Quedó sin traducir.</note>
+      <tuv lang="en-US">
+        <seg>My discussion of Richard is indebted to Marjorie Garber’s provocative work.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Se sostiene el verbo en presente "es" ya que, al tiempo de su publicación, la reina Isabel aún vivía.
 ¿Es coherente con tus otras decisiones?
 Quedó una comilla omitida en el  original.
@@ -1362,6 +1370,7 @@ invertir s. y p.</note>
       </tuv>
     </tu>
     <tu>
+      <note>blanco de... no *blanco para</note>
       <tuv lang="en-US">
         <seg>Scattered throughout Europe by the Diaspora and steadfastly refusing assimilation into Christian society, Jews have been perennial favorites for xenophobic misrepresentation, for here was an alien culture living, working, and even at times prospering within vast communities dedicated to becoming homogeneous and monolithic.</seg>
       </tuv>
@@ -1498,6 +1507,7 @@ Tengo dudas sobre "nonhypertext"</note>
       </tuv>
     </tu>
     <tu>
+      <note>Normalizás Passover</note>
       <tuv lang="en-US">
         <seg>The Middle Ages accused the Jews of crimes ranging from the bringing of the plague to bleeding Christian children to make their Passover meal.</seg>
       </tuv>
@@ -1998,6 +2008,12 @@ Buen intento de parafrasear, pero se fue el sentido.</note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250825T163820Z" creationid="Lenovo" creationdate="20250825T150202Z">
         <seg>Dicha expulsión violenta instaura una dialéctica hegeliana de amo y esclavo que se legitima a sí misma y naturaliza el sometimiento de un cuerpo cultural a otro; la cultura dominante escribe sobre el cuerpo subyugado como algo monstruoso, excluido de toda condición de persona y voluntad, ya que es diferente en todos los aspectos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>¿Queda tal cual?</note>
+      <tuv lang="en-US">
+        <seg>Thomas More, &lt;f0&gt;The Yale Edition of the Complete Works of Thomas More,&lt;/f0&gt; vol. 2, &lt;f1&gt;The History of King Richard III,&lt;/f1&gt; ed. Richard S. Sylvester (New Haven, Conn.: Yale University Press, 1963), 7.</seg>
       </tuv>
     </tu>
     <tu>
