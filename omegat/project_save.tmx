@@ -68,7 +68,11 @@ Agregué un tag.</note>
       </tuv>
     </tu>
     <tu>
-      <note>El texto original tiene un tag sin inicio.</note>
+      <note>El texto original tiene un tag sin inicio.
+
+No te preocupes. El programa los entiende mucho mejor que nosotros.
+
+</note>
       <tuv lang="en-US">
         <seg>&lt;t0/&gt; Every monster is in this way a double narrative, two living stories: one that describes how the monster came to be and another, its testimony, detailing what cultural use the monster serves.</seg>
       </tuv>
