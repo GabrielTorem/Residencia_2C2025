@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -315,7 +315,14 @@ Hay un diacrítico mal usado.
     <tu>
       <note>Con respecto al nombre de la Universidad, encontré un documento en la página web de Kalamazoo, el cual adjunto en el glosario con la palabra Michigan. Si bien la RAE admite el término "Míchigan", en este caso el nombre de la Universidad contiene la palabra "Western", por lo que decidí mantener ambos nombres en inglés.
 
-En el caso de "Medieval", encontré un ensayo de la Revista Calamus, de la Sociedad Argentina de Estudios Medievales (adjunto en glosario). En la misma, se denomina "Instituto Medieval" al departamento de la Universidad de Míchigan.</note>
+En el caso de "Medieval", encontré un ensayo de la Revista Calamus, de la Sociedad Argentina de Estudios Medievales (adjunto en glosario). En la misma, se denomina "Instituto Medieval" al departamento de la Universidad de Míchigan.
+
+Perfecto. Con que añadas los términos al glosario, no hace falta que agregues las notas.
+
+Correcta la corrección en Männerbunde.
+cuya función... : no es exacta.
+Se te escapó un "y" en el nombre del libro.
+Está mal usada la cursiva. El título del ensayo va entrecomillado. El libro en cursiva.</note>
       <tuv lang="en-US">
         <seg>A useful (albeit politically charged) term for such a collective is &lt;f0&gt;Maénnerbunde,&lt;/f0&gt; “all-male groups with aggression as one major function.” See Joseph Harris, “Love and Death in the Mannerbund: An Essay with Special Reference to the &lt;f1&gt;Bjarkamál&lt;/f1&gt; and &lt;f2&gt;The Battle of Maldon,&lt;/f2&gt;” in Heroic Poetry in the Anglo-Saxon Period, ed, Helen Damico and John Leyerle (Kalamazoo: Medieval Institute/Western Michigan State University, 1993), 78.</seg>
       </tuv>
@@ -741,6 +748,7 @@ Excelente la fuente de Monstruización.</note>
       </tuv>
     </tu>
     <tu>
+      <note>también podés agregar dativo "haberme"</note>
       <tuv lang="en-US">
         <seg>I am indebted to Keeryung Hong of Harvard University for sharing her re- search on medieval map production for this hypothesis.</seg>
       </tuv>
