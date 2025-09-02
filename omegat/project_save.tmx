@@ -182,12 +182,14 @@ La sintaxis da una diferencia importante de punto de vista. Así como está qued
       </tuv>
     </tu>
     <tu>
-      <note>large = grande</note>
+      <note>large = grande
+
+Resuelto.</note>
       <tuv lang="en-US">
         <seg>&lt;t4/&gt; Its male reproductive organ is said to be disproportionately large, but the monster could use either sex at its own discretion.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250824T002221Z" creationid="Marina" creationdate="20250823T232113Z">
-        <seg>&lt;t4/&gt;Se decía que su órgano reproductor masculino era desproporcionadamente largo, pero el monstruo podía usar indistintamente uno u otro sexo a su elección. 
+      <tuv lang="es-ES" changeid="Marina" changedate="20250902T230805Z" creationid="Marina" creationdate="20250823T232113Z">
+        <seg>&lt;t4/&gt;Se decía que su órgano reproductor masculino era desproporcionadamente grande, pero el monstruo podía usar indistintamente uno u otro sexo a su elección. 
 </seg>
       </tuv>
     </tu>
