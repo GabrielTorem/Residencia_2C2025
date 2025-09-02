@@ -164,11 +164,13 @@ No olvides las comillas</note>
       </tuv>
     </tu>
     <tu>
+      <note>Agregué un tag.
+La sintaxis da una diferencia importante de punto de vista. Así como está queda mal formulada.</note>
       <tuv lang="en-US">
         <seg>&lt;t3/&gt; Incest narratives are common to every tradition and have been extensively documented, mainly owing to LéviStrauss’s elevation of the taboo to the founding base of patriarchal society.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250902T140601Z" creationid="Lenovo" creationdate="20250901T155825Z">
-        <seg>Las narrativas sobre el incesto son comunes a todas las tradiciones y han sido documentadas ampliamente, sobre todo debido a que Lévi Strauss erigió el tabú como la base fundante de la sociedad patriarcal. </seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250902T202941Z" creationid="Lenovo" creationdate="20250901T155825Z">
+        <seg>&lt;t3/&gt;Las narrativas sobre el incesto son comunes a todas las tradiciones y han sido documentadas ampliamente, sobre todo debido a que Lévi Strauss erigió el tabú como la base fundante de la sociedad patriarcal. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1088,6 +1090,7 @@ safe in the knowledge está mal reflejado</note>
       </tuv>
     </tu>
     <tu>
+      <note>ansiedad de género es oscuro.</note>
       <tuv lang="en-US">
         <seg>Miscegenation, that intersection of misogyny (gender anxiety) and racism (no matter how naive), has received considerably less critical at- tention.</seg>
       </tuv>
