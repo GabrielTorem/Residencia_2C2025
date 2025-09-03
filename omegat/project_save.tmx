@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -812,8 +812,7 @@ Excelente la fuente de Monstruización. ¡Gracias!</note>
       </tuv>
     </tu>
     <tu>
-      <note>subjects: error de sentido.
-expresar sintácticamente oscurece aun más</note>
+      <note>expresar sintácticamente oscurece aun más</note>
       <tuv lang="en-US">
         <seg>I connect these two seemingly unrelated titles here to call attention to the anxieties that monsterized their subjects in the first place, and to enact syntacticaily an even deeper fear: that the two will join in some unholy miscegenation.</seg>
       </tuv>
