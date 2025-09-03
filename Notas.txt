@@ -14,4 +14,4 @@ Piñeiro: 6
 Fittipaldi: 6 
 Gentile: 7
 Nazar: 4
-Piñeiro: 
+Piñeiro: 7 
