@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250905T142434Z" creationid="Marina" creationdate="20250905T142434Z">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f0&gt; Regardless of how many times Sigourney Weaver’s beleaguered Ripley utterly destroys the Monster Culture (Seven Theses) 5 ambiguous Alien that stalks her, its monstrous progeny return, ready to stalk again in another bigger-than-ever sequel.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T012351Z" creationid="gabrielt" creationdate="20250818T012351Z">
@@ -1861,6 +1869,15 @@ Bien, resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <note>'marginalia' en cursiva</note>
+      <tuv lang="en-US">
+        <seg>The same impulse to ataractic fantasy is behind much lavishly bizarre manuscript marginalia, from abstract scribblings at the edges of an ordered page to preposterous animals and vaguely humanoid creatures of strange anatomy that crowd a biblical text.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250905T142805Z" creationid="Marina" creationdate="20250905T142805Z">
+        <seg>Ese mismo impulso hacia la fantasía ataráxica se manifiesta en buena parte de la *marginalia* manuscrita profusamente insólita: desde garabatos abstractos en los bordes de una página ordenada hasta animales disparatados y criaturas vagamente humanoides, de anatomía extraña, que pueblan un texto bíblico.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Quitar espacios adicionals al final del párrafo.</note>
       <tuv lang="en-US">
         <seg>The situation was obviously far more complex than these statements can begin to show; “European,” for example, usually includes only males of the Western Latin tradition.</seg>
@@ -2099,6 +2116,14 @@ Buen intento de parafrasear, pero se fue el sentido.</note>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250822T135234Z" creationid="Marina" creationdate="20250815T011935Z">
         <seg>Por lo tanto, se observa la superioridad de “Vampires, Breast-feeding, and Anxiety”, de Joan Copjec, Octubre 58 (otoño de 1991): 25-43, frente a &lt;f0&gt;Vampires, Burial, and Death: Folklore and Reality&lt;/f0&gt; de Paul Barber (New Haven, Conn.: Yale University Press, 1988).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Times of carnival temporally marginalize the monstrous, but at the same time allow it a safe realm of expression and play: on Halloween everyone is a demon for a night.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250905T142654Z" creationid="Marina" creationdate="20250905T142623Z">
+        <seg>Los tiempos de carnaval marginan temporalmente lo monstruoso, pero al mismo tiempo le conceden un ámbito seguro de expresión y juego: en Halloween, todos son demonios por una noche.</seg>
       </tuv>
     </tu>
     <tu>
