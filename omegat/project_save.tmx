@@ -1313,8 +1313,10 @@ posesivo ante "descendencia".</note>
       <tuv lang="en-US">
         <seg>Notes</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250815T012332Z" creationid="Marina" creationdate="20250815T012332Z">
-        <seg>Notas</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250905T144618Z" creationid="Marina" creationdate="20250815T012332Z">
+        <seg>Notas
+[^1 N. de T.:] MOO (Multi-User Object-Oriented): tipo de MUD orientado a objetos, generalmente con fines educativos o de experimentación social. Los usuarios pueden interactuar con objetos y programar dentro del entorno virtual.
+[^2 N. de T.:] MUSH (Multi-User Shared Hallucination): tipo de MUD enfocado en la interacción social y narrativa entre usuarios, permitiendo la creación colaborativa de historias y escenarios virtuales.</seg>
       </tuv>
     </tu>
     <tu>
