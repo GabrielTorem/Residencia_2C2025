@@ -744,6 +744,14 @@ el hombre dentro... conc. exc.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Gargoyles and ornately sculpted grotesques, lurking at the crossbeams or upon the roof of the cathedral, likewise record the liberating fantasies of a bored or repressed hand suddenly freed to populate the margins.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250905T143655Z" creationid="Marina" creationdate="20250905T143655Z">
+        <seg>Del mismo modo, las gárgolas y los grotescos elaboradamente esculpidos, que acechan en los tirantes o sobre el techo de la catedral, registran las fantasías liberadoras de una mano aburrida o reprimida, liberada de repente para poblar los márgenes.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"deficiencia" resulta confuso</note>
       <tuv lang="en-US">
         <seg>Giraldus Cambrensis demonstrates just this slippage of the foreign in his &lt;f0&gt;Topography of Ireland;&lt;/f0&gt; when he writes of the Irish (ostensibly simply to provide information about them to a curious English court, but actually as a first step toward invading and colonizing the island), he observes:</seg>
