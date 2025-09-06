@@ -1687,6 +1687,16 @@ Resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <note>En inglés, el autor utiliza la oposición thundering giant / bumbling giant, que produce además un juego fónico (aliteración). Sostuve esta opción para mantener el juego con las consonantes "t" y "r".
+Estoy entre esta versión y “retumbante / tambaleante”.</note>
+      <tuv lang="en-US">
+        <seg>The co-optation of the monster into a symbol of the desirable is often accomplished through the neutralization of potentially threatening aspects with a liberal dose of comedy: the thundering giant becomes the bumbling giant.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250906T003108Z" creationid="Marina" creationdate="20250906T003108Z">
+        <seg>La apropiación del monstruo como símbolo de lo deseable se logra a menudo mediante la neutralización de aspectos potencialmente amenazantes con una generosa dosis de comedia: el gigante tronante se convierte en el gigante torpe.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The dense symbolism that makes a thick description of the monsters in Spenser, Milton, and even &lt;f2&gt;Beowulf&lt;/f2&gt; so challenging reminds us how permeable the monstrous body can be, how difficult to dissect.</seg>
       </tuv>
