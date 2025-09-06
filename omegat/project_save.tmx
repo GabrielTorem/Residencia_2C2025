@@ -1353,10 +1353,10 @@ posesivo ante "descendencia".</note>
       <tuv lang="en-US">
         <seg>Notes</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250905T144618Z" creationid="Marina" creationdate="20250815T012332Z">
+      <tuv lang="es-ES" changeid="Marina" changedate="20250906T002846Z" creationid="Marina" creationdate="20250815T012332Z">
         <seg>Notas
 [^1 N. de T.:] MOO (Multi-User Object-Oriented): tipo de MUD orientado a objetos, generalmente con fines educativos o de experimentación social. Los usuarios pueden interactuar con objetos y programar dentro del entorno virtual.
-[^2 N. de T.:] MUSH (Multi-User Shared Hallucination): tipo de MUD enfocado en la interacción social y narrativa entre usuarios, permitiendo la creación colaborativa de historias y escenarios virtuales.</seg>
+[^2 N. de T.:] MUSH (Multi-User Shared Hallucination): tipo de MUD enfocado en la interacción social y narrativa entre usuarios, permitiendo la creación colaborativa de historias y escenarios virtuales.[3^N. de T.]: *La búsqueda del santo Grial*, Anónimo. [Traducción al español de Carlos Alvar. Editor digital: Titivillus, 2020], 137.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2345,12 +2345,14 @@ Ayúdenme a pensar si "Yeti" va con mayúscula. (Resuelto: en min)
       </tuv>
     </tu>
     <tu>
-      <note>La cita entre comillas pertenece a la traducción de Carlos Alvar de "La búsqueda del santo Grial", 137. Fuente: https://drive.google.com/file/d/1kIMnaDzyvEGTtZvRgNcCzjalE1KIaTxQ/view?usp=sharing</note>
+      <note>La cita entre comillas pertenece a la traducción de Carlos Alvar de "La búsqueda del santo Grial", 137. Fuente: https://drive.google.com/file/d/1kIMnaDzyvEGTtZvRgNcCzjalE1KIaTxQ/view?usp=sharing
+
+</note>
       <tuv lang="en-US">
         <seg>When Bors refuses to sleep with one of these transcorporal devils (described as “so lovely and so fair that it seemed all earthly beauty was embodied in her”), his steadfast assertion of control banishes them all shrieking back to hell.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250906T000523Z" creationid="Marina" creationdate="20250905T145425Z">
-        <seg>Cuando Bors se niega a acostarse con uno de estos demonios transcorpóreos (descrito como “una doncella tan hermosa y tan bella que parece tener en sí toda la belleza terrena”), su firme afirmación de control los destierra a todos, aullando de regreso al infierno.</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250906T002617Z" creationid="Marina" creationdate="20250905T145425Z">
+        <seg>Cuando Bors se niega a acostarse con uno de estos demonios transcorpóreos (descrito como “una doncella tan hermosa y tan bella que parece tener en sí toda la belleza terrena”[3 N. de T.]), su firme afirmación de control los destierra a todos, aullando de regreso al infierno.</seg>
       </tuv>
     </tu>
     <tu>
