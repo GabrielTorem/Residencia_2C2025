@@ -24,8 +24,8 @@
       <tuv lang="en-US">
         <seg>2</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250905T142434Z" creationid="Marina" creationdate="20250905T142434Z">
-        <seg>2</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250906T000157Z" creationid="Marina" creationdate="20250905T142434Z">
+        <seg>2 </seg>
       </tuv>
     </tu>
     <tu>
@@ -193,8 +193,8 @@ La sintaxis da una diferencia importante de punto de vista. Así como está qued
       <tuv lang="en-US">
         <seg>&lt;t3/&gt; The episode valorizes the celibacy so central to the authors’ belief system (and so difficult to enforce) while inculcating a lesson in morality for the work’s intended secular audience, the knights and courtly women fond of romances.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250905T145457Z" creationid="Marina" creationdate="20250905T145457Z">
-        <seg>&lt;t3/&gt;El episodio exalta el celibato, un valor tan central en el sistema de creencias de los autores (y tan difícil de imponer), al mismo tiempo que inculca una lección moral para el público secular al que se destinaba la obra: los caballeros y las damas cortesanas aficionados a los romances.</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250906T000238Z" creationid="Marina" creationdate="20250905T145457Z">
+        <seg>&lt;t3/&gt;El episodio exalta el celibato, un valor tan central en el sistema de creencias de los autores (y tan difícil de imponer), al mismo tiempo que inculca una lección moral para el público secular al que se destinaba la obra: los caballeros y las damas cortesanas aficionados a los romances. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2343,8 +2343,8 @@ Ayúdenme a pensar si "Yeti" va con mayúscula. (Resuelto: en min)
       <tuv lang="en-US">
         <seg>When Bors refuses to sleep with one of these transcorporal devils (described as “so lovely and so fair that it seemed all earthly beauty was embodied in her”), his steadfast assertion of control banishes them all shrieking back to hell.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250905T235658Z" creationid="Marina" creationdate="20250905T145425Z">
-        <seg>Cuando Bors se niega a acostarse con uno de estos demonios transcorpóreos (descrito como “una doncella tan hermosa y tan bella que parece tener en sí toda la belleza terrena”[^N. de T.4]), su firme afirmación de control los destierra a todos, aullando de regreso al infierno.</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250906T000344Z" creationid="Marina" creationdate="20250905T145425Z">
+        <seg>Cuando Bors se niega a acostarse con uno de estos demonios transcorpóreos (descrito como “una doncella tan hermosa y tan bella que parece tener en sí toda la belleza terrena”[3 N. de T.]), su firme afirmación de control los destierra a todos, aullando de regreso al infierno.</seg>
       </tuv>
     </tu>
     <tu>
