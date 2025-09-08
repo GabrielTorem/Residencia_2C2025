@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -160,11 +160,12 @@ No te preocupes. El programa los entiende mucho mejor que nosotros.
       </tuv>
     </tu>
     <tu>
+      <note>podés usar gerundio</note>
       <tuv lang="en-US">
         <seg>&lt;t0/&gt; Ovid relates how the primeval giants attempted to plunge the world into anarchy by wrenching Olympus from the gods, only to be shattered by divine thunderbolts.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20250908T213533Z" creationid="solca" creationdate="20250908T213533Z">
-        <seg> Ovidio relata cómo los gigantes primigenios intentaron sumergir al mundo en la anarquía al arrebatar el Olimpo a los dioses, solo para ser destrozados por los rayos divinos.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250908T224318Z" creationid="solca" creationdate="20250908T213533Z">
+        <seg>Ovidio relata cómo los gigantes primigenios intentaron sumergir al mundo en la anarquía al arrebatar el Olimpo a los dioses, solo para ser destrozados por los rayos divinos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -185,11 +186,12 @@ No te preocupes. El programa los entiende mucho mejor que nosotros.
       </tuv>
     </tu>
     <tu>
+      <note>Agregué tag</note>
       <tuv lang="en-US">
         <seg>&lt;t1/&gt; Among this wicked progeny was Lycaon, king of Arcadia.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20250908T213656Z" creationid="solca" creationdate="20250908T213656Z">
-        <seg>Dentro de esta progenie malvada se encontraba Licaón, rey de Arcadia. </seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250908T224603Z" creationid="solca" creationdate="20250908T213656Z">
+        <seg>&lt;t1/&gt;Dentro de esta progenie malvada se encontraba Licaón, rey de Arcadia. </seg>
       </tuv>
     </tu>
     <tu>
@@ -924,6 +926,7 @@ Promulgation: repensar</note>
       </tuv>
     </tu>
     <tu>
+      <note>continued ≠ perpetuaron</note>
       <tuv lang="en-US">
         <seg>From their scattered blood arose a race of men who continued their fathers’ malignant ways.</seg>
       </tuv>
@@ -2838,6 +2841,8 @@ Ayúdenme a pensar si "Yeti" va con mayúscula. (Resuelto: en min)
       </tuv>
     </tu>
     <tu>
+      <note>gobernante: coloc.
+mientras ¿quién? dormía</note>
       <tuv lang="en-US">
         <seg>When Jupiter arrived as a guest at his house, Lycaon tried to kill the ruler of the gods as he slept, and the next day served him pieces of a servant’s body as a meal.</seg>
       </tuv>
