@@ -69,3 +69,5 @@ monstrosity	monstruosidad	Maca: https://dictionary.cambridge.org/es/diccionario/
 liminal	liminal	Maca: https://dictionary.cambridge.org/es/diccionario/ingles/liminal
 celluloid	celuloide	Maca: https://dictionary.cambridge.org/es/diccionario/ingles-espanol/celluloid
 hagiographic poem	poema hagiográficos	https://www.cervantesvirtual.com/obra/poemas-hagiograficos-de-caracter-juglaresco-1214711/
+Juliana	Juliana	https://en.wikipedia.org/wiki/Juliana_(poem)
+Elene	Elene	https://en.wikipedia.org/wiki/Elene
