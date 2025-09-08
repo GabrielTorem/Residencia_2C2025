@@ -1167,6 +1167,14 @@ Pensemos qué hacemos con las traducciones.</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Julia Kristeva, &lt;f0&gt;The Powers of Horror: An Essay on Abjection,&lt;/f0&gt; trans. Leon S. Roudiez (New York: Columbia University Press, 1982), 1.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T190115Z" creationid="Lenovo" creationdate="20250908T190115Z">
+        <seg>Julia Kristeva, &lt;f0&gt;The Powers of Horror: An Essay on Abjection,&lt;/f0&gt; trans. Leon S. Roudiez (New York: Columbia University Press, 1982), 1. [La traducción es nuestra]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Like a letter on the page, the monster signifies something other than itself: it is always a displacement, always inhabits the gap between the time of upheaval that created it and the moment into which it is received, to be born again.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="solca" changedate="20250818T234944Z" creationid="solca" creationdate="20250818T234944Z">
@@ -1941,6 +1949,14 @@ Es que hay puntos suspensivos. Intentaré arreglarlo en el programa.
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T191915Z" creationid="Lenovo" creationdate="20250819T191915Z">
         <seg>El género de lo monstruoso es demasiado extensivo como para ser encapsulado en cualquier sistema conceptual; la existencia misma del monstruo es un reproche a la demarcación y al cerramiento; al igual que los gigantes en &lt;f5&gt;Los viajes de Mandeville,&lt;/f5&gt; la existencia del monstruo amenaza con devorar “por completo, crudo y vivo” a cualquier pensador que insista en lo contrario. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The monstrous lurks somewhere in that ambiguous, primal space between fear and attraction, close to the heart of what Kristeva calls “abjection”:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T190044Z" creationid="Lenovo" creationdate="20250908T190044Z">
+        <seg>El monstruo acecha en algún punto de ese espacio ambiguo, primario entre el miedo y la atracción, cerca del corazón de lo que Kristeva denomina “abyección":</seg>
       </tuv>
     </tu>
     <tu>
