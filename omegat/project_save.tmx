@@ -61,6 +61,14 @@ Sí. Adriana Astutti. https://beatrizviterboeditora.com.ar/coleccion/2/traduccio
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f1&gt; This popular type of narrative may be conveniently labeled the fable of hospitality; such stories envalue the practice whose breach they illustrate through a drama repudiating the dangerous behavior.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250908T221459Z" creationid="solca" creationdate="20250908T221459Z">
+        <seg>Este tipo de relato popular puede etiquetarse convenientemente como la fábula de la hospitalidad; historias así enaltecen la práctica cuya violación ilustran mediante un drama que repudia ese comportamiento peligroso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f5&gt; In each of these vampire stories, the undead returns in slightly different clothing, each time to be read against contemporary social movements or a specific, determining event: &lt;f6&gt;la décadence&lt;/f6&gt; and its new possibilities, homophobia and its hateful imperatives, the acceptance of new subjectivities unfixed by binary gender, a fin de siécle social activism paternalistic in its embrace.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T012228Z" creationid="gabrielt" creationdate="20250818T012228Z">
@@ -423,6 +431,14 @@ Está mal usada la cursiva. El título del ensayo va entrecomillado. El libro en
       <tuv lang="es-ES" changeid="Marina" changedate="20250831T212709Z" creationid="Marina" creationdate="20250831T201918Z">
         <seg>Un término útil (aunque políticamente cargado) para un colectivo como este es &lt;f0&gt;Männerbünde,&lt;/f0&gt; “grupos exclusivamente masculinos cuya función principal es la agresión”. Véase Joseph Harris, *“Love and Death in the Mannerbund: An Essay with Special Reference to the &lt;f1&gt;Bjarkamál&lt;/f1&gt; y &lt;f2&gt;The Battle of Maldon,&lt;/f2&gt; in Heroic Poetry in the Anglo-Saxon Period”*, compilado por Helen Damico y Leyerle (Kalamazoo: Instituto Medieval/Universidad Estatal Western Michigan, 1993), 78.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A violation of that code is responsible for the destruction of the biblical Sodom and Gomorrah, for the devolution from man to giant in &lt;f0&gt;Sir Gawain and the Carl of Carlisle,&lt;/f0&gt; and for the first punitive transformation in Ovid’s &lt;f1&gt;Metamorphoses.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250908T221415Z" creationid="solca" creationdate="20250908T221415Z">
+        <seg>La violación de ese código es la causa de la destrucción bíblica de Sodoma y Gomorra, de la regresión del hombre a gigante en &lt;f0&gt;Sir Gawain and the Carl of Carlisle&lt;/f0&gt; , y de la primera transformación punitiva en las Metamorfosis de Ovidio.</seg>
       </tuv>
     </tu>
     <tu>
