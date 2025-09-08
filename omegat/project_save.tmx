@@ -1961,6 +1961,14 @@ Resuelto.</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The fable concludes when Lycaon can no longer speak, only signify.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250908T221125Z" creationid="solca" creationdate="20250908T221125Z">
+        <seg>La fábula concluye cuando Licaón ya no puede hablar, solo significar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The fears of contamination, impurity, and loss of identity that produce stories like the Genesis episode are strong, and they reappear incessantly.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250901T161034Z" creationid="Lenovo" creationdate="20250901T161034Z">
@@ -2246,6 +2254,14 @@ forcibly imported...</note>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250905T144555Z" creationid="Marina" creationdate="20250905T144555Z">
         <seg>El equivalente posmoderno de esos espacios es el ciberespacio gibsoniano, con sus MOOs[^1 N. de T.] y MUSHes[^2 N. de T.] y otras arenas de posibilidades ilimitadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The power of the narrative prohibition peaks in the lingering description of the monstrously composite Lycaon, at that median where he is both man and beast, dual natures in a helpless tumult of assertion.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250908T220704Z" creationid="solca" creationdate="20250908T220704Z">
+        <seg>El poder de la prohibición narrativa alcanza su punto álgido en la prolongada descripción del monstruoso y compuesto Licaón, en ese punto medio donde es tanto hombre como bestia, dos naturalezas en un tumulto indefenso de afirmación.</seg>
       </tuv>
     </tu>
     <tu>
