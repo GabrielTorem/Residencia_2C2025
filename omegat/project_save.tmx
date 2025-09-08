@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -654,6 +654,8 @@ Resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Hay un error de revisión.
+Los términos franceses se pueden usar como extranjerismos en cursiva en castellano.</note>
       <tuv lang="en-US">
         <seg>Because it is a body across which difference has been repeatedly written, the monster (like Frankenstein’s creature, that combination of odd somatic pieces stitched together from a community of cadavers) seeks out its author to demand its raison d’étre—and to bear witness to the fact that it could have been constructed Otherwise.</seg>
       </tuv>
@@ -2542,6 +2544,7 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
       </tuv>
     </tu>
     <tu>
+      <note>¿pensamos opciones para "vigila"?</note>
       <tuv lang="en-US">
         <seg>Thesis V: The Monster Polices the Borders of the Possible</seg>
       </tuv>
