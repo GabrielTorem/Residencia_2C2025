@@ -1913,6 +1913,14 @@ Mantememos el ";"</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The giants of Patagonia, the dragons of the Orient, and the dinosaurs of Jurassic Park together declare that curiosity is more often punished than rewarded, that one is better off safely contained within one’s own domestic sphere than abroad, away from the watchful eyes of the state.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250908T212633Z" creationid="solca" creationdate="20250908T212633Z">
+        <seg>Los gigantes de la Patagonia, los dragones de Oriente y los dinosaurios de Jurassic Park proclaman juntos que la curiosidad suele ser castigada en lugar de recompensada, que es mejor permanecer a salvo dentro de la esfera doméstica que aventurarse fuera, lejos de la mirada vigilante del Estado.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Me parece que hay un error en el original en "naturale", ¿Podrías verificarlo por favor? Naturae sería más lógico.
 
 Verificado en: https://www.cervantesvirtual.com/obra/speculum-naturale/</note>
