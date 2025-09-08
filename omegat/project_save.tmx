@@ -159,6 +159,14 @@ No te preocupes. El programa los entiende mucho mejor que nosotros.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;t1/&gt; Among this wicked progeny was Lycaon, king of Arcadia.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250908T213656Z" creationid="solca" creationdate="20250908T213656Z">
+        <seg>Dentro de esta progenie malvada se encontraba Licaón, rey de Arcadia. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;t1/&gt; Or we might analyze Murnau’s self-loathing appropriation of the same demon in &lt;f2&gt;Nosferatu,&lt;/f2&gt; where in the face of nascent fascism the undercurrent of desire surfaces in plague and bodily corruption.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T012436Z" creationid="gabrielt" creationdate="20250818T012436Z">
@@ -862,6 +870,14 @@ el hombre dentro... conc. exc.
       <tuv lang="es-ES" changeid="Marina" changedate="20250902T231456Z" creationid="Marina" creationdate="20250823T232334Z">
         <seg>Desde el período clásico hasta el s. XX, la raza ha sido un catalizador casi tan poderoso para la creación de monstruos como lo han sido la cultura, el género y la sexualidad.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From their scattered blood arose a race of men who continued their fathers’ malignant ways.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250908T213610Z" creationid="solca" creationdate="20250908T213610Z">
+        <seg>De su sangre dispersa surgió una raza de hombres que perpetuaron las conductas malignas de sus padres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2670,6 +2686,14 @@ Ayúdenme a pensar si "Yeti" va con mayúscula. (Resuelto: en min)
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250908T150310Z" creationid="Marina" creationdate="20250905T145425Z">
         <seg>Cuando Boorse se niega a acostarse con uno de estos demonios transcorpóreos (descrito como “una doncella tan hermosa y tan bella que parece tener en sí toda la belleza terrena” (*La búsqueda del santo Grial*, 137), su firme afirmación de control los destierra a todos, aullando de regreso al infierno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When Jupiter arrived as a guest at his house, Lycaon tried to kill the ruler of the gods as he slept, and the next day served him pieces of a servant’s body as a meal.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250908T214035Z" creationid="solca" creationdate="20250908T214035Z">
+        <seg>Cuando Júpiter llegó como invitado a su casa, Licaón intentó matar al gobernante de los dioses mientras dormía, y al día siguiente le sirvió trozos del cuerpo de un sirviente como comida.</seg>
       </tuv>
     </tu>
     <tu>
