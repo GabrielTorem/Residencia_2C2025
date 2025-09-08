@@ -1361,10 +1361,10 @@ posesivo ante "descendencia".</note>
       <tuv lang="en-US">
         <seg>Notes</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250908T145821Z" creationid="Marina" creationdate="20250815T012332Z">
+      <tuv lang="es-ES" changeid="Marina" changedate="20250908T145953Z" creationid="Marina" creationdate="20250815T012332Z">
         <seg>Notas
 [1 N. de T.:] MOO (Multi-User Object-Oriented): tipo de MUD orientado a objetos, generalmente con fines educativos o de experimentación social. Los usuarios pueden interactuar con objetos y programar dentro del entorno virtual.
-[2 N. de T.:] MUSH (Multi-User Shared Hallucination): tipo de MUD enfocado en la interacción social y narrativa entre usuarios, permitiendo la creación colaborativa de historias y escenarios virtuales. [3 N. de T.:] Le Goff, Jacques. *Por otra Edad Media*, trad. Mauro Armiño (Madrid: Taurus, 2020), 106. [4 N. de T.:] *La búsqueda del santo Grial*, Anónimo. [Traducción al español de Carlos Alvar. Editor digital: Titivillus, 2020], 137.</seg>
+[2 N. de T.:] MUSH (Multi-User Shared Hallucination): tipo de MUD enfocado en la interacción social y narrativa entre usuarios, permitiendo la creación colaborativa de historias y escenarios virtuales. [3 N. de T.:] *La búsqueda del santo Grial*, Anónimo. [Traducción al español de Carlos Alvar. Editor digital: Titivillus, 2020], 137.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2037,8 +2037,8 @@ Fuente: Le Goff, Jacques. *Por otra Edad Media*, trad. Mauro Armiño (Madrid: Ta
       <tuv lang="en-US">
         <seg>The strict morality imposed by the Church was contrasted with the discomfiting attractiveness of a world of bizarre tastes, which practiced coprophagy and cannibalism; of bodily innocence, where man, freed of the modesty of clothing, rediscovered nudism and sexual freedom; and where, once rid of restrictive monogamy and family barriers, he could give himself over to polygamy, incest, and eroticism.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250908T145703Z" creationid="Marina" creationdate="20250905T144743Z">
-        <seg>Frente a la moral estricta impuesta por la Iglesia, se despliega la seducción turbadora de un mundo de aberración alimenticia donde se practica coprofagia y canibalismo; inocencia corporal gracias a la cual el hombre, liberado del pudor de la ropa, se reencuentra con el nudismo; libertad sexual por la que el hombre, libre de la indigente monogamia y de las barreras familiares, se entrega a la poligamia, al incesto, al erotismo.[^3 N. de T.]</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250908T145943Z" creationid="Marina" creationdate="20250905T144743Z">
+        <seg>Frente a la moral estricta impuesta por la Iglesia, se despliega la seducción turbadora de un mundo de aberración alimenticia donde se practica coprofagia y canibalismo; inocencia corporal gracias a la cual el hombre, liberado del pudor de la ropa, se reencuentra con el nudismo; libertad sexual por la que el hombre, libre de la indigente monogamia y de las barreras familiares, se entrega a la poligamia, al incesto, al erotismo.(*Por otra Edad Media*, 106).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2372,8 +2372,8 @@ Ayúdenme a pensar si "Yeti" va con mayúscula. (Resuelto: en min)
       <tuv lang="en-US">
         <seg>When Bors refuses to sleep with one of these transcorporal devils (described as “so lovely and so fair that it seemed all earthly beauty was embodied in her”), his steadfast assertion of control banishes them all shrieking back to hell.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250908T145829Z" creationid="Marina" creationdate="20250905T145425Z">
-        <seg>Cuando Boorse se niega a acostarse con uno de estos demonios transcorpóreos (descrito como “una doncella tan hermosa y tan bella que parece tener en sí toda la belleza terrena”[4 N. de T.]), su firme afirmación de control los destierra a todos, aullando de regreso al infierno.</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250908T145956Z" creationid="Marina" creationdate="20250905T145425Z">
+        <seg>Cuando Boorse se niega a acostarse con uno de estos demonios transcorpóreos (descrito como “una doncella tan hermosa y tan bella que parece tener en sí toda la belleza terrena”[3 N. de T.]), su firme afirmación de control los destierra a todos, aullando de regreso al infierno.</seg>
       </tuv>
     </tu>
     <tu>
