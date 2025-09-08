@@ -1190,6 +1190,15 @@ Pensemos qué hacemos con las traducciones.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Corrijo error en la cita, no puedo sacar el nro 25 antes de Routledge</note>
+      <tuv lang="en-US">
+        <seg>Judith Butler, &lt;f0&gt;Bodies That Matter: On the Discursive Limits of &lt;/f0&gt;“&lt;f1&gt;Sex&lt;/f1&gt;” (New York: Monster Culture (Seven Theses) 25 Routledge, 1993), 22.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T192053Z" creationid="Lenovo" creationdate="20250908T192053Z">
+        <seg>Judith Butler, &lt;f0&gt;Bodies That Matter: On the Discursive Limits of &lt;/f0&gt;“&lt;f1&gt;Sex&lt;/f1&gt;” (New York: 25Routledge, 1993), 22.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Julia Kristeva, &lt;f0&gt;The Powers of Horror: An Essay on Abjection,&lt;/f0&gt; trans. Leon S. Roudiez (New York: Columbia University Press, 1982), 1.</seg>
       </tuv>
@@ -2251,8 +2260,8 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
       <tuv lang="en-US">
         <seg>This corporal fluidity, this simultaneity of anxiety and desire, ensures that the monster will always dangerously entice.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T185234Z" creationid="Lenovo" creationdate="20250908T185234Z">
-        <seg>La fluidez corporal, la ansiedad y el deseo que generan a la misma vez, aseguran que el monstruo siempre atraerá peligrosamente.</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T190759Z" creationid="Lenovo" creationdate="20250908T185234Z">
+        <seg>La fluidez corporal, la ansiedad y el deseo que generan al mismo tiempo, aseguran que el monstruo siempre atraerá peligrosamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2372,6 +2381,14 @@ Buen intento de parafrasear, pero se fue el sentido.</note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250902T221418Z" creationid="Lenovo" creationdate="20250825T142909Z">
         <seg>Para complicar aún más la confusión de categorías, a menudo un tipo de alteridad es escrito como otro, de modo que la diferencia en nacionalidad (por ejemplo) se transforma en diferencia sexual. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unflaggingly, like an inescapable boomerang, a vortex of summons and repulsion places the one haunted by it literally beside himself.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T190830Z" creationid="Lenovo" creationdate="20250908T190830Z">
+        <seg>Incanseablemente, como un búmerang indomable, un vórtice de atracción y de repulsión coloca a aquel que está asechando literalmente a su lado.</seg>
       </tuv>
     </tu>
     <tu>
