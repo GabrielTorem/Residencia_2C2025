@@ -467,6 +467,14 @@ A veces "is" es "es". (Resuelto)</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>And the self that one stands so suddenly and so nervously beside is the monster.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T192920Z" creationid="Lenovo" creationdate="20250908T192920Z">
+        <seg>Y quien aparece tan de repente y tan nerviosamente a nuestro lado es el monstruo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>La entra de apotheosize está mal: traducís un verbo por un sustantivo. Es discutible si es término.
 Conjoin no es término.
 Pensar "escrutinio" (Resuelto)</note>
@@ -1274,6 +1282,14 @@ safe in the knowledge está mal reflejado</note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250903T145229Z" creationid="Lenovo" creationdate="20250819T154822Z">
         <seg>Marjorie Garber, &lt;f0&gt;Vested Interests: Cross-Dressing and Cultural Anxiety&lt;/f0&gt; (Nueva York: Routledge, 1992), 11. [La traducción es nuestra]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Michael Uebel amplifies and applies this practice to the monster in his essay in this volume.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T192807Z" creationid="Lenovo" creationdate="20250908T192807Z">
+        <seg>Michael Uebel amplía y aplica esta práctica al monstruo en su ensayo incluido en este volumen.</seg>
       </tuv>
     </tu>
     <tu>
