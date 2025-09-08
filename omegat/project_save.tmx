@@ -1169,8 +1169,8 @@ Pensemos qué hacemos con las traducciones.</note>
       <tuv lang="en-US">
         <seg>Julia Kristeva, &lt;f0&gt;The Powers of Horror: An Essay on Abjection,&lt;/f0&gt; trans. Leon S. Roudiez (New York: Columbia University Press, 1982), 1.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T190115Z" creationid="Lenovo" creationdate="20250908T190115Z">
-        <seg>Julia Kristeva, &lt;f0&gt;The Powers of Horror: An Essay on Abjection,&lt;/f0&gt; trans. Leon S. Roudiez (New York: Columbia University Press, 1982), 1. [La traducción es nuestra]</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T190241Z" creationid="Lenovo" creationdate="20250908T190115Z">
+        <seg>Julia Kristeva, &lt;f0&gt;The Powers of Horror: An Essay on Abjection,&lt;/f0&gt; (New York: Columbia University Press, 1982), 1. [La traducción es nuestra]</seg>
       </tuv>
     </tu>
     <tu>
@@ -2139,6 +2139,14 @@ Resuelto.</note>
       </tuv>
       <tuv lang="es-ES" changeid="solca" changedate="20250901T225643Z" creationid="solca" creationdate="20250901T225643Z">
         <seg>No quedan animales vivos en el zoológico de Sarajevo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There looms, within abjection, one of those violent, dark revolts of being, directed against a threat that seems to emanate from an exorbitant outside or inside, ejected beyond the scope of the possible, the tolerable, the thinkable.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T190443Z" creationid="Lenovo" creationdate="20250908T190223Z">
+        <seg>Desde la abyección surge una de esas rebeliones violentas y oscuras del ser contra aquello que lo amenaza y que le parece venir de un afuera o de un adentro exorbitante, arrojado al lado de lo posible y de lo tolerable, de lo pensable.</seg>
       </tuv>
     </tu>
     <tu>
