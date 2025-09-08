@@ -2192,6 +2192,14 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>This corporal fluidity, this simultaneity of anxiety and desire, ensures that the monster will always dangerously entice.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T185234Z" creationid="Lenovo" creationdate="20250908T185234Z">
+        <seg>La fluidez corporal, la ansiedad y el deseo que generan a la misma vez, aseguran que el monstruo siempre atraerá peligrosamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Usar cursiva.</note>
       <tuv lang="en-US">
         <seg>This discussion owes an obvious debt to Mary Douglas, Purity and Danger: &lt;f0&gt;An Analysis of the Concepts of Pollution and Taboo&lt;/f0&gt; (New York: Routledge &amp; Kegan Paul, 1966).</seg>
