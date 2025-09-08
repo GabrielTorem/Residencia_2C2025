@@ -2041,6 +2041,14 @@ Es que hay puntos suspensivos. Intentaré arreglarlo en el programa.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The monster resists capture in the epistemological nets of the erudite, but it is something more than a Bakhtinian ally of the popular.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250908T212206Z" creationid="solca" creationdate="20250908T212206Z">
+        <seg>El monstruo se resiste a la captura de las redes epistemológicas de los eruditos, pero es algo más que un aliado bakhtiniano de lo popular.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>expedient; mal traducido</note>
       <tuv lang="en-US">
         <seg>The monsters are here, as elsewhere, expedient representations of other cultures, generalized and demonized to enforce a strict notion of group sameness.</seg>
