@@ -1661,6 +1661,12 @@ No está bien lograda.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Hay muchísimas ediciones en castellano; el origina está en latín.</note>
+      <tuv lang="en-US">
+        <seg>Ovid, &lt;f0&gt;Metamorphoses&lt;/f0&gt; (Loeb Classical Library no.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Ojo tags en Ecloga
 Resuelto.</note>
       <tuv lang="en-US">
@@ -2400,6 +2406,7 @@ Fuente: Le Goff, Jacques. *Por otra Edad Media*, trad. Mauro Armiño (Madrid: Ta
       </tuv>
     </tu>
     <tu>
+      <note>una lección del huésped</note>
       <tuv lang="en-US">
         <seg>The valorization is accomplished in one of two ways: the host is a monster already and learns a lesson at the hands of his guest, or the host becomes a monster in the course of the narrative and audience members realize how they should conduct themselves.</seg>
       </tuv>
