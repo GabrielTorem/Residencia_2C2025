@@ -133,6 +133,14 @@ No te preocupes. El programa los entiende mucho mejor que nosotros.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0/&gt; Ovid relates how the primeval giants attempted to plunge the world into anarchy by wrenching Olympus from the gods, only to be shattered by divine thunderbolts.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250908T213533Z" creationid="solca" creationdate="20250908T213533Z">
+        <seg> Ovidio relata cómo los gigantes primigenios intentaron sumergir al mundo en la anarquía al arrebatar el Olimpo a los dioses, solo para ser destrozados por los rayos divinos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>ataractic: para glosario</note>
       <tuv lang="en-US">
         <seg>&lt;t0/&gt; The monster’s body quite literally incorporates fear, desire, anxiety, and fantasy (ataractic or incendiary), giving them life and an uncanny independence.</seg>
