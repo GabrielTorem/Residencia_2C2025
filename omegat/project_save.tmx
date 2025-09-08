@@ -961,10 +961,35 @@ Resuelto.</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>He turns into a wolf, and yet retains some traces of his former shape.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250908T220225Z" creationid="solca" creationdate="20250908T220225Z">
+        <seg>se convierte en lobo y mantiene rastros de su antigua figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hermaphrodites, Amazons, and lascivious cannibals beckon from the edges of the world, the most distant planets of the galaxy.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250905T145302Z" creationid="Marina" creationdate="20250905T145302Z">
         <seg>Los hermafroditas, las amazonas y los caníbales lascivos llaman desde los confines del mundo, los planetas más distantes de la galaxia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>His garments change to shaggy hair, his arms to legs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250908T220147Z" creationid="solca" creationdate="20250908T220147Z">
+        <seg>En pelaje se transforman sus vestidos, en patas 
+sus brazos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>His mouth of itself gathers foam, and with his accustomed greed for blood he turns against the sheep, delighting still in slaughter.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250908T220127Z" creationid="solca" creationdate="20250908T220127Z">
+        <seg>Su cara concentra de él mismo la rabia y hace uso de su acostumbrado deseo de matanza contra los animales y todavía ahora se alegra con la sangre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1978,6 +2003,14 @@ Verificado en: https://www.cervantesvirtual.com/obra/speculum-naturale/</note>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250905T145239Z" creationid="Marina" creationdate="20250905T145239Z">
         <seg>Las moradas de los monstruos (África, Escandinavia, América, Venus, el cuadrante Delta —cualquier tierra lo bastante distante como para ser exotizada—) son más que regiones oscuras de peligro incierto: son también ámbitos de fantasía dichosa, horizontes de liberación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The horribly fascinating loss of Lycaon’s humanity merely reifies his previous moral state; the king’s body is rendered all transparence, instantly and insistently readable.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250908T220635Z" creationid="solca" creationdate="20250908T220635Z">
+        <seg>La horrible y fascinante pérdida de la humanidad de Licaón solo reifica su estado moral previo; el cuerpo del rey se vuelve completamente transparente, legible de forma instantánea e insistente. </seg>
       </tuv>
     </tu>
     <tu>
