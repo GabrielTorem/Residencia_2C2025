@@ -71,3 +71,5 @@ celluloid	celuloide	Maca: https://dictionary.cambridge.org/es/diccionario/ingles
 hagiographic poem	poema hagiográficos	https://www.cervantesvirtual.com/obra/poemas-hagiograficos-de-caracter-juglaresco-1214711/
 Juliana	Juliana	https://en.wikipedia.org/wiki/Juliana_(poem)
 Elene	Elene	https://en.wikipedia.org/wiki/Elene
+cynocephalus	Cinocéfalo	https://es.wikipedia.org/wiki/Cinoc%C3%A9falo
+Vincent of Beauvais	Vicente de Beauvais	https://www.britannica.com/biography/Vincent-of-Beauvais
