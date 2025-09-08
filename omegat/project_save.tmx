@@ -2286,6 +2286,14 @@ Resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>These monsters ask us how we perceive the world, and how we have misrepresented what we have attempted to place.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T195742Z" creationid="Lenovo" creationdate="20250908T195742Z">
+        <seg>Dichos monstruos nos interpelan sobre nuestra forma de percibir el mundo y sobre cómo hemos representado de forma errónea lo que hemos intentado ubicar.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Ortografía</note>
       <tuv lang="en-US">
         <seg>Thesis I: The Monster’s Body Is a Cultural Body</seg>
@@ -2335,6 +2343,22 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T194850Z" creationid="Lenovo" creationdate="20250908T194850Z">
         <seg>Tesis VII: El Monstruo se Erige en el Umbral…de la Transformación </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They ask us to reevaluate our cultural assumptions about race, gender, sexuality, our perception of difference, our tolerance toward its expression.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T195811Z" creationid="Lenovo" creationdate="20250908T195811Z">
+        <seg>Nos piden que reevaluemos nuestros supuestos culturales sobre raza, género, sexualidad, nuestra percepción de la diferencia, nuestra tolerancia en cuanto a la expresión de dicha diferencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They ask us why we have created them.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T195919Z" creationid="Lenovo" creationdate="20250908T195919Z">
+        <seg>Nos preguntan por qué los hemos creado.</seg>
       </tuv>
     </tu>
     <tu>
