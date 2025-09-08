@@ -2331,6 +2331,14 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They can be pushed to the farthest margins of geography and discourse, hidden away at the edges of the world and in the forbidden recesses of our mind, but they always return.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T195251Z" creationid="Lenovo" creationdate="20250908T195251Z">
+        <seg>Aunque sean relegados a los márgenes más lejanos de la geografía y el discurso, escondidos en los confines del mundo y en los recovecos prohibidos de nuestra mente, siempre regresan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This corporal fluidity, this simultaneity of anxiety and desire, ensures that the monster will always dangerously entice.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T190759Z" creationid="Lenovo" creationdate="20250908T185234Z">
@@ -2733,8 +2741,8 @@ no me gusta cómo tradujiste ordained
       <tuv lang="en-US">
         <seg>“This thing of darkness I acknowledge mine.” Monsters are our children.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T194930Z" creationid="Lenovo" creationdate="20250908T194930Z">
-        <seg>"A esta criatura de la oscuridad la reconozco mía." Los monstruos son nuestras criaturas.Pueden ser empujados hasta los límites más lejanos de la geografía y el discurso, escondidos en los confines del mundo y en los recovecos prohibidos de nuestra mente, pero siempre regresan. </seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T195003Z" creationid="Lenovo" creationdate="20250908T194930Z">
+        <seg>"A esta criatura de la oscuridad la reconozco mía". Los monstruos son nuestras criaturas.</seg>
       </tuv>
     </tu>
     <tu>
