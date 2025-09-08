@@ -2030,12 +2030,15 @@ Bien, resuelto.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Cita extraída de la traducción de Mauro Armiño, 106.</note>
+      <note>Cita extraída de la traducción de Mauro Armiño, página 106.
+
+
+Fuente: Le Goff, Jacques. *Por otra Edad Media*, trad. Mauro Armiño (Madrid: Taurus, 2020) https://drive.google.com/file/d/1S9r1G0aeIGowpFiQD1Z0BcH5S8gJDkB5/view?usp=drive_link</note>
       <tuv lang="en-US">
         <seg>The strict morality imposed by the Church was contrasted with the discomfiting attractiveness of a world of bizarre tastes, which practiced coprophagy and cannibalism; of bodily innocence, where man, freed of the modesty of clothing, rediscovered nudism and sexual freedom; and where, once rid of restrictive monogamy and family barriers, he could give himself over to polygamy, incest, and eroticism.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250905T144743Z" creationid="Marina" creationdate="20250905T144743Z">
-        <seg>Frente a la moral estricta impuesta por la Iglesia, se despliega la seducción turbadora de un mundo de aberración alimenticia donde se practica coprofagia y canibalismo; inocencia corporal gracias a la cual el hombre, liberado del pudor de la ropa, se reencuentra con el nudismo; libertad sexual por la que el hombre, libre de la indigente monogamia y de las barreras familiares, se entrega a la poligamia, al incesto, al erotismo. (*Por otra Edad Media*, 106).</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250908T145408Z" creationid="Marina" creationdate="20250905T144743Z">
+        <seg>Frente a la moral estricta impuesta por la Iglesia, se despliega la seducción turbadora de un mundo de aberración alimenticia donde se practica coprofagia y canibalismo; inocencia corporal gracias a la cual el hombre, liberado del pudor de la ropa, se reencuentra con el nudismo; libertad sexual por la que el hombre, libre de la indigente monogamia y de las barreras familiares, se entrega a la poligamia, al incesto, al erotismo. Le Goff, Jacques. *Por otra Edad Media*, trad. Mauro Armiño (Madrid: Taurus, 2020), 106.</seg>
       </tuv>
     </tu>
     <tu>
