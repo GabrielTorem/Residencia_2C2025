@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1118,6 +1118,14 @@ disease of vampirism no es lo mismo que enfermedad vampiresca. (Resuelto)</note>
       </tuv>
       <tuv lang="es-ES" changeid="solca" changedate="20250818T230114Z" creationid="solca" creationdate="20250818T225523Z">
         <seg>Al hacerlo, transgediré dos de las máximas sagradas de los estudios culturales recientes: la compulsión por la especificidad histórica y la insistencia en que todo conocimiento (y, por ende, todas las cartografías de ese conocimiento) es local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In either case, the cloak of monstrousness calls attention to those behaviors and attitudes the text is concerned with interdicting.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250908T221537Z" creationid="solca" creationdate="20250908T221537Z">
+        <seg>En cualquier caso, el manto de la monstruosidad resalta los comportamientos y actitudes que el texto busca prohibir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2365,6 +2373,14 @@ Fuente: Le Goff, Jacques. *Por otra Edad Media*, trad. Mauro Armiño (Madrid: Ta
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T200327Z" creationid="Lenovo" creationdate="20250819T190859Z">
         <seg>Las leyes de la naturaleza, demasiado precisas tal como expone la cienca, se ven alegremente vulneradas por la extraña compilación del cuerpo de un monstruo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The valorization is accomplished in one of two ways: the host is a monster already and learns a lesson at the hands of his guest, or the host becomes a monster in the course of the narrative and audience members realize how they should conduct themselves.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250908T221511Z" creationid="solca" creationdate="20250908T221511Z">
+        <seg>La exaltación del valor se realiza de una de dos maneras: o bien el anfitrión ya es un monstruo y aprende una lección de parte de su huésped, o bien el anfitrión se convierte en monstruo durante la narración y los lectores o espectadores comprenden cómo deben comportarse.</seg>
       </tuv>
     </tu>
     <tu>
