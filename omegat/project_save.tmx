@@ -144,6 +144,8 @@ No te preocupes. El programa los entiende mucho mejor que nosotros.
       </tuv>
     </tu>
     <tu>
+      <note>Justificá esta neutralización.
+No me gusta "fantasía de causalidad"</note>
       <tuv lang="en-US">
         <seg>&lt;t0/&gt; Monsters may still function, however, as the vehicles of causative fantasies even without their valences reversed.</seg>
       </tuv>
@@ -1990,7 +1992,9 @@ Resuelto.</note>
     </tu>
     <tu>
       <note>En inglés, el autor utiliza la oposición thundering giant / bumbling giant, que produce además un juego fónico (aliteración). Sostuve esta opción para mantener el juego con las consonantes "t" y "r".
-Estoy entre esta versión y “retumbante / tambaleante”.</note>
+Estoy entre esta versión y “retumbante / tambaleante”.
+
+No me parece obvio el juego fónico en inglés, y en español directamente me parece invisible, lo cual termina siendo positivo.</note>
       <tuv lang="en-US">
         <seg>The co-optation of the monster into a symbol of the desirable is often accomplished through the neutralization of potentially threatening aspects with a liberal dose of comedy: the thundering giant becomes the bumbling giant.</seg>
       </tuv>
