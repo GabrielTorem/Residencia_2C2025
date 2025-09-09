@@ -1417,6 +1417,7 @@ Pensemos qué hacemos con las traducciones.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Hay algo mal en citar la versión en inglés y luego decir que la traducción es nuestra, cuando el original fue escrito en francés. La semana pasada llegamos a acuerdos al respecto.</note>
       <tuv lang="en-US">
         <seg>Julia Kristeva, &lt;f0&gt;The Powers of Horror: An Essay on Abjection,&lt;/f0&gt; trans. Leon S. Roudiez (New York: Columbia University Press, 1982), 1.</seg>
       </tuv>
@@ -2541,6 +2542,9 @@ Resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <note>exorbitant modifica a ambas
+¿por qué neutralizás "ejected"?
+Mal traducido "beyond"</note>
       <tuv lang="en-US">
         <seg>There looms, within abjection, one of those violent, dark revolts of being, directed against a threat that seems to emanate from an exorbitant outside or inside, ejected beyond the scope of the possible, the tolerable, the thinkable.</seg>
       </tuv>
