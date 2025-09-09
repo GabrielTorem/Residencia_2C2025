@@ -2122,7 +2122,11 @@ Verificado en: https://www.cervantesvirtual.com/obra/speculum-naturale/</note>
     <tu>
       <note>El título aparece así en la traducción del libro (Grial con mayúscula, santo en minúscula).
 
-En esta versión, Sir Bors es el señor Boorse.</note>
+En esta versión, Sir Bors es el señor Boorse.
+
+sanctioned es false friend.
+
+in lascivious disguise es un modismo no bien traducido.</note>
       <tuv lang="en-US">
         <seg>The monastically manufactured &lt;t1/&gt;&lt;f2&gt;Queste del Saint Graal&lt;/f2&gt; serves as an ecclesiastically sanctioned antidote to the looser morality of the secular romances; when Sir Bors comes across a castle where “ladies of high descent and rank” tempt him to sexual indulgence, these ladies are, of course, demons in lascivious disguise.</seg>
       </tuv>
@@ -2855,7 +2859,7 @@ purging es de posterioridad.</note>
     <tu>
       <note> *La búsqueda del santo Grial*, Anónimo. [Traducción al español de Carlos Alvar. Editor digital: Titivillus, 2020], 137. Fuente: https://drive.google.com/file/d/1kIMnaDzyvEGTtZvRgNcCzjalE1KIaTxQ/view?usp=sharing
 
-</note>
+de nuevo, el gerundio no tiene  un sujeto</note>
       <tuv lang="en-US">
         <seg>When Bors refuses to sleep with one of these transcorporal devils (described as “so lovely and so fair that it seemed all earthly beauty was embodied in her”), his steadfast assertion of control banishes them all shrieking back to hell.</seg>
       </tuv>
