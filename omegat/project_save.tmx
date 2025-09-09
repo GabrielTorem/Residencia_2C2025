@@ -572,8 +572,8 @@ A veces "is" es "es". (Resuelto)</note>
       <tuv lang="en-US">
         <seg>And the self that one stands so suddenly and so nervously beside is the monster.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T192920Z" creationid="Lenovo" creationdate="20250908T192920Z">
-        <seg>Y quien aparece tan de repente y tan nerviosamente a nuestro lado es el monstruo.</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250909T223202Z" creationid="Lenovo" creationdate="20250908T192920Z">
+        <seg>Y quien aparece tan de repente y tan nervioso a nuestro lado es el monstruo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2615,8 +2615,8 @@ Resuelto.</note>
       <tuv lang="en-US">
         <seg>These monsters ask us how we perceive the world, and how we have misrepresented what we have attempted to place.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T201700Z" creationid="Lenovo" creationdate="20250908T195742Z">
-        <seg>Dichos monstruos nos interpelan sobre nuestra forma de percibir el mundo y sobre cómo hemos representado erróneamente lo que hemos intentado ubicar.</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250909T223808Z" creationid="Lenovo" creationdate="20250908T195742Z">
+        <seg>Dichos monstruos nos interpelan sobre nuestra forma de percibir el mundo y sobre cómo hemos representado erróneamente lo que hemos intentado poner en un lugares.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2695,8 +2695,8 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
       <tuv lang="en-US">
         <seg>They ask us why we have created them.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20250909T072447Z" creationid="Lenovo" creationdate="20250908T195919Z">
-        <seg>eNos preguntan por qué los hemos creado.</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250909T223827Z" creationid="Lenovo" creationdate="20250908T195919Z">
+        <seg>Nos preguntan por qué los hemos creado.</seg>
       </tuv>
     </tu>
     <tu>
