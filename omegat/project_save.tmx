@@ -485,12 +485,14 @@ Resuelto.</note>
       </tuv>
     </tu>
     <tu>
-      <note>El cierre del /f1 para las cursivas de "Elene" está en el segmento de abajo. En la tradu me quedó en negro y no en gris.- </note>
+      <note>El cierre del /f1 para las cursivas de "Elene" está en el segmento de abajo. En la tradu me quedó en negro y no en gris.- 
+
+Claro, porque no está en el original. Todo tiene que estar igualito al original. Lo corrijo ahora.</note>
       <tuv lang="en-US">
         <seg>Allegory may flatten a monster rather thin, as when the vivacious demon of the Anglo-Saxon hagiographic poem &lt;f0&gt;Juliana&lt;/f0&gt; becomes the one-sided complainer of Cynewulf’s &lt;f1&gt;Elene.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T200433Z" creationid="Lenovo" creationdate="20250908T130440Z">
-        <seg>En ocasiones, la alegoría simplifica al monstruo hasta diluirlo, como el demonio vivaz del poema anglosajón hagiográfico &lt;f0&gt;Juliana&lt;/f0&gt; que se convierte en un personaje unidimensional y quejoso en &lt;f1&gt;Elene&lt;/f1&gt; de Cynewulf.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250909T060036Z" creationid="Lenovo" creationdate="20250908T130440Z">
+        <seg>En ocasiones, la alegoría simplifica al monstruo hasta diluirlo, como el demonio vivaz del poema anglosajón hagiográfico &lt;f0&gt;Juliana&lt;/f0&gt; que se convierte en un personaje unidimensional y quejoso en &lt;f1&gt;Elene de Cynewulf.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1851,7 +1853,6 @@ Perfecto, lo cambio.</note>
       </tuv>
     </tu>
     <tu>
-      <note>en.... en...:  queda una estructura recursiva</note>
       <tuv lang="en-US">
         <seg>Seldom, however, are monsters as uncomplicated in their use and manufacture as the demons that haunt Sir Bors.</seg>
       </tuv>
