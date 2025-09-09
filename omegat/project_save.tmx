@@ -2099,11 +2099,12 @@ Verificado en: https://www.cervantesvirtual.com/obra/speculum-naturale/</note>
       </tuv>
     </tu>
     <tu>
+      <note>Por favor evitá espacios al principio y al final del segmento.</note>
       <tuv lang="en-US">
         <seg>The king himself flies in terror and, gaining the fields, howls aloud, attempting in vain to speak.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20250908T220002Z" creationid="solca" creationdate="20250908T220002Z">
-        <seg> El huye aterrorizado y, alcanzando el silencio del campo, lanza aullidos y en vano intenta hablar. </seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250909T050507Z" creationid="solca" creationdate="20250908T220002Z">
+        <seg>El huye aterrorizado y, alcanzando el silencio del campo, lanza aullidos y en vano intenta hablar.</seg>
       </tuv>
     </tu>
     <tu>
