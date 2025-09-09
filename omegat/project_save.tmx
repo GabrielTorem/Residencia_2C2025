@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2869,7 +2869,6 @@ Buen intento de parafrasear, pero se fue el sentido.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Hay error de sentido</note>
       <tuv lang="en-US">
         <seg>We have seen that the monster arises at the gap where difference is perceived as dividing a recording voice from its captured subject; the criterion of this division is arbitrary, and can range from anatomy or skin color to religious belief, custom, and political ideology.</seg>
       </tuv>
@@ -2986,9 +2985,6 @@ mientras ¿quién? dormía</note>
       </tuv>
     </tu>
     <tu>
-      <note>está mal el juego de palabras.
-Hay concisión excesiva
-decimos seres humanos</note>
       <tuv lang="en-US">
         <seg>[^]: Donna Haraway, following Trinh Minh-ha, calls the humans beneath the monstrous skin “inappropriate/d others”: “To be ‘inappropriate/d’ does not mean ‘not to be in relation with —.e., to be in a special reservation, with the status of the authentic, the untouched, in the allochronic and allotropic condition of innocence.</seg>
       </tuv>
