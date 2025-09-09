@@ -1014,11 +1014,12 @@ Resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <note>He corregido una mayúscula. Activá Language Tool en "Opciones"</note>
       <tuv lang="en-US">
         <seg>He turns into a wolf, and yet retains some traces of his former shape.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20250908T220225Z" creationid="solca" creationdate="20250908T220225Z">
-        <seg>se convierte en lobo y mantiene rastros de su antigua figura.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250909T051003Z" creationid="solca" creationdate="20250908T220225Z">
+        <seg>Se convierte en lobo y mantiene rastros de su antigua figura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2093,6 +2094,7 @@ Verificado en: https://www.cervantesvirtual.com/obra/speculum-naturale/</note>
       </tuv>
     </tu>
     <tu>
+      <note>Creo que no está tan claro el meaning. Podemos charlarlo hoy.</note>
       <tuv lang="en-US">
         <seg>The horribly fascinating loss of Lycaon’s humanity merely reifies his previous moral state; the king’s body is rendered all transparence, instantly and insistently readable.</seg>
       </tuv>
@@ -2338,6 +2340,8 @@ forcibly imported...</note>
       </tuv>
     </tu>
     <tu>
+      <note>punto álgido es otra cosa (buscar).
+La endíada aquí no parece funcionar bien.</note>
       <tuv lang="en-US">
         <seg>The power of the narrative prohibition peaks in the lingering description of the monstrously composite Lycaon, at that median where he is both man and beast, dual natures in a helpless tumult of assertion.</seg>
       </tuv>
