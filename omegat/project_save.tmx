@@ -987,12 +987,12 @@ Promulgation: repensar</note>
       </tuv>
     </tu>
     <tu>
-      <note>acechan no me gusta, y la estructura que forma no es del todo correcta. Liberar se repite.</note>
+      <note>acechan no me gusta (resuelto), y la estructura que forma no es del todo correcta. Liberar se repite.</note>
       <tuv lang="en-US">
         <seg>Gargoyles and ornately sculpted grotesques, lurking at the crossbeams or upon the roof of the cathedral, likewise record the liberating fantasies of a bored or repressed hand suddenly freed to populate the margins.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250909T224928Z" creationid="Marina" creationdate="20250905T143655Z">
-        <seg>Del mismo modo, las gárgolas y los grotescos elaboradamente esculpidos, que acechan en los tirantes o sobre el techo de la catedral, registran las fantasías liberadoras de una mano aburrida o reprimida, libre de repente para poblar los márgenes.</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250909T225544Z" creationid="Marina" creationdate="20250905T143655Z">
+        <seg>Del mismo modo, las gárgolas y los grotescos elaboradamente esculpidos, que se alzan en los tirantes o sobre el techo de la catedral, registran las fantasías de una mano aburrida o reprimida, desatada de repente para poblar los márgenes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1670,14 +1670,14 @@ posesivo ante "descendencia".</note>
       </tuv>
     </tu>
     <tu>
-      <note>Gerundio mal usado. Los lectores no sabemos qué es MUD.</note>
+      <note>Gerundio mal usado. Los lectores no sabemos qué es MUD. Resuelto. </note>
       <tuv lang="en-US">
         <seg>Notes</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250908T150318Z" creationid="Marina" creationdate="20250815T012332Z">
+      <tuv lang="es-ES" changeid="Marina" changedate="20250909T225505Z" creationid="Marina" creationdate="20250815T012332Z">
         <seg>Notas
 [1 N. de T.:] MOO (Multi-User Object-Oriented): tipo de MUD orientado a objetos, generalmente con fines educativos o de experimentación social. Los usuarios pueden interactuar con objetos y programar dentro del entorno virtual.
-[2 N. de T.:] MUSH (Multi-User Shared Hallucination): tipo de MUD enfocado en la interacción social y narrativa entre usuarios, permitiendo la creación colaborativa de historias y escenarios virtuales. </seg>
+[2 N. de T.:] MUSH (Multi-User Shared Hallucination): tipo de MUD enfocado en la interacción social y narrativa entre usuarios, lo que permite la creación colaborativa de historias y escenarios virtuales. </seg>
       </tuv>
     </tu>
     <tu>
