@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1494,8 +1494,8 @@ safe in the knowledge está mal reflejado</note>
       <tuv lang="en-US">
         <seg>Maps and travel accounts inherited from antiquity invented whole geographies of the mind and peopled them with exotic and fantastic creatures; Ultima Thule, Ethiopia, and the Antipodes were the medieval equivalents of outer space and virtual reality, imaginary (wholly verbal) geographies accessible from anywhere, never meant to be discovered but always waiting to be explored.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250906T002322Z" creationid="Marina" creationdate="20250905T143747Z">
-        <seg>Los mapas y relatos de viaje heredados de la Antigüedad inventaron geografías enteras de la imaginación y las poblaron de criaturas exóticas y fantásticas; Ultima Thule, Etiopía y las Antípodas fueron los equivalentes medievales del espacio exterior y de la realidad virtual: geografías imaginarias (enteramente transmitidas en palabras), accesibles desde cualquier lugar, nunca destinadas a ser descubiertas, pero siempre a ser exploradas.</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250909T225232Z" creationid="Marina" creationdate="20250905T143747Z">
+        <seg>Los mapas y relatos de viaje heredados de la Antigüedad heredaron geografías enteras de la imaginación y las poblaron de criaturas exóticas y fantásticas; Ultima Thule, Etiopía y las Antípodas fueron los equivalentes medievales del espacio exterior y de la realidad virtual: geografías imaginarias (enteramente transmitidas en palabras), accesibles desde cualquier lugar, nunca destinadas a ser descubiertas, pero siempre a ser exploradas.</seg>
       </tuv>
     </tu>
     <tu>
