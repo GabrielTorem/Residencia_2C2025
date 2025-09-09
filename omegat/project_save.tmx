@@ -144,11 +144,12 @@ No te preocupes. El programa los entiende mucho mejor que nosotros.
       </tuv>
     </tu>
     <tu>
+      <note>Quité los espacios del final.</note>
       <tuv lang="en-US">
         <seg>&lt;t0/&gt; Like Grendel thundering from the mere or Dracula creeping from the grave, like Kristeva’s “boomer- ang, a vortex of summons” or the uncanny Freudian-Lacanian return of the repressed, the monster is always coming back, always at the verge of irruption.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T194139Z" creationid="Lenovo" creationdate="20250908T194139Z">
-        <seg>&lt;t0/&gt; Como Grendel cuando ruge desde el lago o Drácula cuando sale de su tumba, como el “búmerang, vórtice de atracción” de Kristeva o el retorno siniestro de lo reprimido en Freud y Lacan, el monstruo siempre está regresando, siempre al borde de la irrupción.  </seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250909T063641Z" creationid="Lenovo" creationdate="20250908T194139Z">
+        <seg>&lt;t0/&gt; Como Grendel cuando ruge desde el lago o Drácula cuando sale de su tumba, como el “búmerang, vórtice de atracción” de Kristeva o el retorno siniestro de lo reprimido en Freud y Lacan, el monstruo siempre está regresando, siempre al borde de la irrupción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -431,6 +432,14 @@ Hay un diacrítico mal usado.
       </tuv>
     </tu>
     <tu>
+      <note>lo que va dentro del paréntesis es como si no estuviera. Queda mal formado con ...y se alinean...
+
+Los verbos reflexivos no necesitan el reforzativo "a sí mismas", a menos que sea una operación que se hace habitualmente sobre otros.
+
+locus en cursiva
+
+denominar no lleva "como". Es A. de Fr.
+¿Usaste fuente para Butler?</note>
       <tuv lang="en-US">
         <seg>A product of a multitude of morphogeneses (ranging from somatic to ethnic) that align themselves to imbue meaning to the Us and Them behind every cultural mode of seeing, the monster of abjection resides in that marginal geography of the Exterior, beyond the limits of the Thinkable, a place that is doubly dangerous: simultaneously “exorbitant” and “quite close.” Judith Butler calls this conceptual locus “a domain of unlivability and unintelligibility that bounds the domain of intelligible effects,” but points out that even when discursively closed off, it offers a base for critique, a margin from which to reread dominant paradigms.</seg>
       </tuv>
@@ -559,6 +568,7 @@ A veces "is" es "es". (Resuelto)</note>
       </tuv>
     </tu>
     <tu>
+      <note>¿nerviosamente?</note>
       <tuv lang="en-US">
         <seg>And the self that one stands so suddenly and so nervously beside is the monster.</seg>
       </tuv>
@@ -567,6 +577,9 @@ A veces "is" es "es". (Resuelto)</note>
       </tuv>
     </tu>
     <tu>
+      <note>solo ya no lleva tilde casi nunca.
+no solo... sino también es Ang. de Fr.
+</note>
       <tuv lang="en-US">
         <seg>And when they come back, they bring not just a fuller knowledge of our place in history and the history of knowing our place, but they bear selfknowledge, human knowledge—and a discourse all the more sacred as it arises from the Outside.</seg>
       </tuv>
@@ -720,6 +733,7 @@ Resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <note>trans stands for "translator". De nuevo lo mismo.</note>
       <tuv lang="en-US">
         <seg>Both Butler and I have in mind here Foucault’s notion of an emancipation of thought “from what it silently thinks” that will allow “it to think differently.” Michel Foucault, &lt;f2&gt;The Use of Pleasure,&lt;/f2&gt; trans. Robert Hurley (New York: Vintage, 1985), 9.</seg>
       </tuv>
@@ -1408,12 +1422,16 @@ Pensemos qué hacemos con las traducciones.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Corrijo error en la cita, no puedo sacar el nro 25 antes de Routledge</note>
+      <note>Corrijo error en la cita, no puedo sacar el nro 25 antes de Routledge
+
+No se corrigen los errores en la cita. Es lo que estás citando. Si corregís, entre corchetes.
+
+Para poder quitar los números, debés cambiar las opciones (permitir modificar los tags).</note>
       <tuv lang="en-US">
         <seg>Judith Butler, &lt;f0&gt;Bodies That Matter: On the Discursive Limits of &lt;/f0&gt;“&lt;f1&gt;Sex&lt;/f1&gt;” (New York: Monster Culture (Seven Theses) 25 Routledge, 1993), 22.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T192053Z" creationid="Lenovo" creationdate="20250908T192053Z">
-        <seg>Judith Butler, &lt;f0&gt;Bodies That Matter: On the Discursive Limits of &lt;/f0&gt;“&lt;f1&gt;Sex&lt;/f1&gt;” (New York: 25Routledge, 1993), 22.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250909T062650Z" creationid="Lenovo" creationdate="20250908T192053Z">
+        <seg>Judith Butler, &lt;f0&gt;Bodies That Matter: On the Discursive Limits of &lt;/f0&gt;“&lt;f1&gt;Sex&lt;/f1&gt;” (New York: Routledge, 1993), 22.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1497,6 +1515,7 @@ safe in the knowledge está mal reflejado</note>
       </tuv>
     </tu>
     <tu>
+      <note>Mejorar estr.</note>
       <tuv lang="en-US">
         <seg>Michael Uebel amplifies and applies this practice to the monster in his essay in this volume.</seg>
       </tuv>
@@ -1719,6 +1738,7 @@ Resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <note>tipeo.</note>
       <tuv lang="en-US">
         <seg>Perhaps it is time to ask the question that always arises when the monster is discussed seriously (the inevitability of the question a symptom of the deep anxiety about what is and what should be thinkable, an anxiety that the process of monster theory is destined to raise): Do monsters really exist?</seg>
       </tuv>
@@ -1911,6 +1931,15 @@ Perfecto, lo cambio.</note>
       <tuv lang="es-ES" changeid="Marina" changedate="20250831T203612Z" creationid="Marina" creationdate="20250831T203612Z">
         <seg>Stewart, &lt;f0&gt;El ansia.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Surely they &lt;t1/&gt;must, for if they did not, how could we?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250909T063719Z" creationid="gabrielt" creationdate="20250909T063719Z">
+        <seg>Seguramente, ya que de lo contrario, ¿cómo podríamos existir nosotros?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2583,6 +2612,7 @@ Resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <note>ubicar &gt; identificar; place &gt; poner en un lugar</note>
       <tuv lang="en-US">
         <seg>These monsters ask us how we perceive the world, and how we have misrepresented what we have attempted to place.</seg>
       </tuv>
@@ -2646,6 +2676,7 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
       </tuv>
     </tu>
     <tu>
+      <note>Mal uso de mayúsculas.</note>
       <tuv lang="en-US">
         <seg>Thesis VII: The Monster Stands at the Threshold… of Becoming</seg>
       </tuv>
@@ -2665,8 +2696,8 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
       <tuv lang="en-US">
         <seg>They ask us why we have created them.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T195919Z" creationid="Lenovo" creationdate="20250908T195919Z">
-        <seg>Nos preguntan por qué los hemos creado.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250909T072447Z" creationid="Lenovo" creationdate="20250908T195919Z">
+        <seg>eNos preguntan por qué los hemos creado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2813,6 +2844,7 @@ Buen intento de parafrasear, pero se fue el sentido.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Hay un problema con los sujetos.</note>
       <tuv lang="en-US">
         <seg>Unflaggingly, like an inescapable boomerang, a vortex of summons and repulsion places the one haunted by it literally beside himself.</seg>
       </tuv>
@@ -3108,6 +3140,7 @@ no me gusta cómo tradujiste ordained
       </tuv>
     </tu>
     <tu>
+      <note>just the same no es "al mismo tiempo"</note>
       <tuv lang="en-US">
         <seg>… But simultaneously, just the same, that impetus, that spasm, that leap is drawn toward an elsewhere as tempting as it is condemned.</seg>
       </tuv>
