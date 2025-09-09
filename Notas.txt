@@ -17,10 +17,8 @@ Nazar: 4
 Piñeiro: 7 
 
 4.
-Fittipaldi: 4 
-Gentile: 7
+Fittipaldi: 5 
+Gentile: 8
 Nazar: 4
 Piñeiro: 7 
-
-4.
 
