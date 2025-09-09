@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -646,8 +646,8 @@ hay leísmo</note>
       <tuv lang="en-US">
         <seg>As the American frontier expanded beneath the banner of Manifest Destiny in the nineteenth century, tales circulated about how “Indians” routinely kidnapped white women to furnish wives for themselves; the West was a place of danger waiting to be tamed into farms, its menacing native inhabitants fit only to be dispossessed.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20250901T220126Z" creationid="solca" creationdate="20250826T004847Z">
-        <seg>A medida que la frontera estadounidense se expandía bajo el estandarte del Destino Manifiesto en el siglo XIX, circulaban historias sobre cómo los "indios" usualmente secuestraban a mujeres blancas para tenerlas como esposas; Occidente era un lugar de peligro que se buscaba domar para convertirlo en granjas, y a sus amenazantes habitantes nativos se les consideraba aptos solo para ser despojados de sus tierras.</seg>
+      <tuv lang="es-ES" changeid="solca" changedate="20250909T223107Z" creationid="solca" creationdate="20250826T004847Z">
+        <seg>A medida que la frontera estadounidense se expandía bajo el estandarte del Destino Manifiesto en el siglo XIX, circulaban historias sobre cómo los "indios" usualmente secuestraban a mujeres blancas para tenerlas como esposas; el viejo Oeste era un lugar de peligro que se buscaba domar para convertirlo en granjas, y a sus amenazantes habitantes nativos se les consideraba aptos solo para ser despojados de sus tierras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1934,7 +1934,6 @@ Perfecto, lo cambio.</note>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Surely they &lt;t1/&gt;must, for if they did not, how could we?</seg>
       </tuv>
