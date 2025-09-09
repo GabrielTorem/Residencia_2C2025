@@ -951,6 +951,7 @@ Promulgation: repensar</note>
       </tuv>
     </tu>
     <tu>
+      <note>acechan no me gusta, y la estructura que forma no es del todo correcta. Liberar se repite.</note>
       <tuv lang="en-US">
         <seg>Gargoyles and ornately sculpted grotesques, lurking at the crossbeams or upon the roof of the cathedral, likewise record the liberating fantasies of a bored or repressed hand suddenly freed to populate the margins.</seg>
       </tuv>
@@ -1448,6 +1449,7 @@ safe in the knowledge está mal reflejado</note>
       </tuv>
     </tu>
     <tu>
+      <note>Personificación</note>
       <tuv lang="en-US">
         <seg>Maps and travel accounts inherited from antiquity invented whole geographies of the mind and peopled them with exotic and fantastic creatures; Ultima Thule, Ethiopia, and the Antipodes were the medieval equivalents of outer space and virtual reality, imaginary (wholly verbal) geographies accessible from anywhere, never meant to be discovered but always waiting to be explored.</seg>
       </tuv>
@@ -1626,6 +1628,7 @@ posesivo ante "descendencia".</note>
       </tuv>
     </tu>
     <tu>
+      <note>Gerundio mal usado. Los lectores no sabemos qué es MUD.</note>
       <tuv lang="en-US">
         <seg>Notes</seg>
       </tuv>
@@ -2332,6 +2335,7 @@ forcibly imported...</note>
       </tuv>
     </tu>
     <tu>
+      <note>Arena no está bien usado.</note>
       <tuv lang="en-US">
         <seg>The postmodern equivalent of such spaces is Gibsonian cyberspace, with its MOOs and MUSHes and other arenas of unlimited possibility.</seg>
       </tuv>
@@ -2381,7 +2385,9 @@ Bien, resuelto.</note>
       </tuv>
     </tu>
     <tu>
-      <note>'marginalia' en cursiva</note>
+      <note>'marginalia' en cursiva
+queda rara la posición predicativa de prof. insólita.
+Es correcta tu versión. Pensemos en nuestro encargo y discutamos estrategias.</note>
       <tuv lang="en-US">
         <seg>The same impulse to ataractic fantasy is behind much lavishly bizarre manuscript marginalia, from abstract scribblings at the edges of an ordered page to preposterous animals and vaguely humanoid creatures of strange anatomy that crowd a biblical text.</seg>
       </tuv>
@@ -2941,7 +2947,9 @@ Perfecto, actualizado.
       <note>Cita extraída de la traducción de Mauro Armiño, página 106.
 
 
-Fuente: Le Goff, Jacques. *Por otra Edad Media*, trad. Mauro Armiño (Madrid: Taurus, 2020), 106. Accesible en línea: https://drive.google.com/file/d/1S9r1G0aeIGowpFiQD1Z0BcH5S8gJDkB5/view?usp=drive_link</note>
+Fuente: Le Goff, Jacques. *Por otra Edad Media*, trad. Mauro Armiño (Madrid: Taurus, 2020), 106. Accesible en línea: https://drive.google.com/file/d/1S9r1G0aeIGowpFiQD1Z0BcH5S8gJDkB5/view?usp=drive_link
+
+Bien. Podemos resolver la discordancia temporal poniendo [eran] entre corchetes en lugar de "son".</note>
       <tuv lang="en-US">
         <seg>where taboos were eliminated or exchanged for others.</seg>
       </tuv>
