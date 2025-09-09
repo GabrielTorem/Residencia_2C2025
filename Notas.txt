@@ -15,3 +15,12 @@ Fittipaldi: 6
 Gentile: 7
 Nazar: 4
 Piñeiro: 7 
+
+4.
+Fittipaldi: 4 
+Gentile: 7
+Nazar: 4
+Piñeiro: 7 
+
+4.
+
