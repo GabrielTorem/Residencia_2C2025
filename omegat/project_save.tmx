@@ -88,6 +88,14 @@ confeniently es false friend</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f2&gt;More often, however, the monster retains a haunting complexity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250909T060731Z" creationid="gabrielt" creationdate="20250909T060731Z">
+        <seg>&lt;/f2&gt;De todos modos, es más frecuente que el monstruo conserve una complejidad inquietante. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f5&gt; In each of these vampire stories, the undead returns in slightly different clothing, each time to be read against contemporary social movements or a specific, determining event: &lt;f6&gt;la décadence&lt;/f6&gt; and its new possibilities, homophobia and its hateful imperatives, the acceptance of new subjectivities unfixed by binary gender, a fin de siécle social activism paternalistic in its embrace.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250818T012228Z" creationid="gabrielt" creationdate="20250818T012228Z">
@@ -493,6 +501,14 @@ Claro, porque no está en el original. Todo tiene que estar igualito al original
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250909T060036Z" creationid="Lenovo" creationdate="20250908T130440Z">
         <seg>En ocasiones, la alegoría simplifica al monstruo hasta diluirlo, como el demonio vivaz del poema anglosajón hagiográfico &lt;f0&gt;Juliana&lt;/f0&gt; que se convierte en un personaje unidimensional y quejoso en &lt;f1&gt;Elene de Cynewulf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Allegory may flatten a monster rather thin, as when the vivacious demon of the Anglo-Saxon hagiographic poem &lt;f0&gt;Juliana&lt;/f0&gt; becomes the one-sided complainer of Cynewulf’s &lt;f1&gt;Elene&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250909T060556Z" creationid="gabrielt" creationdate="20250909T060556Z">
+        <seg>En ocasiones, la alegoría simplifica al monstruo hasta diluirlo, como el demonio vivaz del poema anglosajón hagiográfico &lt;f0&gt;Juliana&lt;/f0&gt; que se convierte en un personaje unidimensional y quejoso en &lt;f1&gt;Elene&lt;/f1&gt;&lt;f2&gt;, de Cynewulf.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2011,6 +2027,15 @@ No me parece obvio el juego fónico en inglés, y en español directamente me pa
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T200515Z" creationid="Lenovo" creationdate="20250812T215803Z">
         <seg>La densidad simbólica con la que Spenser, Milton e incluso &lt;f2&gt;Beowulf&lt;/f2&gt; realizan una descripción espesa de los monstruos resulta desafiante y nos recuerda cuán permeable puede ser el cuerpo del monstruo, cuán difícil de disecar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Mal el sentido, por la estructura.</note>
+      <tuv lang="en-US">
+        <seg>The dense symbolism that makes a thick description of the monsters in Spenser, Milton, and even &lt;f3&gt;Beowulf&lt;/f3&gt; so challenging reminds us how permeable the monstrous body can be, how difficult to dissect.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250909T061008Z" creationid="gabrielt" creationdate="20250909T060800Z">
+        <seg>La densidad simbólica con la que Spenser, Milton e incluso &lt;f3&gt;Beowulf&lt;/f3&gt; realizan una descripción espesa de los monstruos resulta desafiante y nos recuerda cuán permeable puede ser el cuerpo del monstruo, cuán difícil de disecar.</seg>
       </tuv>
     </tu>
     <tu>
