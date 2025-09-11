@@ -24,8 +24,8 @@
       <tuv lang="en-US">
         <seg>.] violent and comic, because of the discrepancies that it seeks to combine” (MM, 43).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250911T212338Z" creationid="Marina" creationdate="20250911T212315Z">
-        <seg>.] violenta y cómica, debido a las discrepancias que busca fusionar" (MM, 43) [La traducción es nuestra].</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250911T212644Z" creationid="Marina" creationdate="20250911T212315Z">
+        <seg>.] violenta y cómica, debido a las discrepancias que busca fusionar" (MM, 43). [La traducción es nuestra].</seg>
       </tuv>
     </tu>
     <tu>
@@ -776,6 +776,15 @@ Resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <note>“The Grotesque” es el nombre de un ensayo publicado en 2001 escrito por Molly Boyd, académica literaria. (Louisiana University Press). Fuente: https://books.google.com.ar/books/about/The_Companion_to_Southern_Literature.html?id=rl5_5u3tiRkC&amp;redir_esc=y</note>
+      <tuv lang="en-US">
+        <seg>Boyd, “The Grotesque,” 323.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250911T213323Z" creationid="Marina" creationdate="20250911T213323Z">
+        <seg>Boyd, “The Grotesque,” 323.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>¿por qué la posic. atributiva?
 Resuelto.</note>
       <tuv lang="en-US">
@@ -1282,6 +1291,14 @@ disease of vampirism no es lo mismo que enfermedad vampiresca. (Resuelto)</note>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250911T205845Z" creationid="Marina" creationdate="20250911T205845Z">
         <seg>En la ficción de O’Connor, los anormales ya no son monstruos prodigios, sino figuras peculiares que constituyen un instrumento de revelación en vez de una fuente de entretenimiento; su anormalidad tiene más que ver con el comportamiento excéntrico y la desviación moral que con la anomalía corporal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In O’Connor’s fiction, violence is never an end in itself.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250911T212431Z" creationid="Marina" creationdate="20250911T212431Z">
+        <seg>En la ficción de O’Connor, la violencia nunca es un fin en sí misma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2060,6 +2077,14 @@ Perfecto, lo cambio.</note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250902T140852Z" creationid="Lenovo" creationdate="20250902T014515Z">
         <seg>El Caliban de Shakespeare, por ejemplo, es producto de este tipo de mestizaje ilícito: el “cachorro pecoso” de Sycorax, la bruja argelina y el diablo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She makes use of it because, as she argues, “violence is strangely capable of returning my characters to reality and preparing them to accept their moment of grace”: “It is the extreme situation that best reveals what we are essentially” (MM, 112–113).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250911T212637Z" creationid="Marina" creationdate="20250911T212627Z">
+        <seg>Hace uso de ella ya que, en sus palabras: “la violencia es curiosamente capaz de devolver a mis personajes a la realidad y prepararlos a aceptar su momento de gracia”: “Es la situación extrema la que mejor revela lo que somos esencialmente”(MM, 112–113). [La traducción es nuestra].</seg>
       </tuv>
     </tu>
     <tu>
@@ -2908,8 +2933,8 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
       <tuv lang="en-US">
         <seg>This is not the kind of distortion that destroys; it is the kind that reveals, or should reveal” (MM, 162).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250911T212343Z" creationid="Marina" creationdate="20250911T212206Z">
-        <seg>Este no es el estilo de distorsión que destruye; es el que revela, o debe revelar”(MM, 162) [La traducción es nuestra].</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250911T212651Z" creationid="Marina" creationdate="20250911T212206Z">
+        <seg>Este no es el estilo de distorsión que destruye; es el que revela, o debe revelar”(MM, 162). [La traducción es nuestra].</seg>
       </tuv>
     </tu>
     <tu>
