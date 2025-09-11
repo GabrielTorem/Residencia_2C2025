@@ -816,6 +816,14 @@ Resuelto.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>By extension, grotesque is applied to anything having the qualities of grotesque art: bizarre, incongruous, ugly, unnatural, fantastic, abnormal.” William Harmon, A Handbook to Literature [1936] (Upper Saddle River: Prentice Hall, 2006), 244.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250911T210408Z" creationid="Marina" creationdate="20250911T210408Z">
+        <seg>Por extensión, el término se aplica a todo lo que tenga las cualidades del arte grotesco: bizarro, incongruente, feo, innatural, fantástico, anormal”. (1^N. d. T). William Harmon, *A Handbook to Literature* [1936] (Upper Saddle River: Prentice Hall, 2006), 244. [La traducción es nuestra].</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Ojo con la ortografía. Si es necesario, pasarle un corrector externo.
 no solo ... sino también es a. de f.</note>
       <tuv lang="en-US">
@@ -1435,6 +1443,14 @@ Cargá al glosario la traducción y la fuente del título.</note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250903T145019Z" creationid="Lenovo" creationdate="20250819T154256Z">
         <seg>Cambia de piel como una serpiente, tiene caparazón como un artrópodo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It was so named after the ancient paintings and decorations found in the underground chambers (grotte) of Roman ruins.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250911T210307Z" creationid="Marina" creationdate="20250911T210307Z">
+        <seg>Se lo denominó con ese nombre a partir de las pinturas y decoraciones antiguas que se hallaron en las tumbas (grotte) bajo tierra en las ruinas de Roma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2232,6 +2248,14 @@ Verificado en: https://www.cervantesvirtual.com/obra/speculum-naturale/</note>
       <tuv lang="es-ES" changeid="Marina" changedate="20250824T002213Z" creationid="Marina" creationdate="20250823T232050Z">
         <seg>El gran enciclopedista medieval Vincent de Beauvais describe en su &lt;f3&gt;*Speculum naturale*&lt;/f3&gt; la visita de un cinocéfalo hermafrodita a la corte francesa (31.126).
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The grotesque is a term “applied to a decorative art in sculpture, painting, and architecture, characterized by fantastic representations of human and animal forms often combined into formal distortions to the point of absurdity, ugliness, or caricature.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250911T210224Z" creationid="Marina" creationdate="20250911T210224Z">
+        <seg>El grotesco es un término “que se aplica al arte decorativo en esculturas, pinturas y en la arquitectura, y se caracteriza por la presencia de representaciones fantásticas de figuras humanas y animales, combinadas a menudo en distorsiones formales hasta el punto de lo absurdo, la fealdad y lo caricaturesco.</seg>
       </tuv>
     </tu>
     <tu>
