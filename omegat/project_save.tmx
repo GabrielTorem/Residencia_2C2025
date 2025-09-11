@@ -968,6 +968,14 @@ Promulgation: repensar</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Flannery O’Connor, The Habit of Being, ed. Sally Fitzgerald (New York: Farrar, Straus and Giroux, 1979), 105.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250911T210436Z" creationid="Marina" creationdate="20250911T210436Z">
+        <seg>Flannery O’Connor, *The Habit of Being*, compilado por Sally Fitzgerald (New York: Farrar, Straus and Giroux, 1979), 105.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Si hablamos de una traducción, al inglés, debemos señalarlo. OK</note>
       <tuv lang="en-US">
         <seg>For Mikhail Bakhtin, famously, this is the transformative power of laughter: “Laughter liberates not only from external censorship but first of all from the great internal censor; it liberates from the fear that developed in man during thousands of years: fear of the sacred, fear of the prohibitions, of the past, of power.” &lt;f0&gt;Rabelais and His World,&lt;/f0&gt; trans. Héléne Iswolsky (Indianapolis: Indiana University Press, 1984), 94.</seg>
