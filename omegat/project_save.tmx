@@ -1319,6 +1319,14 @@ disease of vampirism no es lo mismo que enfermedad vampiresca. (Resuelto)</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>In her letters, O’Connor similarly foregrounds the mixture of humour and terror in the description of her fiction: “everything funny I have written is more terrible than it is funny, or only funny because it is terrible, or only terrible because it is funny.”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250911T212410Z" creationid="Marina" creationdate="20250911T212410Z">
+        <seg>En sus cartas, O’Connor destaca en la descripción de su ficción, de forma similar, la mezcla entre el humor y el terror: “todo lo divertido que he escrito es más terrible que divertido, o solo divertido porque es terrible, o solo terrible porque es divertido”.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Corrijo un problema técnico.
 Pensar en conjunto la grafía de "otro"
 loci lo normalizás.
