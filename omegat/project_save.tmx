@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250911T210024Z" creationid="Marina" creationdate="20250911T210024Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>.].</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250911T210030Z" creationid="Marina" creationdate="20250911T210030Z">
+        <seg>.].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250815T012339Z" creationid="Marina" creationdate="20250815T012339Z">
@@ -1014,6 +1030,14 @@ Promulgation: repensar</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Ghosts can be very fierce and instructive.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250911T210143Z" creationid="Marina" creationdate="20250911T210131Z">
+        <seg>Los fantasmas pueden ser poderosos e informativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"deficiencia" resulta confuso</note>
       <tuv lang="en-US">
         <seg>Giraldus Cambrensis demonstrates just this slippage of the foreign in his &lt;f0&gt;Topography of Ireland;&lt;/f0&gt; when he writes of the Irish (ostensibly simply to provide information about them to a curious English court, but actually as a first step toward invading and colonizing the island), he observes:</seg>
@@ -1162,6 +1186,14 @@ Estás quitando un enfatizador / o matizador (Modificado) </note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I think it is safe to say that while the South is hardly Christ-centered, it is most certainly Christ-haunted.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250911T210038Z" creationid="Marina" creationdate="20250911T210038Z">
+        <seg>Creo que es seguro afirmar que aunque el sur difícilmente sea cristocéntrico, está, sin duda, perseguido por la figura de Cristo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I will say a few words about it here.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250902T223704Z" creationid="Lenovo" creationdate="20250901T155917Z">
@@ -1202,6 +1234,14 @@ disease of vampirism no es lo mismo que enfermedad vampiresca. (Resuelto)</note>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250911T205845Z" creationid="Marina" creationdate="20250911T205845Z">
         <seg>En la ficción de O’Connor, los anormales ya no son monstruos prodigios, sino figuras peculiares que constituyen un instrumento de revelación en vez de una fuente de entretenimiento; su anormalidad tiene más que ver con el comportamiento excéntrico y la desviación moral que con la anomalía corporal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In any case, it is when the freak can be sensed as a figure for our essential displacement that he attains some depth in literature.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250911T210212Z" creationid="Marina" creationdate="20250911T210212Z">
+        <seg>En cualquier caso, el anormal adquiere cierta hondura literaria cuando se lo percibe como figura de nuestro desplazamiento esencial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2046,6 +2086,14 @@ The Quest for the Holy Grail, trans. Pauline Matarasso (London: Penguin Books,
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The Southerner, who isn’t convinced of it, is very much afraid that he may have been formed in the image and likeness of God.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250911T210053Z" creationid="Marina" creationdate="20250911T210053Z">
+        <seg>El sureño, que no está convencido de eso, tiene mucho temor a haber sido formado a imagen y semejanza de Dios.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>No normalices, en lo posible, el vocabulario elaborado, como "descanting", "painting over", que produce una atmósfera.
 Resuelto.
 coloc: demostrar en ... esplendor 
@@ -2741,6 +2789,14 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T195251Z" creationid="Lenovo" creationdate="20250908T195251Z">
         <seg>Aunque sean relegados a los márgenes más lejanos de la geografía y el discurso, escondidos en los confines del mundo y en los recovecos prohibidos de nuestra mente, siempre regresan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They cast strange shadows, particularly in our literature.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250911T210202Z" creationid="Marina" creationdate="20250911T210202Z">
+        <seg>Proyectan sombras extrañas, particularmente en nuestra literatura.</seg>
       </tuv>
     </tu>
     <tu>
