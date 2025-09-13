@@ -108,8 +108,8 @@ confeniently es false friend</note>
       <tuv lang="en-US">
         <seg>&lt;/f1&gt; This popular type of narrative may be conveniently labeled the fable of hospitality; such stories envalue the practice whose breach they illustrate through a drama repudiating the dangerous behavior.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20250908T223558Z" creationid="solca" creationdate="20250908T221459Z">
-        <seg>&lt;/f1&gt;Este tipo de relato popular puede etiquetarse convenientemente como la fábula de la hospitalidad; historias así enaltecen la práctica cuya violación ilustran mediante un drama que repudia ese comportamiento peligroso.</seg>
+      <tuv lang="es-ES" changeid="solca" changedate="20250913T203902Z" creationid="solca" creationdate="20250908T221459Z">
+        <seg>&lt;/f1&gt; Este tipo popular de narración puede puede denominarse, con acierto, como la fábula de la hospitalidad; historias así enaltecen la práctica cuya violación ilustran mediante un drama que repudia ese comportamiento peligroso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -513,8 +513,8 @@ Está mal usada la cursiva. El título del ensayo va entrecomillado. El libro en
       <tuv lang="en-US">
         <seg>A violation of that code is responsible for the destruction of the biblical Sodom and Gomorrah, for the devolution from man to giant in &lt;f0&gt;Sir Gawain and the Carl of Carlisle,&lt;/f0&gt; and for the first punitive transformation in Ovid’s &lt;f1&gt;Metamorphoses.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20250908T223436Z" creationid="solca" creationdate="20250908T221415Z">
-        <seg>La violación de ese código es la causa de la destrucción bíblica de Sodoma y Gomorra, de la regresión del hombre a gigante en &lt;f0&gt;Sir Gawain and the Carl of Carlisle&lt;/f0&gt;, y de la primera transformación punitiva en las Metamorfosis de Ovidio.</seg>
+      <tuv lang="es-ES" changeid="solca" changedate="20250913T203350Z" creationid="solca" creationdate="20250908T221415Z">
+        <seg>La violación de ese código es la causa de la destrucción de Sodoma y Gomorra que aparece en la biblia, de la regresión del hombre a gigante en &lt;f0&gt;Sir Gawain and the Carl of Carlisle&lt;/f0&gt;, y de la primera transformación punitiva en las Metamorfosis de Ovidio.</seg>
       </tuv>
     </tu>
     <tu>
