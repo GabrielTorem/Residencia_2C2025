@@ -201,8 +201,8 @@ No me gusta "fantasía de causalidad". Resuelto.</note>
       <tuv lang="en-US">
         <seg>&lt;t0/&gt; Ovid relates how the primeval giants attempted to plunge the world into anarchy by wrenching Olympus from the gods, only to be shattered by divine thunderbolts.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20250908T224318Z" creationid="solca" creationdate="20250908T213533Z">
-        <seg>Ovidio relata cómo los gigantes primigenios intentaron sumergir al mundo en la anarquía al arrebatar el Olimpo a los dioses, solo para ser destrozados por los rayos divinos.</seg>
+      <tuv lang="es-ES" changeid="solca" changedate="20250913T204250Z" creationid="solca" creationdate="20250908T213533Z">
+        <seg>Ovidio relata cómo los gigantes primigenios intentaron sumergir al mundo en la anarquía arrebatando el Olimpo a los dioses, solo para ser destrozados por los rayos divinos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1065,8 +1065,8 @@ Promulgation: repensar</note>
       <tuv lang="en-US">
         <seg>From their scattered blood arose a race of men who continued their fathers’ malignant ways.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20250908T213610Z" creationid="solca" creationdate="20250908T213610Z">
-        <seg>De su sangre dispersa surgió una raza de hombres que perpetuaron las conductas malignas de sus padres.</seg>
+      <tuv lang="es-ES" changeid="solca" changedate="20250913T204721Z" creationid="solca" creationdate="20250908T213610Z">
+        <seg>De su sangre dispersa surgió una raza de hombres que siguió las conductas malignas de sus padres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2558,12 +2558,11 @@ Es que hay puntos suspensivos. Intentaré arreglarlo en el programa.
       </tuv>
     </tu>
     <tu>
-      <note>bajtiniano</note>
       <tuv lang="en-US">
         <seg>The monster resists capture in the epistemological nets of the erudite, but it is something more than a Bakhtinian ally of the popular.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20250908T212206Z" creationid="solca" creationdate="20250908T212206Z">
-        <seg>El monstruo se resiste a la captura de las redes epistemológicas de los eruditos, pero es algo más que un aliado bakhtiniano de lo popular.</seg>
+      <tuv lang="es-ES" changeid="solca" changedate="20250913T204200Z" creationid="solca" creationdate="20250908T212206Z">
+        <seg>El monstruo se resiste a la captura de las redes epistemológicas de los eruditos, pero es algo más que un aliado bajtiniano de lo popular.</seg>
       </tuv>
     </tu>
     <tu>
