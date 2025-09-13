@@ -852,8 +852,8 @@ Resuelto.
       <tuv lang="en-US">
         <seg>But the militiaman is convinced and can recall all the wrongs that Muslims may or may not have perpetrated during their 500 years of rule.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20250902T224507Z" creationid="solca" creationdate="20250901T225810Z">
-        <seg>Sin embargo, el miliciano lo cree firmemente, y es capaz de enumerar todos los ofensas que los musulmanes pudieron —o no— haber cometido durante sus quinientos años de dominio.</seg>
+      <tuv lang="es-ES" changeid="solca" changedate="20250913T211832Z" creationid="solca" creationdate="20250901T225810Z">
+        <seg>Sin embargo, el miliciano lo cree firmemente, y es capaz de enumerar todas las ofensas que los musulmanes pudieron —o no— haber cometido durante sus quinientos años de dominio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3022,8 +3022,8 @@ pensar cursivas</note>
       <tuv lang="en-US">
         <seg>This representational project was part of a whole dictionary of strategic glosses in which “monstra” slipped into significations of the feminine and the hypermasculine.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20250902T205212Z" creationid="solca" creationdate="20250901T225221Z">
-        <seg>Este proyecto de representación formaba parte de un amplio repertorio de significados estratégicos en los que monstra se asociaba también con lo femenino o lo hipermasculino.</seg>
+      <tuv lang="es-ES" changeid="solca" changedate="20250913T211805Z" creationid="solca" creationdate="20250901T225221Z">
+        <seg>Este intento de representación formaba parte de un amplio repertorio de significados estratégicos en los que "monstra" se asociaba también con lo femenino o lo hipermasculino.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3056,6 +3056,9 @@ Buen intento de parafrasear, pero se fue el sentido.</note>
       <note>¿Queda tal cual?</note>
       <tuv lang="en-US">
         <seg>Thomas More, &lt;f0&gt;The Yale Edition of the Complete Works of Thomas More,&lt;/f0&gt; vol. 2, &lt;f1&gt;The History of King Richard III,&lt;/f1&gt; ed. Richard S. Sylvester (New Haven, Conn.: Yale University Press, 1963), 7.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250913T211926Z">
+        <seg>More, T. (1963). The History of King Richard III (R. S. Sylvester, Ed.). En The Yale Edition of the Complete Works of Thomas More (Vol. 2, p. 7). Yale University Press.</seg>
       </tuv>
     </tu>
     <tu>
