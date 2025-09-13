@@ -1385,8 +1385,8 @@ Within lo normalizás   .
       <tuv lang="en-US">
         <seg>In one of her essays, O’Connor discusses the figure of the freak as typical of Southern writing:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250911T205857Z" creationid="Marina" creationdate="20250911T205857Z">
-        <seg>En uno de sus ensayos, O’Connor manifiesta que la figura del anormal es típica de la escritura sureña:</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250913T182359Z" creationid="Marina" creationdate="20250911T205857Z">
+        <seg>En uno de sus ensayos, O’Connor manifiesta que la figura del *freak* es típica de la escritura sureña:</seg>
       </tuv>
     </tu>
     <tu>
