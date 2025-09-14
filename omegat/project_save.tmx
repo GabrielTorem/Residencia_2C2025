@@ -695,6 +695,14 @@ mezcla sexual es mejorable.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>As modernity develops in Western culture, freak discourse logs the change: the prodigious monster transforms into the pathological terata; what was once sought after as revelation becomes pursued as entertainment; what aroused awe now inspires horror; what was taken as a portent shifts to a site of progress.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250914T231608Z" creationid="solca" creationdate="20250914T231608Z">
+        <seg>A medida que la modernidad se desarrolla en la cultura occidental, el discurso *freak* registra el cambio: el monstruo prodigioso se transforma en los patológicos *terata*; lo que antes se buscaba como revelación se persigue ahora como entretenimiento; lo que despertaba asombro ahora inspira horror; lo que se tomaba como presagio se traslada a un sitio de progreso. En resumen, la maravilla se convierte en error.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>American no es "americana".
 Mejorar "rutinariamente"
 coloc. tenerlas
@@ -1363,6 +1371,14 @@ disease of vampirism no es lo mismo que enfermedad vampiresca. (Resuelto)</note>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250913T182222Z" creationid="Marina" creationdate="20250911T210212Z">
         <seg>En cualquier caso, el *freak* adquiere cierta hondura literaria cuando se lo percibe como figura de nuestro desplazamiento esencial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In brief, wonder becomes error.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250914T232435Z" creationid="solca" creationdate="20250914T232435Z">
+        <seg>En resumen, la maravilla se convierte en error.</seg>
       </tuv>
     </tu>
     <tu>
