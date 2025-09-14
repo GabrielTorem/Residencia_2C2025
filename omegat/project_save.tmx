@@ -1290,6 +1290,14 @@ Estás quitando un enfatizador / o matizador (Modificado) </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>In &lt;f0&gt;Love and Death in the American Novel,&lt;/f0&gt; a founding text in the history of American literary criticism, Leslie Fiedler argues that American fiction is “bewilderingly and embarrassingly, a gothic fiction, nonrealistic and negative, sadist and melodramatic – a literature of darkness and the grotesque in a land of light and affirmation.”&lt;t1/&gt; In the same vein, Teresa Goddu points out the paradox inherent in these characteristics: “America’s self-mythologization as a nation of hope and harmony directly contradicts the gothic’s most basic impulses.” That is why American gothic has come to be mainly analysed as a regional form, placing Southern Gothic at its centre.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250914T214358Z" creationid="solca" creationdate="20250914T214358Z">
+        <seg>En &lt;f0&gt;Love and Death in the American Novel&lt;/f0&gt; , un texto fundacional en la historia de la crítica literaria estadounidense, Leslie Fiedler sostiene que la ficción norteamericana es “desconcertante y vergonzosamente una ficción gótica; no realista y negativa, sádica y melodramática; una literatura de oscuridad y grotesco en una tierra de luz y afirmación”. En la misma línea, Teresa Goddu señala la paradoja inherente a estas características: “La automitologización de Estados Unidos como una nación de esperanza y armonía contradice directamente los impulsos más básicos del gótico”. Por eso, el gótico norteamericano llegó a analizarse principalmente como una forma regional, colocando al gótico sureño en su centro.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>no incluir más de una opción por entrada de glosario.
 La referencia de "lamia" requiere usuario y contraseña.
 no  es lo mismo glóbulo  que corpúsculo (Resuelto)
@@ -2158,6 +2166,14 @@ Fuente: https://drive.google.com/file/d/1Xd2VMYn1OK_UgLUSgJBewBmiRXZs9Hpa/view?u
       </tuv>
       <tuv lang="es-ES" changeid="solca" changedate="20250825T232922Z" creationid="solca" creationdate="20250818T232124Z">
         <seg>Aquí se recopilarán y unificarán algunos fragmentos temporalmente para formar una red vagamente integrada o, mejor aún, un híbrido no asimilado, un cuerpo monstruoso. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Southern Gothic: The Monster as Freak in the Fiction of Flannery O’Connor</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250914T212738Z" creationid="solca" creationdate="20250914T212738Z">
+        <seg>Gótico sureño: El monstruo como un*Freak* en la ficción de Flannery O’Connor</seg>
       </tuv>
     </tu>
     <tu>
