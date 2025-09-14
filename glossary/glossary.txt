@@ -73,6 +73,4 @@ Juliana	Juliana	https://en.wikipedia.org/wiki/Juliana_(poem)
 Elene	Elene	https://en.wikipedia.org/wiki/Elene
 cynocephalus	Cinocéfalo	https://es.wikipedia.org/wiki/Cinoc%C3%A9falo
 Vincent of Beauvais	Vicente de Beauvais	https://www.britannica.com/biography/Vincent-of-Beauvais
-gótico estadounidense	gótico norteamericano	"el gótico norteamericano8 viaja hacia el Sur y, 
-también por segunda vez, se empiezan a ver algunas de las características “sureñas” que se 
-añaden a las ya mencionadas como generales" URL: https://fh.mdp.edu.ar/revistas/index.php/etl/article/view/7828 - 3.3
+gótico estadounidense	gótico norteamericano	"el gótico norteamericano8 viaja hacia el Sur y,
