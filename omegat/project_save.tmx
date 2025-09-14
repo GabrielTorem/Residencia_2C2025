@@ -1686,6 +1686,14 @@ Para poder quitar los números, debés cambiar las opciones (permitir modificar 
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Judith Halberstam, Skin Shows: Gothic Horror and the Technology of Monsters (Durham and London: Duke University Press, 1995), 6.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250914T233708Z" creationid="solca" creationdate="20250914T233708Z">
+        <seg>Halberstam, J. (1995). Skin shows: Gothic horror and the technology of monsters. Duke University Press.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Hay algo mal en citar la versión en inglés y luego decir que la traducción es nuestra, cuando el original fue escrito en francés. La semana pasada llegamos a acuerdos al respecto.</note>
       <tuv lang="en-US">
         <seg>Julia Kristeva, &lt;f0&gt;The Powers of Horror: An Essay on Abjection,&lt;/f0&gt; trans. Leon S. Roudiez (New York: Columbia University Press, 1982), 1.</seg>
@@ -2107,6 +2115,14 @@ invertir s. y p.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Rosemarie Garland Thomson, “Introduction: From Wonder to Error – A Genealogy of Freak Discourse in Modernity,” in Freakery: Cultural Spectacles of the Extraordinary Body, ed. R.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250914T233722Z" creationid="solca" creationdate="20250914T233722Z">
+        <seg>Thomson, R. G. (1996). Introduction: From wonder to error: A genealogy of freak discourse in modernity. En R. G. Thomson (Ed.), Freakery: Cultural spectacles of the extraordinary body (pp. 1-19). New York University Press.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>blanco de... no *blanco para</note>
       <tuv lang="en-US">
         <seg>Scattered throughout Europe by the Diaspora and steadfastly refusing assimilation into Christian society, Jews have been perennial favorites for xenophobic misrepresentation, for here was an alien culture living, working, and even at times prospering within vast communities dedicated to becoming homogeneous and monolithic.</seg>
@@ -2280,6 +2296,14 @@ Fuente: https://drive.google.com/file/d/1Xd2VMYn1OK_UgLUSgJBewBmiRXZs9Hpa/view?u
       </tuv>
       <tuv lang="es-ES" changeid="borrar" changedate="20250731T020236Z" creationid="borrar" creationdate="20250731T020236Z">
         <seg>Título</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Teresa Goddu, Gothic America: Narrative, History, and Nation (New York: Columbia University Press, 1997), 3–4, 76.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20250914T233635Z" creationid="solca" creationdate="20250914T233635Z">
+        <seg>Goddu, T. (1997). Gothic America: Narrative, history, and nation. Columbia University Press</seg>
       </tuv>
     </tu>
     <tu>
