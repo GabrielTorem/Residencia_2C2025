@@ -563,6 +563,14 @@ Claro, porque no está en el original. Todo tiene que estar igualito al original
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>American monsters are born out of American history.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250915T231156Z" creationid="Lenovo" creationdate="20250915T231156Z">
+        <seg>Los monstruos estadounidenses nacen de la historia estadounidense.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>¿ancianas o viejas?</note>
       <tuv lang="en-US">
         <seg>Among the flames we see the old women of Salem hanging, accused of sexual relations with the black devil; we suspect they died because they crossed a different border, one that prohibits women from managing property and living solitary, unmanaged lives.</seg>
@@ -2220,6 +2228,14 @@ invertir s. y p.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Scott Poole, Monsters in America: Our Historical Obsession with the Hideous and the Haunting (Waco, Texas: Baylor University Press, 2011), 18, 4.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250915T231118Z" creationid="Lenovo" creationdate="20250915T231118Z">
+        <seg>Scott Poole, Monsters in America: Our Historical Obsession with the Hideous and the Haunting (Waco, Texas: Baylor University Press, 2011), 18, 4. [La traducción es nuestras]</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Lo mismo sobre las citas</note>
       <tuv lang="en-US">
         <seg>See Edward Said, &lt;f0&gt;Orientalism&lt;/f0&gt; (New York: Pantheon, 1978); Henry Louis Gates Jr., &lt;f1&gt;The Signifying Monkey: A Theory of Afro-American Literature&lt;/f1&gt; (New York: Oxford University Press, 1988).</seg>
@@ -3189,6 +3205,14 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T194850Z" creationid="Lenovo" creationdate="20250908T194850Z">
         <seg>Tesis VII: El Monstruo se Erige en el Umbral…de la Transformación </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are living representations of our darkness, simultaneously metaphors and progenitors of the American way of fear and violence.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250915T231303Z" creationid="Lenovo" creationdate="20250915T231303Z">
+        <seg>Son representaciones vivientes de nuestra oscuridad, metáforas y progenitores a la vez de las formas que toman en Estados Unidos el miedo y la violencia.</seg>
       </tuv>
     </tu>
     <tu>
