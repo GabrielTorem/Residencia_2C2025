@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -773,6 +773,9 @@ hay leísmo</note>
       </tuv>
     </tu>
     <tu>
+      <note>discuss es false friend.
+Cursiva para "freak"
+en la luz: prep.</note>
       <tuv lang="en-US">
         <seg>As will be discussed below, O’Connor’s fiction highlights the disrupting and revelatory power of the freak, despite its apparent marginality; moreover, her narrative portrays the freak in the light of a specific context, exemplifying that monsters in their diverse manifestations embody and reflect the historical, cultural and social features of the country and period in which they appear.</seg>
       </tuv>
@@ -2388,6 +2391,7 @@ Fuente: https://drive.google.com/file/d/1Xd2VMYn1OK_UgLUSgJBewBmiRXZs9Hpa/view?u
       </tuv>
     </tu>
     <tu>
+      <note>En español tenemos "epitomar"</note>
       <tuv lang="en-US">
         <seg>Significantly, the fiction of Flannery O’Connor epitomizes all these characteristics, foregrounding, in a humorous tone, the grotesque and its peculiar protagonists, which O’Connor herself described as “freaks.” Although she explores the darkly comic potential of these grotesque characters with a religious intention, their impact and symbolic role evoke the significance traditionally conveyed by the figure of the monster.</seg>
       </tuv>
