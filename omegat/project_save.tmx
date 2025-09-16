@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2405,11 +2405,14 @@ Fuente: https://drive.google.com/file/d/1Xd2VMYn1OK_UgLUSgJBewBmiRXZs9Hpa/view?u
       </tuv>
     </tu>
     <tu>
+      <note>régimen de fijación.
+Podés usar rayas parentéticas.
+No le veo una justificación particular al gerundio.</note>
       <tuv lang="en-US">
         <seg>Southern Gothic explores all these subjects, showing a particular fixation with the grotesque – that is, the juxtaposition of contrasting or even incompatible elements – and its aberrant creatures: its freaks.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20250914T225812Z" creationid="solca" creationdate="20250914T225812Z">
-        <seg> El gótico sureño explora todos estos temas, mostrando una fijación particular con lo grotesco (es decir, la yuxtaposición de elementos contrastantes o incluso incompatibles) y sus criaturas aberrantes: sus *freaks*.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250916T162042Z" creationid="solca" creationdate="20250914T225812Z">
+        <seg>El gótico sureño explora todos estos temas, mostrando una fijación particular con lo grotesco (es decir, la yuxtaposición de elementos contrastantes o incluso incompatibles) y sus criaturas aberrantes: sus *freaks*.</seg>
       </tuv>
     </tu>
     <tu>
