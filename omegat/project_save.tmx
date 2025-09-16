@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1838,8 +1838,8 @@ Para poder quitar los números, debés cambiar las opciones (permitir modificar 
       <tuv lang="en-US">
         <seg>Leslie Fiedler, Love and Death in the American Novel [1960] (Harmondsworth: Penguin, 1984), 29.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20250914T233610Z" creationid="solca" creationdate="20250914T233610Z">
-        <seg>Fiedler, L. (1984). Love and death in the American novel. Penguin. (Obra original publicada en 1960)</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250916T224156Z" creationid="solca" creationdate="20250914T233610Z">
+        <seg>Leslie Fiedler, Love and Death in the American Novel [1960] (Harmondsworth: Penguin, 1984), 29.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3421,8 +3421,8 @@ Buen intento de parafrasear, pero se fue el sentido.</note>
       <tuv lang="en-US">
         <seg>This violent foreclosure erects a self-validating, Hegelian master/slave dialectic that naturalizes the subjugation of one cultural body by another by writing the body excluded from personhood and agency as in every way different, monstrous.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250915T162437Z" creationid="Lenovo" creationdate="20250825T150202Z">
-        <seg>Este acto de expulsión violenta instaura una dialéctica hegeliana de amo y esclavo que se legitima a sí misma y naturaliza el sometimiento de un cuerpo cultural por otro cuando describe al cuerpo subyugado, quitándole toda condición de persona y voluntad, como monstruoso ya que es diferente en todos los aspeectos.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250916T224039Z" creationid="Lenovo" creationdate="20250825T150202Z">
+        <seg>Este acto de expulsión violenta instaura una dialéctica hegeliana de amo y esclavo que se legitima a sí misma y naturaliza el sometimiento de un cuerpo cultural por otro cuando describe al cuerpo subyugado, quitándole toda condición de persona y voluntad, como monstruoso ya que es diferente en todos los aspectos.</seg>
       </tuv>
     </tu>
     <tu>
