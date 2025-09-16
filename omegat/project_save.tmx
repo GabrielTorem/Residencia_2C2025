@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2223,8 +2223,8 @@ Uso de comillas. La inserción de la traducción en la cita está formalmente ma
       <tuv lang="en-US">
         <seg>Rather to be an ‘inappropriate/d other’ means to be in critical deconstructive relationality, in a diffracting rather than reflecting {ratio)nality—as the means of making potent connection that exceeds domination.” “The Promises of Monsters,” in &lt;f0&gt;Simians, Cyborgs, and Women: The Reinvention of Nature&lt;/f0&gt; (New York: Routledge, 1991), 299.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250916T154508Z" creationid="Lenovo" creationdate="20250901T132831Z">
-        <seg>Más bien, ser un 'otro inapropiado/apropiado' significa estar en una relacionalidad deconstructiva crítica, en una (racio)nalidad difractante en lugar de reflectante, como medio para hacer una conexión potente que excede la dominación." The Promises of Monsters, en &lt;f0&gt;Simians, Cyborgs, and Women: The Reinvention of Nature&lt;/f0&gt; (New York: Routledge, 1991), 299. </seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250916T162348Z" creationid="Lenovo" creationdate="20250901T132831Z">
+        <seg>Por el contrario, ser 'el otro inadecuado' significa estar en una relacionalidad crítica deconstructiva, en una (racio)nalidad difractante en lugar de reflectante, como medio para establecer una conexión fuerte que excede la dominación." The Promises of Monsters, en &lt;f0&gt;Simians, Cyborgs, and Women: The Reinvention of Nature&lt;/f0&gt; (New York: Routledge, 1991), 299. [La traducción es nuestra]</seg>
       </tuv>
     </tu>
     <tu>
