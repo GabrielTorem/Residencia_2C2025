@@ -3047,11 +3047,13 @@ Tendremos que ver si las citas quedan tipográficamente bien marcadas.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Arreglé un tag faltante.
+Arreglé por convención tipográfica la posición de inicioi y fin de cursiva.</note>
       <tuv lang="en-US">
         <seg>The term monster – “perhaps the earliest and most enduring name for the singular body”&lt;t0/&gt; – derives from the Latin terms monstrum and monere, which convey a two-fold meaning: not only to show or reveal (monstrum), but also to warn and instruct (monere).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20250914T230626Z" creationid="solca" creationdate="20250914T230626Z">
-        <seg>El término monstruo —“quizás el nombre más antiguo y perdurable para el cuerpo singular”— deriva de los términos latinos *monstrum* y *monere*, que transmiten un doble significado: no solo mostrar o revelar (*monstrum*), sino también advertir e instruir (*monere*). </seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250916T163418Z" creationid="solca" creationdate="20250914T230626Z">
+        <seg>El término monstruo —“quizás el nombre más antiguo y perdurable para el cuerpo singular”&lt;t0/&gt;— deriva de los términos latinos *monstrum* y *monere*, que transmiten un doble significado: no solo mostrar o revelar *(monstrum),* sino también advertir e instruir *(monere)*. </seg>
       </tuv>
     </tu>
     <tu>
