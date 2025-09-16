@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1418,11 +1418,14 @@ Estás quitando un enfatizador / o matizador (Modificado) </note>
       </tuv>
     </tu>
     <tu>
+      <note>Atención a los espacios alrededor de los tags.
+decidan como grupo qué hacer con "norteamericano".
+El gerundio de "colocando" no tiene sujeto.</note>
       <tuv lang="en-US">
         <seg>In &lt;f0&gt;Love and Death in the American Novel,&lt;/f0&gt; a founding text in the history of American literary criticism, Leslie Fiedler argues that American fiction is “bewilderingly and embarrassingly, a gothic fiction, nonrealistic and negative, sadist and melodramatic – a literature of darkness and the grotesque in a land of light and affirmation.”&lt;t1/&gt; In the same vein, Teresa Goddu points out the paradox inherent in these characteristics: “America’s self-mythologization as a nation of hope and harmony directly contradicts the gothic’s most basic impulses.” That is why American gothic has come to be mainly analysed as a regional form, placing Southern Gothic at its centre.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20250914T214358Z" creationid="solca" creationdate="20250914T214358Z">
-        <seg>En &lt;f0&gt;Love and Death in the American Novel&lt;/f0&gt; , un texto fundacional en la historia de la crítica literaria estadounidense, Leslie Fiedler sostiene que la ficción norteamericana es “desconcertante y vergonzosamente una ficción gótica; no realista y negativa, sádica y melodramática; una literatura de oscuridad y grotesco en una tierra de luz y afirmación”. En la misma línea, Teresa Goddu señala la paradoja inherente a estas características: “La automitologización de Estados Unidos como una nación de esperanza y armonía contradice directamente los impulsos más básicos del gótico”. Por eso, el gótico norteamericano llegó a analizarse principalmente como una forma regional, colocando al gótico sureño en su centro.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250916T161421Z" creationid="solca" creationdate="20250914T214358Z">
+        <seg>En &lt;f0&gt;Love and Death in the American Novel&lt;/f0&gt;, un texto fundacional en la historia de la crítica literaria estadounidense, Leslie Fiedler sostiene que la ficción norteamericana es “desconcertante y vergonzosamente una ficción gótica; no realista y negativa, sádica y melodramática; una literatura de oscuridad y grotesco en una tierra de luz y afirmación”. En la misma línea, Teresa Goddu señala la paradoja inherente a estas características: “La automitologización de Estados Unidos como una nación de esperanza y armonía contradice directamente los impulsos más básicos del gótico”. Por eso, el gótico norteamericano llegó a analizarse principalmente como una forma regional, colocando al gótico sureño en su centro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1807,6 +1810,7 @@ Para poder quitar los números, debés cambiar las opciones (permitir modificar 
       </tuv>
     </tu>
     <tu>
+      <note>Si no remitimos a la traducción, mantenemos la cita original.</note>
       <tuv lang="en-US">
         <seg>Leslie Fiedler, Love and Death in the American Novel [1960] (Harmondsworth: Penguin, 1984), 29.</seg>
       </tuv>
@@ -2409,11 +2413,12 @@ Fuente: https://drive.google.com/file/d/1Xd2VMYn1OK_UgLUSgJBewBmiRXZs9Hpa/view?u
       </tuv>
     </tu>
     <tu>
+      <note>Cuidado con los espacios. Ya lo arreglé</note>
       <tuv lang="en-US">
         <seg>Southern Gothic: The Monster as Freak in the Fiction of Flannery O’Connor</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20250914T212738Z" creationid="solca" creationdate="20250914T212738Z">
-        <seg>Gótico sureño: El monstruo como un*Freak* en la ficción de Flannery O’Connor</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20250916T161031Z" creationid="solca" creationdate="20250914T212738Z">
+        <seg>Gótico sureño: El monstruo como un *Freak* en la ficción de Flannery O’Connor</seg>
       </tuv>
     </tu>
     <tu>
@@ -2451,6 +2456,7 @@ Fuente: https://drive.google.com/file/d/1Xd2VMYn1OK_UgLUSgJBewBmiRXZs9Hpa/view?u
       </tuv>
     </tu>
     <tu>
+      <note>Si citamos el inglés, mantengamos sus números de página.</note>
       <tuv lang="en-US">
         <seg>Teresa Goddu, Gothic America: Narrative, History, and Nation (New York: Columbia University Press, 1997), 3–4, 76.</seg>
       </tuv>
