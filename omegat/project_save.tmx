@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2918,8 +2918,8 @@ han condenado... Necesitamos agentividad.</note>
       <tuv lang="en-US">
         <seg>The peculiar problem of the short-story writer is how to make the action he describes reveal as much of the mystery of existence as possible.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250915T233925Z" creationid="Lenovo" creationdate="20250915T172552Z">
-        <seg>El problema peculiar que enfrenta el escritor de cuentos es que la acción que describe debe revelar tanto como sea posiblemente sobre el misterio de la existencia.</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250916T134027Z" creationid="Lenovo" creationdate="20250915T172552Z">
+        <seg>El problema peculiar que enfrenta el escritor de cuentos es que la acción que describe debe revelar tanto como sea posible sobre el misterio de la existencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3137,6 +3137,7 @@ Mal traducido "beyond"</note>
       </tuv>
     </tu>
     <tu>
+      <note>Omití "fictional" porque es redundante decir que los personajes son de ficciòn y que una persona los imagina. </note>
       <tuv lang="en-US">
         <seg>Therefore, the fictional qualities of the grotesque characters she envisions “lean away from typical social patterns, toward mystery and the unexpected” (MM, 40).</seg>
       </tuv>
