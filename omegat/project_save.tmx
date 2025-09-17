@@ -1114,12 +1114,13 @@ Promulgation: repensar</note>
       </tuv>
     </tu>
     <tu>
-      <note>Lo mismo. Rever los paréntesis</note>
+      <note>Lo mismo. Rever los paréntesis
+Resuelto</note>
       <tuv lang="en-US">
         <seg>Flannery O’Connor, The Habit of Being, ed. Sally Fitzgerald (New York: Farrar, Straus and Giroux, 1979), 105.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250911T211918Z" creationid="Marina" creationdate="20250911T210436Z">
-        <seg>Flannery O’Connor, *The Habit of Being*, compilado por Sally Fitzgerald (New York: Farrar, Straus and Giroux, 1979), 105. [La traducción es nuestra].</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250917T144414Z" creationid="Marina" creationdate="20250911T210436Z">
+        <seg>Flannery O’Connor, *The Habit of Being*, compilado por Sally Fitzgerald (Nueva York: Farrar, Straus y Giroux, 1979), 105. [La traducción es nuestra].</seg>
       </tuv>
     </tu>
     <tu>
