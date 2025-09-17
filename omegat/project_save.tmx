@@ -1728,7 +1728,8 @@ Cargá al glosario la traducción y la fuente del título.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Cohesión con la oración anterior. ¿Al término grotesco se lo denominó "grotesco"?</note>
+      <note>Cohesión con la oración anterior. ¿Al término grotesco se lo denominó "grotesco"?
+Resuelto.</note>
       <tuv lang="en-US">
         <seg>It was so named after the ancient paintings and decorations found in the underground chambers (grotte) of Roman ruins.</seg>
       </tuv>
