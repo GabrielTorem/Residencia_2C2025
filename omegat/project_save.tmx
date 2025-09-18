@@ -3386,6 +3386,14 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is the content for file 26, with its notes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250918T223331Z" creationid="Marina" creationdate="20250918T223331Z">
+        <seg>Este es el contenido para el archivo 26, con sus notas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This refusal to participate in the classificatory “order of things” is true of monsters generally: they are disturbing hybrids whose externally incoherent bodies resist attempts to include them in any systematic structuration.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T195740Z" creationid="Lenovo" creationdate="20250819T172757Z">
@@ -3884,6 +3892,14 @@ Emular un habla arcaica</note>
       </tuv>
       <tuv lang="es-ES" changeid="solca" changedate="20250913T212744Z" creationid="solca" creationdate="20250901T233151Z">
         <seg> … vino al mundo con los pies por delante, … y también sin dientes”. Según More, Ricardo fue un monstruo desde el nacimiento; "su cuerpo deformado era un texto legible" en el que se inscribía su moralidad desviada (indistinguible de una orientación política incorrecta). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>…notes for file 26…</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250918T223340Z" creationid="Marina" creationdate="20250918T223340Z">
+        <seg>...notas para el archivo 26...</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
