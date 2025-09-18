@@ -1366,11 +1366,12 @@ Resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Traducción extraída de "Un hombre bueno es difícil de encontrar", por Marcelo Covián y Vida Ozores. (Penguin Random House Grupo Editorial España). GM hace referencia a "A Good Man is Hard to Find (Faber Stories)", short story de Flannery O' Connor. Fuente; https://drive.google.com/file/d/1g18Vy237oIhcMBkN1KgjZ1nDqL2iekF9/view?usp=drive_link</note>
       <tuv lang="en-US">
         <seg>He thrown everything off balance.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250918T232725Z" creationid="Marina" creationdate="20250918T232725Z">
-        <seg>Él desequilibró todo por completo.</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250918T234824Z" creationid="Marina" creationdate="20250918T232725Z">
+        <seg>Rompió el equilibrio de to.</seg>
       </tuv>
     </tu>
     <tu>
