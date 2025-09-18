@@ -1530,11 +1530,12 @@ Estás quitando un enfatizador / o matizador (Modificado) </note>
       </tuv>
     </tu>
     <tu>
+      <note>Traducción extraída de "Un hombre bueno es difícil de encontrar", por Marcelo Covián y Vida Ozores. (Penguin Random House Grupo Editorial España). GM hace referencia a "A Good Man is Hard to Find (Faber Stories)", short story de Flannery O' Connor. Fuente; https://drive.google.com/file/d/1g18Vy237oIhcMBkN1KgjZ1nDqL2iekF9/view?usp=drive_link</note>
       <tuv lang="en-US">
         <seg>If He did what He said, then it’s nothing for you to do but throw away everything and follow Him, and if He didn’t, then it’s nothing for you to do but enjoy the few minutes you got left the best you can by killing somebody or burning down his house or doing some other meanness to him.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250918T232750Z" creationid="Marina" creationdate="20250918T232750Z">
-        <seg>Si Él hizo lo que dijo, entonces no hay nada por hacer más que dejarlo todo y seguir sus pasos, y si Él no lo hizo, entonces no hay nada por hacer más que disfrutar de la mejor manera los últimos minutos que les quedan, matando a alguien o quemando su casa, o haciendo cualquier otra maldad hacia él.</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250918T234738Z" creationid="Marina" creationdate="20250918T232750Z">
+        <seg>Si Él hacía lo que decía, entonces solo te queda dejarlo to y seguirlo, y si no lo hacía, entonces solo te queda disfrutar de los pocos minutos que tienes de la mejor manera posible, matando a alguien o quemándole la casa o haciéndole alguna otra maldad.</seg>
       </tuv>
     </tu>
     <tu>
