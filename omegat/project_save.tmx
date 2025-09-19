@@ -594,8 +594,8 @@ Traducción extraída de "Un hombre bueno es difícil de encontrar", por Marcelo
       <tuv lang="en-US">
         <seg>After the shooting of Bailey, the Misfit puts on Bailey’s blue parrot shirt, a detail of revealing significance: on the one hand, it suggests the invisibility of monsters – their ordinary and even familiar appearance – and on the other, as O’Connor intended, it evokes the “ties of kinship” (MM, 112) that connect humankind as a whole, contributing to the grandmother’s epiphany: “the grandmother’s head cleared for an instant.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250919T000536Z" creationid="Marina" creationdate="20250918T232844Z">
-        <seg>Tras el asesinato de Bailey, el Desequilibrado se viste con la camisa con estampado de loros en un azul vivo, un detalle de significado revelador: por un lado, sugiere la invisibilidad de los monstruos –su apariencia común e incluso familiar– mientras que por otro, por intención de O’Connor, evoca los “lazos de parentesco” (MM, 112. La traducción es nuestra.) que conectan a la humanidad en su totalidad, lo que contribuye a la epifanía de la abuela: “la cabeza de la abuela se aclaró por un instante.</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250919T000844Z" creationid="Marina" creationdate="20250918T232844Z">
+        <seg>Tras el asesinato de Bailey, el Desequilibrado se viste con la camisa con estampado de loros en un azul vivo, un detalle de significado revelador: por un lado, sugiere la invisibilidad de los monstruos –su apariencia común e incluso familiar– mientras que por otro, por intención de O’Connor, evoca los “lazos de parentesco” (MM, 112. 3^N. d. T) que conectan a la humanidad en su totalidad, lo que contribuye a la epifanía de la abuela: “la cabeza de la abuela se aclaró por un instante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1486,11 +1486,12 @@ Excelente la fuente de Monstruización. ¡Gracias!</note>
       </tuv>
     </tu>
     <tu>
+      <note>Aquí, MM refiere a Mystery and Manners. Desde el trabajo de Fittipaldi se aclara que MM refiere a la obra de O'Connor, "Mystery and Manners". No tiene traducción al español. Aclaro que "la traducción es nuestra". </note>
       <tuv lang="en-US">
         <seg>I prefer to think that, however unlikely this may seem, the old lady’s gesture, like the mustardseed, will grow to be a great crow-filled tree in the Misfit’s heart, and will be enough of a pain to him there to turn him into the prophet he was meant to become” (MM, 112, 113).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250918T235229Z" creationid="Marina" creationdate="20250918T233038Z">
-        <seg>Prefiero pensar que, aunque esto pueda parecer poco probable, el gesto de la anciana, como la semilla de mostaza, se convertirá en un gran árbol repleto de cuervos en el corazón del Desequilibrado, y será suficiente el dolor que atraviese para volverse el profeta que se esperaba de él” (MM, 112,113).</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250919T000839Z" creationid="Marina" creationdate="20250918T233038Z">
+        <seg>Prefiero pensar que, aunque esto pueda parecer poco probable, el gesto de la anciana, como la semilla de mostaza, se convertirá en un gran árbol repleto de cuervos en el corazón del Desequilibrado, y será suficiente el dolor que atraviese para volverse el profeta que se esperaba de él” (MM, 112,113. 4^N. d. T).</seg>
       </tuv>
     </tu>
     <tu>
