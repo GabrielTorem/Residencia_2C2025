@@ -505,8 +505,8 @@ Hay un diacrítico mal usado.
       <tuv lang="en-US">
         <seg>A polysemy is granted so that a greater threat can be encoded; multiplicity of meanings, paradoxically, iterates the same restricting, agitprop representations that narrowed signification performs.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250915T162507Z" creationid="Lenovo" creationdate="20250825T164427Z">
-        <seg>Se garantiza la polisemia para prevenir una amenaza aún mayor; la multiplicidad de significados, paradójicamente, itera el mismo tipo de representaciones restrictivas y orientadas a la propaganda de agitación política que realiza la significación reducida.</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250921T164953Z" creationid="Lenovo" creationdate="20250825T164427Z">
+        <seg>Se garantiza la polisemia para codificar una amenaza aún mayor; la multiplicidad de significados, paradójicamente, itera el mismo tipo de representaciones restrictivas y funcionales a estrategias políticas que realiza la significación reducida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3582,8 +3582,8 @@ Buen intento de parafrasear, pero se fue el sentido.</note>
       <tuv lang="en-US">
         <seg>This violent foreclosure erects a self-validating, Hegelian master/slave dialectic that naturalizes the subjugation of one cultural body by another by writing the body excluded from personhood and agency as in every way different, monstrous.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20250916T224039Z" creationid="Lenovo" creationdate="20250825T150202Z">
-        <seg>Este acto de expulsión violenta instaura una dialéctica hegeliana de amo y esclavo que se legitima a sí misma y naturaliza el sometimiento de un cuerpo cultural por otro cuando describe al cuerpo subyugado, quitándole toda condición de persona y voluntad, como monstruoso ya que es diferente en todos los aspectos.</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250921T164635Z" creationid="Lenovo" creationdate="20250825T150202Z">
+        <seg>Este acto de expulsión violenta instaura una dialéctica hegeliana del amo y el esclavo que se legitima a sí misma y naturaliza el sometimiento de un cuerpo cultural por otro escribiendo al cuerpo despersonalizao y desagentivizado como diferente y monstruoso en todo sentido.</seg>
       </tuv>
     </tu>
     <tu>
