@@ -75,3 +75,5 @@ cynocephalus	Cinocéfalo	https://es.wikipedia.org/wiki/Cinoc%C3%A9falo
 Vincent of Beauvais	Vicente de Beauvais	https://www.britannica.com/biography/Vincent-of-Beauvais
 gótico estadounidense	gótico norteamericano	"el gótico norteamericano8 viaja hacia el Sur y,
 Misfit	Desequilibrado	B: Gentile, F: https://drive.google.com/file/d/1g18Vy237oIhcMBkN1KgjZ1nDqL2iekF9/view?usp=drive_link   , p. 24
+ff.	ss	https://usitep.es/apf/reli/citas_biblicas/citas-signos.html
+ff	ss	https://usitep.es/apf/reli/citas_biblicas/citas-signos.html
