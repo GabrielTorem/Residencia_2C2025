@@ -4082,6 +4082,14 @@ no me gusta cómo tradujiste ordained
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>“Well, I preach the Church Without Christ.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250925T000902Z" creationid="Marina" creationdate="20250925T000902Z">
+        <seg>"Bueno, yo predico la Iglesia sin Cristo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>just the same no es "al mismo tiempo"</note>
       <tuv lang="en-US">
         <seg>… But simultaneously, just the same, that impetus, that spasm, that leap is drawn toward an elsewhere as tempting as it is condemned.</seg>
