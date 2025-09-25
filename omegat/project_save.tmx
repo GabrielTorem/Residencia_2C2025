@@ -2307,6 +2307,14 @@ Los lectores no sabemos qué es MUD. Resuelto. </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Nothing matters but that Jesus was a liar.” (WB, 70–71)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250925T001214Z" creationid="Marina" creationdate="20250925T001124Z">
+        <seg>Nada importa salvo que Jesús era un mentiroso”. (WB, 70-71) [La traducción es nuestra]. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>fetishized no es término. Está mal cargado; falta el resto de la información. </note>
       <tuv lang="en-US">
         <seg>Of the first I will say only that in cultural studies today history (disguised perhaps as “culture”) tends to be fetishized as a &lt;f1&gt;telos&lt;/f1&gt;, as a final determinant of meaning; post de Man, post Foucault, post Hayden White, one must bear in mind that history is just another text in a procession of texts, and not a guarantor of any singular signification.</seg>
