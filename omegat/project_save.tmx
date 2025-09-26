@@ -3409,6 +3409,14 @@ Bien, resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The research carried out for the writing of this article is part of a project financed by the Spanish Ministry of Economy, Industry and Competitiveness (MINECO) and the European Regional Development Fund (DGI/ERDF) (code FFI2015-63506P).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250926T171043Z" creationid="Marina" creationdate="20250926T171043Z">
+        <seg>La investigación realizada para la redacción de este artículo forma parte de un proyecto financiado por el Ministerio de Economía, Industria y Competitividad de España (MINECO) y el Fondo Europeo de Desarrollo Regional (DGI/ERDF) (código FFI2015-63506P).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>las restricciones no refleja bien "constraint"</note>
       <tuv lang="en-US">
         <seg>The same creatures who terrify and interdict can evoke potent escapist fantasies; the linking of monstrosity with the forbidden makes the monster all the more appealing as a temporary egress from constraint.</seg>
