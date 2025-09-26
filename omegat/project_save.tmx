@@ -2953,6 +2953,14 @@ Resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The author is also grateful for the support of the Government of Aragón and the European Social Fund (code H03_17R).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250926T171052Z" creationid="Marina" creationdate="20250926T171052Z">
+        <seg>El autor también agradece el apoyo del Gobierno de Aragón y del Fondo Social Europeo (código H03_17R).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Aquí el original tiene un typo: "word" en vez de "World".</note>
       <tuv lang="en-US">
         <seg>The central character, Hazel Motes, recently discharged from service in the Second Word War, returns to the South to meet his family.</seg>
