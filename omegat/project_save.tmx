@@ -2748,6 +2748,14 @@ Perfecto, lo cambio.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Several critics have pointed out the influence of Eliot’s poem on Wise Blood.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250926T171649Z" creationid="Marina" creationdate="20250926T171649Z">
+        <seg>Varios críticos han señalado la influencia del poema de Eliot en WB.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>ortografía "aún"</note>
       <tuv lang="en-US">
         <seg>Sexual orientation further complicates the picture, as we shall see.</seg>
