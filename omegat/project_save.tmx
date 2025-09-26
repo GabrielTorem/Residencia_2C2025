@@ -258,6 +258,15 @@ No me gusta "fantasía de causalidad". Resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <note>En el texto final XXI debe ir en versalitas.</note>
+      <tuv lang="en-US">
+        <seg>&lt;t0/&gt; She located it in the reactionary, underdeveloped, Christ-haunted South – her homeland – but the violence and monstrosity embodied by O’Connor’s freaks have transcended their grotesque patterns and their spatio-temporal boundaries to form part of our daily life – to become the emblem of the human condition in the 21st century.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250926T171241Z" creationid="Marina" creationdate="20250926T171241Z">
+        <seg>&lt;t0/&gt; Ella lo localizó en el sur reaccionario, infradesarrollado y perseguido por Cristo –su tierra natal– pero la violencia y monstruosidad encarnada en los *freaks* de O’Connor han trascendido sus patrones grotescos y sus límites espacio-temporales para formar parte de nuestra vida diaria –para volverse el emblema de la condición humana en el siglo XXI.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>ataractic: para glosario</note>
       <tuv lang="en-US">
         <seg>&lt;t0/&gt; The monster’s body quite literally incorporates fear, desire, anxiety, and fantasy (ataractic or incendiary), giving them life and an uncanny independence.</seg>
@@ -3583,8 +3592,8 @@ Resuelto.</note>
       <tuv lang="en-US">
         <seg>Their seeming otherness – which mirrors that symbolized by the American South – unveils radical truths, provoking disruption and change.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250926T171112Z" creationid="Marina" creationdate="20250926T171112Z">
-        <seg>Su otredad aparente —que refleja la que simboliza el sur estadounidense— revela verdades radicales, lo que provoca disrupción y cambio.</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250926T171414Z" creationid="Marina" creationdate="20250926T171112Z">
+        <seg>Su otredad aparente –que refleja la que simboliza el sur estadounidense– revela verdades radicales, lo que provoca disrupción y cambio.</seg>
       </tuv>
     </tu>
     <tu>
