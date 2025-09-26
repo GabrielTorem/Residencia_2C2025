@@ -15,14 +15,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>(Quebec: Les Editions de P Aurore, 1975), 77.</seg>
-      </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250824T020315Z" creationid="Marina" creationdate="20250824T020315Z">
-        <seg>(Quebec: Les Éditions de l’Aurore, 1975), 77.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250911T212255Z" creationid="Marina" creationdate="20250911T210024Z">
@@ -1015,8 +1007,8 @@ Resuelto.</note>
       <tuv lang="en-US">
         <seg>Bruno Roy, “En marge du monde connu: Les races de monstres,” in &lt;f0&gt;Aspects de la marginalité au Moyen Age,&lt;/f0&gt; ed. Guy-H Allard.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250826T150136Z" creationid="Marina" creationdate="20250824T020310Z">
-        <seg>Bruno Roy, "En marge du monde connu: Les races de monstres" en &lt;f0&gt;*Aspects de la marginalité au Moyen Âge*&lt;/f0&gt;, comp. Guy-H Allard.</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250926T175036Z" creationid="Marina" creationdate="20250824T020310Z">
+        <seg>Roy, B. (1975). En marge du monde connu: Les races de monstres. En G.-H. Allard (Comp.), Aspects de la marginalité au Moyen Âge (p. 77). Quebec: Les Éditions de l’Aurore.</seg>
       </tuv>
     </tu>
     <tu>
