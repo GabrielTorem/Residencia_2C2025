@@ -1244,6 +1244,14 @@ Resuelto</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>For example, Sally Fitzgerald, O’Connor’s editor and friend, argues that although writers such as Sophocles, E.A.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250926T170514Z" creationid="Marina" creationdate="20250926T170514Z">
+        <seg>Por ejemplo, Sally Fitzgerald, compiladora y amiga de O’Connor, sostiene que, aunque escritores como Sófocles, E.A. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>La posición del circ. es incómoda.
 Comillas a "monstruo" y cursiva a "freak".</note>
       <tuv lang="en-US">
@@ -2483,6 +2491,14 @@ Resuelto.</note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T201431Z" creationid="Lenovo" creationdate="20250908T194747Z">
         <seg>Tal vez sea momento de plantear la pregunta que siempre surge cuando se habla seriamente sobre monstruos (siendo la inevitabilidad de la pregunta el síntoma de una ansiedad profunda sobre lo que es pensable y lo que debería serlo, una ansiedad que el proceso de la teoría del monstruo está destinada a suscitar): ¿Existen realemtente los monstruos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Poe, and Nathaniel West were sources of inspiration for this novel, “it was Eliot and his Waste Land who provided for [O’Connor] the first impetus to write such a book as Wise Blood at all.” Sally Fitzgerald, “The Owl and the Nightingale,” Flannery O’Connor Bulletin 13 (1984): 44–58, 55.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250926T170533Z" creationid="Marina" creationdate="20250926T170533Z">
+        <seg>Poe y Nathaniel West fueron fuentes de inspiración para esta novela, “fueron Eliot y su  Tierra Baldía quienes le proporcionaron [a O’Connor] el primer impulso para escribir un libro como WB en absoluto”. Sally Fitzgerald, “The Owl and the Nightingale,” Flannery O’Connor Bulletin 13 (1984): 44–58, 55. [La traducción es nuestra].</seg>
       </tuv>
     </tu>
     <tu>
