@@ -3722,6 +3722,14 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They are freaks of culture, rather than freaks of nature, that is, they absorb meaning out of their historical and social context (the rural and conservative South of the nineteen fifties; the bleak urban landscapes populated by outcasts, hustlers, preachers and crooks) and invest that context with meaning.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250926T171146Z" creationid="Marina" creationdate="20250926T171146Z">
+        <seg>Son *freaks* de la cultura en vez de *freaks* de la naturaleza; esto es, ellos absorben el significado de su contexto histórico y social (el del sur rural y conservativo de la década del 50; los paisajes estériles urbanos poblados de excluidos, estafadores, predicadores y ladrones) y lo revisten de sentido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They are living representations of our darkness, simultaneously metaphors and progenitors of the American way of fear and violence.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250915T231303Z" creationid="Lenovo" creationdate="20250915T231303Z">
