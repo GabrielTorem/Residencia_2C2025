@@ -3298,6 +3298,14 @@ La endíada aquí no parece funcionar bien.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The protagonist’s name symbolises vision: in Hebrew, Hazel means “he who sees God”; the shortened name, Haze, suggests difficulty to see clearly.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250926T170343Z" creationid="Marina" creationdate="20250926T170343Z">
+        <seg>El nombre del protagonista simboliza la visión: en hebreo, Hazel significa “el que ve a Dios”; su forma abreviada, Haze, sugiere dificultad para ver con claridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>En el texto original, esta oración tiene un tag sin inicio.
 
 Las rayas las podés pegar de otro programa, o configurar un autotexto.
