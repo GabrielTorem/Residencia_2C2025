@@ -82,6 +82,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>.] you ain’t so smart.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250929T140913Z" creationid="Lenovo" creationdate="20250929T140913Z">
+        <seg>.] tú no ere' tan lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>.].</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250911T210030Z" creationid="Marina" creationdate="20250911T210030Z">
@@ -717,6 +725,14 @@ afección (condición es calco)</note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250903T145331Z" creationid="Lenovo" creationdate="20250819T165520Z">
         <seg>El denominado gen "marcado" podría funcionar como analogía, dado que, cuando aparece en una cadena genética indica la presencia de una afección que de otro modo permanecería oculta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And I’ll tell you another thing, Hulga, [.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250929T140830Z" creationid="Lenovo" creationdate="20250929T140830Z">
+        <seg>Y te digo otra cosa, Hulga, [.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1639,12 +1655,28 @@ Excelente la fuente de Monstruización. ¡Gracias!</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>I been believing in nothing ever since I was born!” (GCP, 290–291)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250929T140953Z" creationid="Lenovo" creationdate="20250929T140953Z">
+        <seg>¡De’ que nací que no creo en na’!” (BGC, 290–291) </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>expresar sintácticamente oscurece aun más</note>
       <tuv lang="en-US">
         <seg>I connect these two seemingly unrelated titles here to call attention to the anxieties that monsterized their subjects in the first place, and to enact syntacticaily an even deeper fear: that the two will join in some unholy miscegenation.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250908T121254Z" creationid="Lenovo" creationdate="20250901T150709Z">
         <seg>Relaciono aquí estos dos títulos, en apariencia inconexos, para poner de relieve las ansiedades que dieron lugar a la monstruización de sus protagonistas en primer lugar y para graficar un temor aún más profundo: que ambos se unirán en algún tipo de mestizaje impío.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I may sell Bibles but I know which end is up and I wasn’t born yesterday and I know where I’m going!</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250929T140806Z" creationid="Lenovo" creationdate="20250929T140806Z">
+        <seg>¡Por más que sea un vendedor de Biblias, no tengo un pelo de tonto y no nací ayer y sé a dónde voy!</seg>
       </tuv>
     </tu>
     <tu>
