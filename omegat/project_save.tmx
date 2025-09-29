@@ -1251,6 +1251,14 @@ Promulgation: repensar</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Flannery O’Connor, The Complete Stories (London: Faber and Faber, 1990), 276.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250929T132602Z" creationid="Lenovo" creationdate="20250929T132602Z">
+        <seg>Flannery O’Connor, *The Complete Stories* (Londres: Faber y Faber, 1990), 276.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Lo mismo. Rever los paréntesis
 Resuelto</note>
       <tuv lang="en-US">
