@@ -1254,8 +1254,8 @@ Promulgation: repensar</note>
       <tuv lang="en-US">
         <seg>Flannery O’Connor, The Complete Stories (London: Faber and Faber, 1990), 276.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250929T132602Z" creationid="Lenovo" creationdate="20250929T132602Z">
-        <seg>Flannery O’Connor, *The Complete Stories* (Londres: Faber y Faber, 1990), 276.</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250929T132637Z" creationid="Lenovo" creationdate="20250929T132602Z">
+        <seg>Flannery O’Connor, *The Complete Stories* (Londres: Faber y Faber, 1990), 276. [N. de T.: La traducción es nuestra]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1345,6 +1345,14 @@ Comillas a "monstruo" y cursiva a "freak".</note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250903T151424Z" creationid="Lenovo" creationdate="20250819T192853Z">
         <seg>Ostentando un rechazo total a los métodos tradicionales de organizar el conocimiento y la experiencia humanos, la geografía del monstruo representa una expansión peligrosa y, por consiguiente, siempre se combate en el espacio cultural.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Further references in the text abbreviated as GCP.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250929T132708Z" creationid="Lenovo" creationdate="20250929T132624Z">
+        <seg>Las referencias subsiguientes en el texto se abrevian como BGC (por *La buena gente del campo*).</seg>
       </tuv>
     </tu>
     <tu>
