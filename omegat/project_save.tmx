@@ -660,6 +660,14 @@ Claro, porque no está en el original. Todo tiene que estar igualito al original
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Although her name is Joy, she has renamed herself with a most horrible one, Hulga, “on the basis of its ugly sound” (GCP, 275).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250929T135024Z" creationid="Lenovo" creationdate="20250929T135024Z">
+        <seg>Si bien se llama Joy [^N. de T.], ha cambiado su nombre por uno horrendo, Hulga, “basándose en lo mal que suena” (BGC, 275). [^N. de  T.:] &lt;En inglés Joy significa "alegría"&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>in..., ed.</note>
       <tuv lang="en-US">
         <seg>American history can best be understood through America’s monsters.</seg>
