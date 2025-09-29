@@ -835,8 +835,8 @@ Repetís "películas"</note>
       <tuv lang="en-US">
         <seg>As Ralph Wood explains, for Hulga’s mother, the name evokes “the broad blank hull of a battleship.” Yet, “when Flannery O’Connor visited East Texas State College in November 1962, she gave her own version of the name’s origin.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250929T132829Z" creationid="Lenovo" creationdate="20250929T132829Z">
-        <seg>Tal como explica Ralph Wood, para la madre de Hulga, el nombre evoca “el casco de un barco de guerra ancho y vacío”. No obstante, “Cuando Flannery O’Connor visitó la universidad East Texas State College, en noviembre de 1962, dio su propia versión sobre el origen del nombre.</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250929T140342Z" creationid="Lenovo" creationdate="20250929T132829Z">
+        <seg>Según explica Ralph Wood, para la madre de Hulga, el nombre evoca “el casco de un barco de guerra ancho y vacío”. No obstante, “Cuando Flannery O’Connor visitó la universidad East Texas State College, en noviembre de 1962, dio su propia versión sobre el origen del nombre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -911,6 +911,14 @@ hay leísmo</note>
       </tuv>
       <tuv lang="es-ES" changeid="solca" changedate="20250913T213153Z" creationid="solca" creationdate="20250826T004847Z">
         <seg>A medida que la frontera estadounidense se expandía bajo el estandarte del Destino Manifiesto en el siglo XIX, circulaban historias sobre cómo los "indios" usualmente secuestraban a mujeres blancas para tenerlas como esposas; el viejo oeste era un lugar peligroso que se buscaba domar para convertirlo en granjas, y a sus amenazantes habitantes nativos se los consideraba aptos solo para ser despojados de sus tierras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As the dénouement discloses, the Bible seller proves to be a cheat and a fraud, that is, a dangerous freak: after stealing Hulga’s glasses and wooden leg, he leaves her stranded in a barn loft – literally disabled – and emotionally raped.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250929T140313Z" creationid="Lenovo" creationdate="20250929T140313Z">
+        <seg>Tal como revela el desenlace de la historia, el vendedor de Biblias resulta ser un embustero y un fraude, es decir, un freak peligroso: luego de robar los lentes y la pierna de madera de Hulga, la abandona a su suerte en el desván de un granero, literalmente inválida y emocionalmente ultrajada.</seg>
       </tuv>
     </tu>
     <tu>
