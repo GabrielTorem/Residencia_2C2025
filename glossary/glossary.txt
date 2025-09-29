@@ -79,3 +79,6 @@ ff.	ss	https://usitep.es/apf/reli/citas_biblicas/citas-signos.html
 ff	ss	https://usitep.es/apf/reli/citas_biblicas/citas-signos.html
 ff.	ss	https://usitep.es/apf/reli/citas_biblicas/citas-signos.html
 ff.	ss	https://usitep.es/apf/reli/citas_biblicas/citas-signos.html
+sadist	sádico	https://dictionary.cambridge.org/es/diccionario/ingles-espanol/sadist- Maca
+kinship	parentesco	https://dictionary.cambridge.org/es/diccionario/ingles-espanol/kinship-Maca
+epiphany	epifanía	https://dictionary.cambridge.org/es/diccionario/ingles-espanol/epiphany-Maca
