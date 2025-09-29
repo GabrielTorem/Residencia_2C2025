@@ -214,6 +214,14 @@ No te preocupes. El programa los entiende mucho mejor que nosotros.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0/&gt; In this case, the character’s physical singularity suggests her moral deformity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250929T133802Z" creationid="Lenovo" creationdate="20250929T133802Z">
+        <seg>&lt;t0/&gt; En este caso, la singularidad física del personaje sugiere su deformidad moral:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Quité los espacios del final.</note>
       <tuv lang="en-US">
         <seg>&lt;t0/&gt; Like Grendel thundering from the mere or Dracula creeping from the grave, like Kristeva’s “boomer- ang, a vortex of summons” or the uncanny Freudian-Lacanian return of the repressed, the monster is always coming back, always at the verge of irruption.</seg>
@@ -2803,6 +2811,22 @@ Perfecto, lo cambio.</note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250902T140852Z" creationid="Lenovo" creationdate="20250902T014515Z">
         <seg>El Caliban de Shakespeare, por ejemplo, es producto de este tipo de mestizaje ilícito: el “cachorro pecoso” de Sycorax, la bruja argelina y el diablo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She has a wooden leg and a Ph.D. in philosophy, is proud of her nihilism and abhors the conventional personality of people like her mother, Mrs. Hopewell, and her employee, Mrs. Freeman.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250929T133846Z" creationid="Lenovo" creationdate="20250929T133846Z">
+        <seg>tiene una pierna de madera y un doctorado en filosofía, se siente orgullosa de ser nihilista y aborrece la personalidad convencional de las personas como su madre, la señora Hopewell, y la empleada de su madre, la señora Freeman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She lives in a state of “constant outrage” (GCP, 273) against the two of them, her surroundings, and the world at large.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250929T133931Z" creationid="Lenovo" creationdate="20250929T133931Z">
+        <seg>Vive en un estado de “furia permanente” (BGC, 273) contra ellas dos, su entorno y el mundo entero.</seg>
       </tuv>
     </tu>
     <tu>
