@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3996,7 +3996,6 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>This is the content for file 27, with its notes.</seg>
       </tuv>
@@ -4154,8 +4153,8 @@ Buen intento de parafrasear, pero se fue el sentido.</note>
       <tuv lang="en-US">
         <seg>Unflaggingly, like an inescapable boomerang, a vortex of summons and repulsion places the one haunted by it literally beside himself.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250929T182026Z" creationid="Lenovo" creationdate="20250908T190830Z">
-        <seg>Sin descanso, como un búmerang ineludible, un vórtice de atracción y de repulsión coloca a aquel que está asechando literalmente a su lado.</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20250930T214655Z" creationid="Lenovo" creationdate="20250908T190830Z">
+        <seg>Sin descanso, como un búmeran ineludible, un vórtice de atracción y de repulsión coloca a aquel que está acechando literalmente a su lado.</seg>
       </tuv>
     </tu>
     <tu>
