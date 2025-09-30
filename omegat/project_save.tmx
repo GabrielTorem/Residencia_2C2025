@@ -450,6 +450,14 @@ Resuelto. El tiempo se mantiene en pasado.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t7/&gt; “Monster theory” must therefore concern itself with strings of cultural moments, connected by a logic that always threatens to shift; invigorated by change and escape, by the impossibility of achieving what Susan Stewart calls the desired “fall or death, the stopping” of its gigantic subject,&lt;t8/&gt; monstrous interpretation is as much process as epiphany, a work that must content itself with fragments (footprints, bones, &lt;t9/&gt;talismans, teeth, shadows, obscured glimpses—signifiers of monstrous passing that stand in for the monstrous body itself).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250930T222521Z" creationid="Marina" creationdate="20250930T222521Z">
+        <seg>[fuzzy]&lt;t7/&gt; Así, “La teoría del monstruo” debe verse relacionada con cadenas de momentos culturales, conectados por una lógica que siempre amenaza con transformarse; impulsada por el cambio y el escape y mediante la imposibilidad de alcanzar lo que Susan Stewart denomina la deseada “caída o muerte, la detención” de su enorme sujeto,&lt;t8/&gt; la interpretación monstruosa es tanto un proceso como una epifanía, es un trabajo que debe conformarse con fragmentos (huellas, huesos, talismanes, dientes, sombras, indicios oscuros—significantes del pasaje monstruoso que representan al propio cuerpo monstruoso).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Stopping no es término (Debatido)
 Problema de traducción:
 strings of cultural moments (resuelto "cadenas")
@@ -1409,6 +1417,14 @@ Comillas a "monstruo" y cursiva a "freak".</note>
       </tuv>
       <tuv lang="es-ES" changeid="solca" changedate="20250913T204721Z" creationid="solca" creationdate="20250908T213610Z">
         <seg>De su sangre dispersa surgió una raza de hombres que siguió las conductas malignas de sus padres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Full of rebuke to traditional methods of organizing knowledge and human experience, the geography of the monster is an imperiling expanse, and therefore always a contested cultural &lt;t0/&gt;space.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250930T222616Z" creationid="Marina" creationdate="20250930T222616Z">
+        <seg>[fuzzy]Ostentando un rechazo total a los métodos tradicionales de organizar el conocimiento y la experiencia humanos, la geografía del monstruo representa una expansión peligrosa y, por consiguiente, siempre se combate en el espacio cultural.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3814,6 +3830,14 @@ Resuelto.</note>
       <tuv lang="es-ES" changeid="Marina" changedate="20250902T231616Z" creationid="Marina" creationdate="20250824T000304Z">
         <seg>Estas diferencias fueron moralizadas rápidamente a través de una retórica dominante de la desviación.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These epistemological spaces between the monster’s bones are Derrida’s familiar chasm of &lt;f2&gt;différance:&lt;/f2&gt; a genetic uncertainty principle, the essence of the monster’s vitality, the reason it always rises &lt;t3/&gt;from the dissection table as its secrets are about to be revealed and vanishes into the night.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Marina" changedate="20250930T222446Z" creationid="Marina" creationdate="20250930T222446Z">
+        <seg>[fuzzy]Estos espacios epistemológicos entre los huesos del monstruo son el conocido abismo de la &lt;f2&gt;*différance*:&lt;/f2&gt; de Derrida: un principio de incertidumbre genética, la esencia de la vitalidad del monstruo, la razón por la que siempre se alza de la mesa de disección cuando sus secretos están a punto de ser revelados y desaparece en la noche.</seg>
       </tuv>
     </tu>
     <tu>
