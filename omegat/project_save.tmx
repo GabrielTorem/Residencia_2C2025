@@ -1348,6 +1348,14 @@ Promulgation: repensar</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Flannery O’Connor, The Complete Stories (London: Faber and Faber, 1990), 117.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20251006T030010Z" creationid="solca" creationdate="20251006T030010Z">
+        <seg>O’Connor, F. (1990). Cuentos completos (p. 117). Londres: Faber and Faber.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Flannery O’Connor, The Complete Stories (London: Faber and Faber, 1990), 276.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20251001T191609Z" creationid="Lenovo" creationdate="20250929T132602Z">
@@ -1457,6 +1465,14 @@ Comillas a "monstruo" y cursiva a "freak".</note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250929T132708Z" creationid="Lenovo" creationdate="20250929T132624Z">
         <seg>Las referencias subsiguientes en el texto se abrevian como BGC (por *La buena gente del campo*).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Further references in the text abbreviated as GM.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20251006T030057Z" creationid="solca" creationdate="20251006T030057Z">
+        <seg>Las referencias subsiguientes en el texto se indican con la abreviatura GM.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3801,8 +3817,8 @@ Tendremos que ver si las citas quedan tipográficamente bien marcadas.</note>
       <tuv lang="en-US">
         <seg>The tale “A Good Man Is Hard To Find” (1953) is an appropriate point of departure to analyse O’Connor’s freaks.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20251006T022507Z" creationid="solca" creationdate="20251006T021902Z">
-        <seg>El cuento «Un hombre bueno es difícil de encontrar» (1953) resulta un punto de partida idóneo para analizar los *freaks* de O’Connor.</seg>
+      <tuv lang="es-ES" changeid="solca" changedate="20251006T030244Z" creationid="solca" creationdate="20251006T021902Z">
+        <seg>El cuento "Un hombre bueno es difícil de encontrar" (1953) resulta un punto de partida idóneo para analizar los *freaks* de O’Connor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4486,8 +4502,8 @@ mientras ¿quién? dormía</note>
       <tuv lang="en-US">
         <seg>You don’t look a bit like you have common blood.” She even advises the Misfit to pray: “If you would pray, [.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20251006T025804Z" creationid="solca" creationdate="20251006T025559Z">
-        <seg>"No pareces tener la misma sangre que los demás". Incluso aconseja al Desiquilibrado que rece: “Si rezaras, .</seg>
+      <tuv lang="es-ES" changeid="solca" changedate="20251006T025844Z" creationid="solca" creationdate="20251006T025559Z">
+        <seg>"No pareces tener la misma sangre que los demás". Incluso aconseja al Desiquilibrado que rece: “Si rezaras, [.</seg>
       </tuv>
     </tu>
     <tu>
