@@ -4281,8 +4281,8 @@ Buen intento de parafrasear, pero se fue el sentido.</note>
       <tuv lang="en-US">
         <seg>We can now recall their shocking reaction after their car has turned over: “ ‘We’ve had an ACCIDENT,’ the children screamed in a frenzy of delight.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20251006T025044Z" creationid="solca" creationdate="20251006T025044Z">
-        <seg>Podemos recordar su reacción impactante después de que el auto se volcara:</seg>
+      <tuv lang="es-ES" changeid="solca" changedate="20251006T025221Z" creationid="solca" creationdate="20251006T025044Z">
+        <seg>Podemos recordar su reacción impactante después de que el auto se volcara: "¡Hemos tenido un accidente!", gritaban los chicos en un delirio de felicidad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4519,6 +4519,14 @@ que se cita:
 inglés/castellano [Barcelona: Gedisa], 1997, 235-298. Si más adelante se cita al mismo autor y la misma o distinta obra, la grafía depende de cuál sea la realidad. Por
 ejemplo, si en la misma página, a continuación de la cita anterior, se hace otra cita bibliográfica del mismo autor y la misma obra, en la segunda se pone
 id. (ídem) para indicar que es el mis-mo autor, seguido de ib. (ibídem) (en ambos casos sin diacríticos, es decir, escrito en redondo) para indicar quees la misma obra, y a continuación la nueva página: 5 Ídem, ib., 252.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‘But nobody’s killed,’ June Star said with disappointment” (GM, 125).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20251006T025119Z" creationid="solca" creationdate="20251006T025119Z">
+        <seg>’Pero nadie se ha muerto’ —señaló june Star con cierta desilusión".</seg>
       </tuv>
     </tu>
     <tu>
