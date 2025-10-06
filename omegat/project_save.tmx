@@ -1878,6 +1878,14 @@ disease of vampirism no es lo mismo que enfermedad vampiresca. (Resuelto)</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>In it, a family of six members – which includes a grandmother, two young children, a baby and their parents – leaves Atlanta for a short trip in Florida, but they never reach their destination.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20251006T022019Z" creationid="solca" creationdate="20251006T022019Z">
+        <seg>En él, una familia de seis miembros —que incluye a una abuela, dos niños pequeños, un bebé y sus padres— parte de Atlanta para hacer un viaje breve a Florida, pero nunca llegan a su destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Corrijo un problema técnico.
 Pensar en conjunto la grafía de "otro"
 loci lo normalizás.
@@ -2614,6 +2622,14 @@ escribe HG </note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250923T025306Z" creationid="Lenovo" creationdate="20250915T172302Z">
         <seg>Por otro lado, la confusión también responde a la combinación original de elementos de su obra: su intención de evocar la gracia y el misterio a través de lo concreto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On their way they meet the Misfit, a dangerous criminal escaped from the Federal Pen, who kills them one by one.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20251006T022216Z" creationid="solca" creationdate="20251006T022216Z">
+        <seg>En el camino se topan con el Desequilibrado, un peligroso criminal fugado de la Penitenciaría Federal, que los mata uno por uno. </seg>
       </tuv>
     </tu>
     <tu>
