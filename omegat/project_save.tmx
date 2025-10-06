@@ -3686,6 +3686,14 @@ Tendremos que ver si las citas quedan tipográficamente bien marcadas.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The tale “A Good Man Is Hard To Find” (1953) is an appropriate point of departure to analyse O’Connor’s freaks.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20251006T021902Z" creationid="solca" creationdate="20251006T021902Z">
+        <seg>El cuento «Un hombre bueno es difícil de encontrar» (1953) resulta un punto de partida idóneo para analizar los freaks de O’Connor.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Arreglé un tag faltante.
 Arreglé por convención tipográfica la posición de inicioi y fin de cursiva.</note>
       <tuv lang="en-US">
