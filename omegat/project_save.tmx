@@ -39,6 +39,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>.] Jesus would help you” (GM, 130).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20251006T025828Z" creationid="solca" creationdate="20251006T025828Z">
+        <seg>.] Jesús te ayudaría”.(GM, 130).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Traducción extraída de "Un hombre bueno es difícil de encontrar", por Marcelo Covián y Vida Ozores. (Penguin Random House Grupo Editorial España). GM hace referencia a "A Good Man is Hard to Find (Faber Stories)", short story de Flannery O' Connor. Fuente; https://drive.google.com/file/d/1g18Vy237oIhcMBkN1KgjZ1nDqL2iekF9/view?usp=drive_link</note>
       <tuv lang="en-US">
         <seg>.] and He shouldn’t have done it.</seg>
@@ -3363,8 +3371,8 @@ Mantememos el ";"</note>
       <tuv lang="en-US">
         <seg>The grandmother betrays her selfishness, shallow faith, and hypocrisy through her repetitive silly phrases, full of clichés, intended to postpone of even avoid death, such as “You wouldn’t shoot a lady, would you?,” or “I know you’re a good man.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20251006T025515Z" creationid="solca" creationdate="20251006T025515Z">
-        <seg>La abuela delata su egoísmo, fe superficial e hipocresía por medio de sus frases tontas repetitivas, repletas de clichés, destinadas a aplazar o incluso evitar la muerte, tales como “No le dispararías a una dama, ¿verdad?”, o “Sé que usted es un buen hombre” Incluso aconseja al Desiquilibrado que rece: “Si rezaras, […] Jesús te ayudaría”.</seg>
+      <tuv lang="es-ES" changeid="solca" changedate="20251006T025647Z" creationid="solca" creationdate="20251006T025515Z">
+        <seg>La abuela delata su egoísmo, fe superficial e hipocresía por medio de sus frases tontas repetitivas, repletas de clichés, destinadas a aplazar o incluso evitar la muerte, tales como “No le dispararías a una dama, ¿verdad?”, o “Sé que eres es un buen hombre. No pareces tener la misma sangre que los demás". Incluso aconseja al Desiquilibrado que rece: “Si rezaras, […] Jesús te ayudaría”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4472,6 +4480,14 @@ mientras ¿quién? dormía</note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250921T165025Z" creationid="Lenovo" creationdate="20250825T164513Z">
         <seg>Sin embargo, la multiplicación entraña un peligro: dado que la diferencia es como la hidra, brotan dos cabezas donde una ha sido cortada, las posibilidades de escape, resistencia, disrupción se erigen con más fuerza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You don’t look a bit like you have common blood.” She even advises the Misfit to pray: “If you would pray, [.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20251006T025804Z" creationid="solca" creationdate="20251006T025559Z">
+        <seg>"No pareces tener la misma sangre que los demás". Incluso aconseja al Desiquilibrado que rece: “Si rezaras, .</seg>
       </tuv>
     </tu>
     <tu>
