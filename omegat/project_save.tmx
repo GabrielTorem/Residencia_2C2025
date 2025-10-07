@@ -2708,6 +2708,7 @@ escribe HG </note>
       </tuv>
     </tu>
     <tu>
+      <note>¿Por qué anteponés el adjetivo?</note>
       <tuv lang="en-US">
         <seg>On their way they meet the Misfit, a dangerous criminal escaped from the Federal Pen, who kills them one by one.</seg>
       </tuv>
@@ -2736,6 +2737,7 @@ No está bien lograda.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Ya no se usa tilde en "solo" casi nunca.</note>
       <tuv lang="en-US">
         <seg>Only the cat, taken by the grandmother without her son’s knowledge, and partly responsible for the accident, survives the killing.</seg>
       </tuv>
@@ -4280,6 +4282,8 @@ Buen intento de parafrasear, pero se fue el sentido.</note>
       </tuv>
     </tu>
     <tu>
+      <note>anteposición de adjetivo innecesaria
+promedio no es buena colocación</note>
       <tuv lang="en-US">
         <seg>Thus, the members of this family have nothing to do with the image of a traditional Southern family; on the contrary, and despite the conservatism associated with the nineteen fifties, they anticipate characteristics of present-day average or even dysfunctional families.</seg>
       </tuv>
