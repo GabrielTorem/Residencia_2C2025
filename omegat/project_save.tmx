@@ -715,11 +715,13 @@ Claro, porque no está en el original. Todo tiene que estar igualito al original
       </tuv>
     </tu>
     <tu>
+      <note>Corregí el markdown, puse los dos puntos tras el corchete.
+Más arriba hay una referencia a "ugly"</note>
       <tuv lang="en-US">
         <seg>Although her name is Joy, she has renamed herself with a most horrible one, Hulga, “on the basis of its ugly sound” (GCP, 275).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250929T135024Z" creationid="Lenovo" creationdate="20250929T135024Z">
-        <seg>Si bien se llama Joy [^N. de T.], ha cambiado su nombre por uno horrendo, Hulga, “basándose en lo mal que suena” (BGC, 275). [^N. de  T.:] &lt;En inglés Joy significa "alegría"&gt;.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251007T140138Z" creationid="Lenovo" creationdate="20250929T135024Z">
+        <seg>Si bien se llama Joy [^N. de T.], ha cambiado su nombre por uno horrendo, Hulga, “basándose en lo mal que suena” (BGC, 275). [^N. de  T.]:En inglés Joy significa "alegría".</seg>
       </tuv>
     </tu>
     <tu>
@@ -3061,7 +3063,7 @@ Perfecto, lo cambio.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Wooden leg ya fue traducido. Buscar uniformidad.</note>
+      <note>Wooden leg ya fue traducido. Buscar uniformidad. (Creo que en la versión de Maca)</note>
       <tuv lang="en-US">
         <seg>She has a wooden leg and a Ph.D. in philosophy, is proud of her nihilism and abhors the conventional personality of people like her mother, Mrs. Hopewell, and her employee, Mrs. Freeman.</seg>
       </tuv>
@@ -4478,11 +4480,13 @@ mientras ¿quién? dormía</note>
       </tuv>
     </tu>
     <tu>
+      <note>ortogr. "Biblias"
+corregir error de tipeo</note>
       <tuv lang="en-US">
         <seg>When a travelling Bible-seller comes to her house – an apparently naive young man, with the phallic name of Manley Pointer – Hulga, sexually inexperienced, decides to seduce him, if only to show her intellectual superiority, taking for granted that he is “just good country people” (GCP, 290).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250929T140210Z" creationid="Lenovo" creationdate="20250929T140210Z">
-        <seg>Cuando un vendedor de Biblias ambulante llega a su casa (un joven en apariencia naíf, con el nombre fálico de Manley Pointer [^N. de T.]) Hulga, que no tiene experiencia sexual, decide seducirlo, aunque más no sea para probar su superioridad intelectual, dando por sentado que él es “solo buena gente del campo” (BGC, 290). [^N. de  T.:] &lt;Manley sugiere la palabra inglesa "manly" (varonil, masculino) y pointer es aguien que apunta&gt;.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251007T140342Z" creationid="Lenovo" creationdate="20250929T140210Z">
+        <seg>Cuando un vendedor de Biblias ambulante llega a su casa (un joven en apariencia naíf, con el nombre fálico de Manley Pointer).[^N.deT.] Hulga, que no tiene experiencia sexual, decide seducirlo, aunque más no sea para probar su superioridad intelectual, dando por sentado que él es “solo buena gente del campo” (BGC, 290). [^N.deT.]:Manley sugiere la palabra inglesa "manly" (varonil, masculino) y pointer es aguien que apunta.</seg>
       </tuv>
     </tu>
     <tu>
