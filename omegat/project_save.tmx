@@ -238,6 +238,7 @@ No te preocupes. El programa los entiende mucho mejor que nosotros.
       </tuv>
     </tu>
     <tu>
+      <note>Los dos puntos son una intromisión</note>
       <tuv lang="en-US">
         <seg>&lt;t0/&gt; In this case, the character’s physical singularity suggests her moral deformity.</seg>
       </tuv>
@@ -2062,6 +2063,8 @@ Podés invertir hacia el final "Tal como..."
       </tuv>
     </tu>
     <tu>
+      <note>Ojo mayúsculas. Recordá marcar las cursivas.
+freakishness no es "personajes freak"</note>
       <tuv lang="en-US">
         <seg>In “Good Country People” (1955), O’Connor explores nihilism and freakishness in a more clear manner, while violence is more subdued.</seg>
       </tuv>
@@ -3058,6 +3061,7 @@ Perfecto, lo cambio.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Wooden leg ya fue traducido. Buscar uniformidad.</note>
       <tuv lang="en-US">
         <seg>She has a wooden leg and a Ph.D. in philosophy, is proud of her nihilism and abhors the conventional personality of people like her mother, Mrs. Hopewell, and her employee, Mrs. Freeman.</seg>
       </tuv>
@@ -3824,6 +3828,7 @@ Es correcta tu versión. Pensemos en nuestro encargo y discutamos estrategias.</
       </tuv>
     </tu>
     <tu>
+      <note>Estructura es mejorable</note>
       <tuv lang="en-US">
         <seg>The story focuses on the female body, especially that of its pretentious and frustrated protagonist, a “bloated, rude, squint-eyed” thirty-two-year-old girl who lives with her divorced mother on a farm.</seg>
       </tuv>
