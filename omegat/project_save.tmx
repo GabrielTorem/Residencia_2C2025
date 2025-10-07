@@ -647,12 +647,11 @@ Resuelto.</note>
       </tuv>
     </tu>
     <tu>
-      <note>apariencia tiene usos ligeramente distintos en español. ¿Esos son los usos que pensaste?</note>
       <tuv lang="en-US">
         <seg>Accordingly, he also epitomizes the disconnection between appearance and monstrosity.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250918T232825Z" creationid="Marina" creationdate="20250918T232825Z">
-        <seg>Justamente, también epitomiza la desconexión entre la apariencia y la monstruosidad.</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20251007T214005Z" creationid="Marina" creationdate="20250918T232825Z">
+        <seg>Justamente, también epitomiza la desconexión entre la aparición y la monstruosidad.</seg>
       </tuv>
     </tu>
     <tu>
