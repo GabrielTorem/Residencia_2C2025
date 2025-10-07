@@ -4569,14 +4569,14 @@ corregir error de tipeo</note>
     <tu>
       <note>Traducción extraída de "Un hombre bueno es difícil de encontrar", por Marcelo Covián y Vida Ozores. (Penguin Random House Grupo Editorial España). GM hace referencia a "A Good Man is Hard to Find (Faber Stories)", short story de Flannery O' Connor. Fuente; https://drive.google.com/file/d/1g18Vy237oIhcMBkN1KgjZ1nDqL2iekF9/view?usp=drive_link
 
-Faltan comillas de cierre.
+Faltan comillas de cierre. Resuelto.
 </note>
       <tuv lang="en-US">
         <seg>You’re one of my own children!’ She reached out and touched him on the shoulder” (GM, 132).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250918T234104Z" creationid="Marina" creationdate="20250918T233002Z">
+      <tuv lang="es-ES" changeid="Marina" changedate="20251007T215844Z" creationid="Marina" creationdate="20250918T233002Z">
         <seg>¡Eres uno de mis hijos!
-Tendió la mano y lo tocó en el hombro. (*Un hombre bueno es difícil de encontrar*, p.25).</seg>
+Tendió la mano y lo tocó en el hombro". (*Un hombre bueno es difícil de encontrar*, p.25).</seg>
       </tuv>
     </tu>
     <tu>
