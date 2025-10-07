@@ -2057,6 +2057,7 @@ de Nuevo América</note>
       </tuv>
     </tu>
     <tu>
+      <note>pía está bien, solo que no es lo más habitual para pious</note>
       <tuv lang="en-US">
         <seg>Ironically, the violent Misfit becomes the disrupting agent of revelation, and the pious and hypocritical grandmother, the recipient of grace.</seg>
       </tuv>
@@ -3400,11 +3401,12 @@ Mantememos el ";"</note>
       </tuv>
     </tu>
     <tu>
+      <note>Arreglé un problema de segmentación</note>
       <tuv lang="en-US">
         <seg>The grandmother betrays her selfishness, shallow faith, and hypocrisy through her repetitive silly phrases, full of clichés, intended to postpone of even avoid death, such as “You wouldn’t shoot a lady, would you?,” or “I know you’re a good man.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20251006T025647Z" creationid="solca" creationdate="20251006T025515Z">
-        <seg>La abuela delata su egoísmo, fe superficial e hipocresía por medio de sus frases tontas repetitivas, repletas de clichés, destinadas a aplazar o incluso evitar la muerte, tales como “No le dispararías a una dama, ¿verdad?”, o “Sé que eres es un buen hombre. No pareces tener la misma sangre que los demás". Incluso aconseja al Desiquilibrado que rece: “Si rezaras, […] Jesús te ayudaría”.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251007T130238Z" creationid="solca" creationdate="20251006T025515Z">
+        <seg>La abuela delata su egoísmo, fe superficial e hipocresía por medio de sus frases tontas repetitivas, repletas de clichés, destinadas a aplazar o incluso evitar la muerte, tales como “No le dispararías a una dama, ¿verdad?”, o “Sé que eres es un buen hombre.</seg>
       </tuv>
     </tu>
     <tu>
