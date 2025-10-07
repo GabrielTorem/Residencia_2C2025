@@ -4205,6 +4205,15 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>This is the content for file 24, with its notes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251007T150412Z" creationid="gabrielt" creationdate="20251007T150412Z">
+        <seg>Este es el contenido para el archivo 24, con sus notas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>This is the content for file 26, with its notes.</seg>
       </tuv>
