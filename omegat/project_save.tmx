@@ -686,7 +686,7 @@ Ver "apariencia". Resuelto</note>
     <tu>
       <note>¿Podemos mejorar "quester"?
 
-Carolina usa "norteamericano". Por favor acuerden eso.</note>
+Carolina usa "norteamericano". Por favor acuerden eso. Ajustado en clase "estadounidense".</note>
       <tuv lang="en-US">
         <seg>All these features depict the Misfit as a tormented quester, as O’Connor intended, but they mainly reflect two elements that are central in contemporary American society: capricious violence and religious fundamentalism.</seg>
       </tuv>
@@ -2060,8 +2060,8 @@ Podés invertir hacia el final "Tal como..."
       <tuv lang="en-US">
         <seg>In turn, the Misfit’s words at the very end of the tale – “It’s no real pleasure in life” – which contrasts with his previous “No pleasure but meanness” (GM, 132, 133), might suggest that he has also experienced his own epiphany, and therefore a change for the better, as O’Connor’s comments appear to indicate: “I don’t want to equate the Misfit with the devil.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250918T235218Z" creationid="Marina" creationdate="20250918T233020Z">
-        <seg>En cambio, las palabras del Inadaptado, recién al final de la historia –”No hay verdadero placer en la vida”-- lo que contrasta con su frase previa “No hay placer, sino maldad” (GM, 132, 133) podría sugerir que él también ha experimentado su propia epifanía, y por tanto un cambio para mejor, tal como los comentarios de O’Connor parecen indicar: “No quiero igualar al Desequilibrado con el demonio.</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20251007T220107Z" creationid="Marina" creationdate="20250918T233020Z">
+        <seg>En cambio, las palabras del Inadaptado, recién al final de la historia —”No hay verdadero placer en la vida”— lo que contrasta con su frase previa “No hay placer, sino maldad” (GM, 132, 133) podría sugerir que él también ha experimentado su propia epifanía, y por tanto un cambio para mejor, tal como los comentarios de O’Connor parecen indicar: “No quiero igualar al Desequilibrado con el demonio.</seg>
       </tuv>
     </tu>
     <tu>
