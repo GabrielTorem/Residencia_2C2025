@@ -1,24 +1,35 @@
-1.
+1. 19-8
 Fittipaldi: 9:
 Gentile: 5
 Nazar:
 M. Piñeiro: 8
 
-2.
+2. 26-8
 Fittipaldi: 7
 Gentile: 7
 Nazar: 6
 Piñeiro: 6
 
-3.
+3. 2-9
 Fittipaldi: 6 
 Gentile: 7
 Nazar: 4
 Piñeiro: 7 
 
-4.
+4. 9-9
 Fittipaldi: 5 
 Gentile: 8
 Nazar: 4
 Piñeiro: 7 
 
+5. 16-9
+Fittipaldi: 
+Gentile: 
+Nazar: 
+Piñeiro: 
+
+5. 7-10
+Fittipaldi: 
+Gentile: 
+Nazar: 
+Piñeiro: 
