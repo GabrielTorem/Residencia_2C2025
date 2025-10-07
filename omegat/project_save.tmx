@@ -646,6 +646,7 @@ Resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <note>apariencia tiene usos ligeramente distintos en español. ¿Esos son los usos que pensaste?</note>
       <tuv lang="en-US">
         <seg>Accordingly, he also epitomizes the disconnection between appearance and monstrosity.</seg>
       </tuv>
@@ -664,7 +665,17 @@ Resuelto.</note>
     <tu>
       <note>Aquí, MM refiere a Mystery and Manners. Desde el trabajo de Fittipaldi se aclara que MM refiere a la obra de O'Connor, "Mystery and Manners". No tiene traducción al español. Deseo aclarar que "la traducción es nuestra", pero el programa no me permite insertar una nueva nota.
 
-Traducción extraída de "Un hombre bueno es difícil de encontrar", por Marcelo Covián y Vida Ozores. (Penguin Random House Grupo Editorial España). GM hace referencia a "A Good Man is Hard to Find (Faber Stories)", short story de Flannery O' Connor. Fuente; https://drive.google.com/file/d/1g18Vy237oIhcMBkN1KgjZ1nDqL2iekF9/view?usp=drive_link</note>
+Traducción extraída de "Un hombre bueno es difícil de encontrar", por Marcelo Covián y Vida Ozores. (Penguin Random House Grupo Editorial España). GM hace referencia a "A Good Man is Hard to Find (Faber Stories)", short story de Flannery O' Connor. Fuente; https://drive.google.com/file/d/1g18Vy237oIhcMBkN1KgjZ1nDqL2iekF9/view?usp=drive_link
+
+para insertar una nota en markdown, que es el lenguaje que estamos usando, son dos pasos:
+Donde va la nota, en el texto [^Nota]
+Al final del fragmento, [^Nota]: &lt;donde dice "Nota" insertá el nombre que creas conveniente, solo es necesario que se repita en ambos casos. Atención a los dos puntos tras el corchete de cierre en la nota en sí&gt;
+Veo que tenés un intento, que habría que arreglar. por otro lado, no puede haber espacios dentro de los corchetes.
+
+La camisa con estampado... está mencionada en otro fragmento. Unificar.
+Usar em-dash
+
+Ver "apariencia"</note>
       <tuv lang="en-US">
         <seg>After the shooting of Bailey, the Misfit puts on Bailey’s blue parrot shirt, a detail of revealing significance: on the one hand, it suggests the invisibility of monsters – their ordinary and even familiar appearance – and on the other, as O’Connor intended, it evokes the “ties of kinship” (MM, 112) that connect humankind as a whole, contributing to the grandmother’s epiphany: “the grandmother’s head cleared for an instant.</seg>
       </tuv>
