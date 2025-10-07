@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1484,8 +1484,8 @@ Comillas a "monstruo" y cursiva a "freak".</note>
       <tuv lang="en-US">
         <seg>Further references in the text abbreviated as GCP.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250929T132708Z" creationid="Lenovo" creationdate="20250929T132624Z">
-        <seg>Las referencias subsiguientes en el texto se abrevian como BGC (por *La buena gente del campo*).</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251007T210036Z" creationid="Lenovo" creationdate="20250929T132624Z">
+        <seg>Las referencias subsiguientes en el texto se abrevian como BGC (*La buena gente del campo*).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2071,8 +2071,8 @@ freakishness no es "personajes freak"</note>
       <tuv lang="en-US">
         <seg>In “Good Country People” (1955), O’Connor explores nihilism and freakishness in a more clear manner, while violence is more subdued.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250929T133035Z" creationid="Lenovo" creationdate="20250929T133035Z">
-        <seg>En “La buena gente del campo”, de 1955, O’connor explora el nihilismo y los personajes freak de modo más evidente y, a su vez, atenúa la violencia.</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251007T210118Z" creationid="Lenovo" creationdate="20250929T133035Z">
+        <seg>En “La buena gente del campo”, de 1955, O’Connor explora el nihilismo y los personajes freak de modo más evidente y, a su vez, atenúa la violencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4205,7 +4205,6 @@ Ortogr. Se puede activar LanguageTool en preferencias</note>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>This is the content for file 24, with its notes.</seg>
       </tuv>
