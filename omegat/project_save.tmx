@@ -317,6 +317,7 @@ No me gusta "fantasía de causalidad". Resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <note>cursiva a locus</note>
       <tuv lang="en-US">
         <seg>&lt;t0/&gt; This power to evade and to undermine has coursed through the monster’s blood from classical times, when despite all the attempts of Aristotle (and later Pliny, Augustine, and Isidore) to incorporate the monstrous races&lt;t1/&gt; into a coherent epistemological system, the monster always escaped to return to its habitations at the margins of the world (a purely conceptual locus rather than a geographic one).</seg>
       </tuv>
@@ -359,6 +360,8 @@ No me gusta "fantasía de causalidad". Resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <note>repetís "socavar"
+anteposición de adj.</note>
       <tuv lang="en-US">
         <seg>&lt;t2/&gt; Classical “wonder books” radically undermine the Aristotelian taxonomic system, for by refusing an easy compartmentalization of their monstrous contents, they demand a radical rethinking of boundary and normality.</seg>
       </tuv>
@@ -545,6 +548,7 @@ hyerophant a glosario.</note>
       </tuv>
     </tu>
     <tu>
+      <note>repetís "juego"</note>
       <tuv lang="en-US">
         <seg>A mixed category, the monster resists any classification built on hierarchy or a merely binary opposition, demanding instead a “system” allowing polyphony, mixed response (difference in sameness, repulsion in attraction), and resistance to integration—allowing what Hogle has called with a wonderful pun “a deeper play of differences, a nonbinary polymorphism at the ‘base’ of human nature.”&lt;t3/&gt; The horizon where the monsters dwell might well be imagined as the visible edge of the hermeneutic circle itself: the monstrous offers an escape from its hermetic path, an invitation to explore new spirals, new and interconnected methods of perceiving the world.</seg>
       </tuv>
@@ -3883,11 +3887,12 @@ Arreglé por convención tipográfica la posición de inicioi y fin de cursiva.<
       </tuv>
     </tu>
     <tu>
+      <note>freakish: rever</note>
       <tuv lang="en-US">
         <seg>The too- precise laws of nature as set forth by science are gleefully violated in the freakish compilation of the monster’s body.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T200327Z" creationid="Lenovo" creationdate="20250819T190859Z">
-        <seg>Las leyes de la naturaleza, demasiado precisas tal como expone la cienca, se ven alegremente vulneradas por la extraña compilación del cuerpo de un monstruo. </seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251007T232145Z" creationid="Lenovo" creationdate="20250819T190859Z">
+        <seg>Las leyes de la naturaleza, demasiado precisas tal como expone la ciencia, se ven alegremente vulneradas por la extraña compilación del cuerpo de un monstruo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4237,6 +4242,7 @@ Resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <note>sistémica es distinto de sistemática</note>
       <tuv lang="en-US">
         <seg>This refusal to participate in the classificatory “order of things” is true of monsters generally: they are disturbing hybrids whose externally incoherent bodies resist attempts to include them in any systematic structuration.</seg>
       </tuv>
