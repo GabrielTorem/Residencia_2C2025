@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3508,7 +3508,6 @@ in lascivious disguise es un modismo no bien traducido. Resuelto.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Adj antepuesto</note>
       <tuv lang="en-US">
         <seg>The monster always escapes because it refuses easy categorization.</seg>
       </tuv>
@@ -4005,7 +4004,7 @@ No estoy de acuerdo: es importante, porque dice "envisions". Puede ver personaje
       </tuv>
     </tu>
     <tu>
-      <note>investigar Megasthenes
+      <note>es Megástenes, con tilde
 buscar la cita de Otello </note>
       <tuv lang="en-US">
         <seg>These are the ancient monsters recorded first by the Greek writers Ktesias and Megasthenes, and include such wild imaginings as the Pygmies, the Sciapods (men with one large foot with which they can hop about at tremendous speed or that they can lift over their reclining bodies as a sort of beach umbrella), Blemmyae (“men whose heads / Do grow beneath their shoulders,” in Othello’s words), and Cynocephali, ferocious dog-headed men who are anthropophagous to boot.</seg>
@@ -4070,8 +4069,6 @@ Resuelto.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Mejor coma antes del circ.
-Ortogr. Se puede activar LanguageTool en preferencias</note>
       <tuv lang="en-US">
         <seg>Thesis III: The Monster Is the Harbinger of Category Crisis</seg>
       </tuv>
