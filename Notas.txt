@@ -26,10 +26,10 @@ Piñeiro: 7
 Fittipaldi: 6 
 Gentile: 7
 Nazar: 6
-Piñeiro: 
+Piñeiro: 9 
 
 5. 7-10
-Fittipaldi: 
-Gentile: 
-Nazar: 
-Piñeiro: 
+Fittipaldi: 5
+Gentile: 5
+Nazar: 4
+Piñeiro: 7
