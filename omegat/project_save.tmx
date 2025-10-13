@@ -1381,8 +1381,8 @@ Promulgation: repensar</note>
       <tuv lang="en-US">
         <seg>Finally, Hazel abandons the rooming house, in part due to the landlady’s marriage proposals; a few days later, a policeman finds him lying unconscious in a ditch and strikes him over the head with his billy club.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20251013T171131Z" creationid="Lenovo" creationdate="20251013T171131Z">
-        <seg>Por último, Hazel abandona la casa de huéspedes, en parte debido a las propuestas de matrimonio de la propietaria; unos días más tarde, un policía lo encuentra tirado inconsciente en una zanja y lo golpea en la cabeza con la porra.</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251013T172242Z" creationid="Lenovo" creationdate="20251013T171131Z">
+        <seg>Por último, abandona la casa de huéspedes, en parte debido a las propuestas de matrimonio de la propietaria; unos días más tarde, un policía lo encuentra tirado inconsciente en una zanja y lo golpea en la cabeza con la porra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2160,6 +2160,14 @@ freakishness no es "personajes freak"</note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250903T145002Z" creationid="Lenovo" creationdate="20250819T154204Z">
         <seg>Es una pesadilla linneana que desafía todas las leyes naturales de la evolución: por momentos es bivalvo, crustáceo, reptiliano y humanoide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is by looking into Hazel’s eyes – with her eyes shut – that she experiences the epiphany that closes the novel:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251013T172256Z" creationid="Lenovo" creationdate="20251013T172256Z">
+        <seg>Es al mirar a Hazel a los ojos (con los ojos de ella cerrados) cuando tiene la epifanía que cierra la novela:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3107,6 +3115,14 @@ Perfecto, lo cambio.</note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250902T140852Z" creationid="Lenovo" creationdate="20250902T014515Z">
         <seg>El Caliban de Shakespeare, por ejemplo, es producto de este tipo de mestizaje ilícito: el “cachorro pecoso” de Sycorax, la bruja argelina y el diablo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She had never observed his face more composed and she grabbed his hand and held it to her heart.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251013T172907Z" creationid="Lenovo" creationdate="20251013T172907Z">
+        <seg>Nunca había visto el rostro de Haze tan apacible y le tomó una mano y se la llevó al corazón.</seg>
       </tuv>
     </tu>
     <tu>
