@@ -1628,6 +1628,14 @@ Fierce tien una mala traducción en "poderoso"</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Hazel dies in the squad car, but the policemen do not notice it and take him back to his lodgings.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251013T171241Z" creationid="Lenovo" creationdate="20251013T171241Z">
+        <seg>Hazel muere en el patrullero, pero el policía no se da cuenta y lo lleva a su alojamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>El contexto te lleva a pensar otra formulación
 
 Resuelto.</note>
@@ -3522,6 +3530,14 @@ Verificado en: https://www.cervantesvirtual.com/obra/speculum-naturale/</note>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250909T050507Z" creationid="solca" creationdate="20250908T220002Z">
         <seg>El huye aterrorizado y, alcanzando el silencio del campo, lanza aullidos y en vano intenta hablar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The landlady talks to him and observes his face, “stern and tranquil” (WB, 159).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251013T171759Z" creationid="Lenovo" creationdate="20251013T171759Z">
+        <seg>La propietaria le habla y observa su rostro, “rígido y apacible” (WB, 159).</seg>
       </tuv>
     </tu>
     <tu>
