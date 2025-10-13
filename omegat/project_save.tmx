@@ -23,6 +23,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(WB, 160)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251013T184926Z" creationid="Lenovo" creationdate="20251013T184926Z">
+        <seg>(WB, 160)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250911T212255Z" creationid="Marina" creationdate="20250911T210024Z">
@@ -1425,6 +1433,14 @@ Resuelto</note>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250926T173541Z" creationid="Marina" creationdate="20250925T001848Z">
         <seg>O’Connor, F. (1952/1996). *Wise Blood*. Londres: Faber and Faber. 11. Las referencias futuras en el texto se abreviarán como WB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Flannery O’Connor, “Author’s Note to the Second Edition,” in Wise Blood (London: Faber and Faber, 1996), xiii.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251013T185504Z" creationid="Lenovo" creationdate="20251013T185504Z">
+        <seg>Flannery O'Connor, "Nota del autor a la segunda edición", en *Wise Blood* (Londres: Faber y Faber, 1996), xiii. [N. de T.: La traducción es nuestra] </seg>
       </tuv>
     </tu>
     <tu>
