@@ -1932,6 +1932,14 @@ disease of vampirism no es lo mismo que enfermedad vampiresca. (Resuelto)</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>In any case, it is clear that Hazel’s freakishness embodies the defining features of Southern Gothic: violence and self-inflicted violence, murder, bigotry, fanaticism and religious fundamentalism.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251013T191942Z" creationid="Lenovo" creationdate="20251013T191942Z">
+        <seg>En todo caso, resulta claro que el *frikismo* de Hazel encarna los rasgos definitivos del gótico sureño: violencia y violencia autoinfligida, asesinato, intolerancia, fanatismo y fundamentalismo religioso.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>la transposición afecta la hilación lógica. Resuelto. 7-10-25</note>
       <tuv lang="en-US">
         <seg>In any case, it is when the freak can be sensed as a figure for our essential displacement that he attains some depth in literature.</seg>
