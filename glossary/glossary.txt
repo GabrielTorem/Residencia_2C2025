@@ -82,3 +82,5 @@ ff.	ss	https://usitep.es/apf/reli/citas_biblicas/citas-signos.html
 sadist	sádico	https://dictionary.cambridge.org/es/diccionario/ingles-espanol/sadist- Maca
 kinship	parentesco	https://dictionary.cambridge.org/es/diccionario/ingles-espanol/kinship-Maca
 epiphany	epifanía	https://dictionary.cambridge.org/es/diccionario/ingles-espanol/epiphany-Maca
+freakishness	frikismo	https://www.fbbva.es/diccionario/frikismo/
+Southern Gothic	gótico sureño	https://bibliotecas.unileon.es/tULEctura/2019/07/15/pildora-literaria-el-gotico-sureno/
