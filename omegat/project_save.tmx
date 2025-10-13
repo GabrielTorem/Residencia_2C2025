@@ -231,6 +231,14 @@ No te preocupes. El programa los entiende mucho mejor que nosotros.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;t0/&gt; He wraps his body with barbed wire, puts pebbles in his shoes and hardly eats.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251013T170741Z" creationid="Lenovo" creationdate="20251013T170741Z">
+        <seg>&lt;t0/&gt; Envuelve su cuerpo con alambre de púas, pone piedras en sus zapatos y casi no come.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;t0/&gt; History itself becomes a monster: defeaturing, self-deconstructive, always in danger of exposing the sutures that bind its disparate elements into a single, unnatural body.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250824T001524Z" creationid="Marina" creationdate="20250823T230139Z">
