@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -685,6 +685,14 @@ Ver "apariencia". Resuelto</note>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20251007T215724Z" creationid="Marina" creationdate="20250918T232844Z">
         <seg>Tras el asesinato de Bailey, el Desequilibrado se viste con la camisa con loros azul brillante, un detalle de significado revelador: por un lado, sugiere la invisibilidad de los monstruos —su imagen común e incluso familiar— mientras que por otro, por intención de O’Connor, evoca los “lazos de parentesco” (MM, 112. 3^N. d. T) que conectan a la humanidad en su totalidad, lo que contribuye a la epifanía de la abuela: “la cabeza de la abuela se aclaró por un instante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After this murder and the loss of his car, Hazel buys a sack of quicklime, returns to the boarding house, blinds himself, and starts a life of penance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251013T170639Z" creationid="Lenovo" creationdate="20251013T170639Z">
+        <seg>Luego de cometer este asesinato y perder su auto, Hazel compra una bolsa de cal viva, regresa a la pensión, se ciega y comienza una vida de penitencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1655,6 +1663,14 @@ Resuelto.</note>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250905T145302Z" creationid="Marina" creationdate="20250905T145302Z">
         <seg>Los hermafroditas, las amazonas y los caníbales lascivos llaman desde los confines del mundo, los planetas más distantes de la galaxia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>His aberrant behaviour reaches its peak when he runs over with his car a man who has been hired to impersonate Hazel and get the money that he has refused to take for his street-preaching.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251013T165947Z" creationid="Lenovo" creationdate="20251013T165947Z">
+        <seg>Su comportamiento aberrante alcanza el punto máximo cuando atropella a un hombre que ha sido contratado para hacerse pasar por él y cobrar el dinero que él se había negado a aceptar por predicar en la calle.</seg>
       </tuv>
     </tu>
     <tu>
