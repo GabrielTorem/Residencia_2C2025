@@ -3127,6 +3127,14 @@ Perfecto, lo cambio.</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>She felt as if she were blocked at the entrance of something.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251013T184533Z" creationid="Lenovo" creationdate="20251013T184533Z">
+        <seg>Sintió como si hubiese sido bloqueada la entrada de algo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>She had never observed his face more composed and she grabbed his hand and held it to her heart.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20251013T172907Z" creationid="Lenovo" creationdate="20251013T172907Z">
@@ -3183,6 +3191,14 @@ Fuente: https://drive.google.com/file/d/1Xd2VMYn1OK_UgLUSgJBewBmiRXZs9Hpa/view?u
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>She sat staring with her eyes shut, into his eyes, and felt as if she had finally got to the beginning of something she couldn’t begin, and she saw him moving farther and farther away, farther and farther into the darkness until he was the pin point of light.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251013T184841Z" creationid="Lenovo" creationdate="20251013T184841Z">
+        <seg>Se sentó y mantuvo la mirada fija, con los ojos cerrados, dentro de los ojos de Haze y sintió que por fin había llegado al principio de algo que le resultaba imposible comenzar y lo vio alejarse más y más, más y más lejos dentro de la oscuridad hasta que se convirtió en el puntito de luz.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Traducción extraída de "Un hombre bueno es difícil de encontrar", por Marcelo Covián y Vida Ozores. (Penguin Random House Grupo Editorial España). GM hace referencia a "A Good Man is Hard to Find (Faber Stories)", short story de Flannery O' Connor. Fuente; https://drive.google.com/file/d/1g18Vy237oIhcMBkN1KgjZ1nDqL2iekF9/view?usp=drive_link</note>
       <tuv lang="en-US">
         <seg>She saw the man’s face twisted close to her own as if he were going to cry and she murmured, ‘Why you’re one of my babies.</seg>
@@ -3196,8 +3212,8 @@ Fuente: https://drive.google.com/file/d/1Xd2VMYn1OK_UgLUSgJBewBmiRXZs9Hpa/view?u
       <tuv lang="en-US">
         <seg>She shut her eyes and saw the pin point of light but so far away that she could not hold it steady in her mind.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20251013T184428Z" creationid="Lenovo" creationdate="20251013T184428Z">
-        <seg>La señora Flood cerró los ojos y divisó un haz de luz, pero tan lejano que no pudo sostenerlo firmemente en su mente.</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251013T184545Z" creationid="Lenovo" creationdate="20251013T184428Z">
+        <seg>La señora Flood cerró los ojos y divisó un puntito de luz, pero tan lejano que no pudo sostenerlo firmemente en su mente.</seg>
       </tuv>
     </tu>
     <tu>
