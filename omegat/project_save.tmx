@@ -246,6 +246,7 @@ No te preocupes. El programa los entiende mucho mejor que nosotros.
       </tuv>
     </tu>
     <tu>
+      <note>posesivos</note>
       <tuv lang="en-US">
         <seg>&lt;t0/&gt; He wraps his body with barbed wire, puts pebbles in his shoes and hardly eats.</seg>
       </tuv>
@@ -1690,6 +1691,7 @@ Fierce tien una mala traducción en "poderoso"</note>
       </tuv>
     </tu>
     <tu>
+      <note>alojamiento: o.l.</note>
       <tuv lang="en-US">
         <seg>Hazel dies in the squad car, but the policemen do not notice it and take him back to his lodgings.</seg>
       </tuv>
@@ -3333,7 +3335,9 @@ Perfecto, lo cambio.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Utilizo Haze en este segmento, que es el sobrenombre del protagonista, para evitar la repetición de él y Hazel.</note>
+      <note>Utilizo Haze en este segmento, que es el sobrenombre del protagonista, para evitar la repetición de él y Hazel.
+
+Pero no habíamos hablado de Hazel antes.</note>
       <tuv lang="en-US">
         <seg>She had never observed his face more composed and she grabbed his hand and held it to her heart.</seg>
       </tuv>
@@ -3827,6 +3831,8 @@ Verificado en: https://www.cervantesvirtual.com/obra/speculum-naturale/</note>
       </tuv>
     </tu>
     <tu>
+      <note>la coma es obligatoria en inglés.
+posesivo</note>
       <tuv lang="en-US">
         <seg>The landlady talks to him and observes his face, “stern and tranquil” (WB, 159).</seg>
       </tuv>
