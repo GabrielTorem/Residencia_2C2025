@@ -3305,11 +3305,12 @@ Perfecto, lo cambio.</note>
       <tuv lang="en-US">
         <seg>She felt as if she were blocked at the entrance of something.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20251014T005027Z" creationid="Lenovo" creationdate="20251013T184533Z">
-        <seg>Sintió como si hubiese sido bloqueada a la entrada de algo.</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251014T143222Z" creationid="Lenovo" creationdate="20251013T184533Z">
+        <seg>Sintió como si le hubiesen bloqueado la entrada de algo.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Utilizo Haze en este segmento, que es el sobrenombre del protagonista, para evitar la repetición de él y Hazel.</note>
       <tuv lang="en-US">
         <seg>She had never observed his face more composed and she grabbed his hand and held it to her heart.</seg>
       </tuv>
@@ -3385,6 +3386,7 @@ Fuente: https://drive.google.com/file/d/1Xd2VMYn1OK_UgLUSgJBewBmiRXZs9Hpa/view?u
       </tuv>
     </tu>
     <tu>
+      <note>Recupero el nombre del personaje para evitar la repetición de "ella". </note>
       <tuv lang="en-US">
         <seg>She shut her eyes and saw the pin point of light but so far away that she could not hold it steady in her mind.</seg>
       </tuv>
