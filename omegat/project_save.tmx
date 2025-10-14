@@ -3658,12 +3658,12 @@ Resuelto.</note>
     </tu>
     <tu>
       <note>Aquí el original tiene un typo: "word" en vez de "World".
-Ser licenciado no es propio del español.</note>
+Ser licenciado no es propio del español. Resuelto en clase.</note>
       <tuv lang="en-US">
         <seg>The central character, Hazel Motes, recently discharged from service in the Second Word War, returns to the South to meet his family.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250925T000757Z" creationid="Marina" creationdate="20250925T000757Z">
-        <seg>El personaje principal, Hazel Motes, quien había sido licenciado recientemente del servicio en la Segunda Guerra Mundial, regresa al sur para encontrarse con su familia.</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20251014T215458Z" creationid="Marina" creationdate="20250925T000757Z">
+        <seg>El personaje principal, Hazel Motes, quien recientemente había recibido la baja en la Segunda Guerra Mundial, regresa al sur para encontrarse con su familia.</seg>
       </tuv>
     </tu>
     <tu>
