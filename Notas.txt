@@ -33,3 +33,15 @@ Fittipaldi: 5
 Gentile: 5
 Nazar: 4
 Piñeiro: 7
+
+6. 14-10
+Fittipaldi: 6 
+Gentile: 6
+Nazar: 5 
+Piñeiro: 8 
+
+7. 28-10
+Fittipaldi:  
+Gentile: 
+Nazar:  
+Piñeiro: 8 (corregida el 14-10) 
