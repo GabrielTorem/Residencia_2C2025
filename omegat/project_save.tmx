@@ -1725,8 +1725,8 @@ Resuelto.</note>
       <tuv lang="en-US">
         <seg>His aberrant behaviour reaches its peak when he runs over with his car a man who has been hired to impersonate Hazel and get the money that he has refused to take for his street-preaching.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20251013T165947Z" creationid="Lenovo" creationdate="20251013T165947Z">
-        <seg>Su comportamiento aberrante alcanza el punto máximo cuando atropella a un hombre que ha sido contratado para hacerse pasar por él y cobrar el dinero que él se había negado a aceptar por predicar en la calle.</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251014T003550Z" creationid="Lenovo" creationdate="20251013T165947Z">
+        <seg>Su comportamiento aberrante alcanza el punto máximo cuando atropella a un hombre que ha sido contratado para hacerse pasar por él y cobrar el dinero que se había negado a aceptar por predicar en la calle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3605,6 +3605,14 @@ essay puede ser monografía también</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The fact that these meanings are there makes the book significant” (MM, 72).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251014T003251Z" creationid="Lenovo" creationdate="20251014T003251Z">
+        <seg>El hecho de que esos significados estén presentes hace que el libro sea significativo.” (MM, 72)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The fears of contamination, impurity, and loss of identity that produce stories like the Genesis episode are strong, and they reappear incessantly.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250901T161034Z" creationid="Lenovo" creationdate="20250901T161034Z">
@@ -4697,6 +4705,14 @@ purging es de posterioridad. Resuelto.</note>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250909T224531Z" creationid="Marina" creationdate="20250905T145337Z">
         <seg>Lo que Bakhtin denomina “cultura oficial” puede transferir todo lo considerado indeseable a la figura del monstruo, escenificando así su propio drama de cumplimiento de deseos; el monstruo convertido en chivo expiatorio es quizás destruido ritualmente en el transcurso de alguna narrativa oficial, lo que purga a la comunidad mediante la eliminación de sus pecados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What Hazel arrogantly says about his car is equally significant, especially considering that it is a second-hand, dilapidated vehicle: “Nobody with a good car needs to be justified” (WB, 76).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251014T003457Z" creationid="Lenovo" creationdate="20251014T003457Z">
+        <seg>Lo que Hazel dice con arrogancia sobre su auto es igualmente significativo, sobre todo si se tiene en cuenta que es un vehículo destartalado de segunda mano: “Nadie que tenga un buen auto necesita justificarse.” (WB, 76)</seg>
       </tuv>
     </tu>
     <tu>
