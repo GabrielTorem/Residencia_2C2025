@@ -3355,6 +3355,7 @@ Pero no habíamos hablado de Hazel antes.</note>
       </tuv>
     </tu>
     <tu>
+      <note>¿usamos "cara" o "rostro"?</note>
       <tuv lang="en-US">
         <seg>She leaned closer and closer to his face, looking deep into them, trying to see how she had been cheated or what had cheated her, but she couldn’t see anything.</seg>
       </tuv>
@@ -3413,7 +3414,9 @@ Fuente: https://drive.google.com/file/d/1Xd2VMYn1OK_UgLUSgJBewBmiRXZs9Hpa/view?u
       </tuv>
     </tu>
     <tu>
-      <note>Recupero el nombre del personaje para evitar la repetición de "ella". </note>
+      <note>Recupero el nombre del personaje para evitar la repetición de "ella".  OK
+"Sostenerlo firmemente": ol.
+</note>
       <tuv lang="en-US">
         <seg>She shut her eyes and saw the pin point of light but so far away that she could not hold it steady in her mind.</seg>
       </tuv>
@@ -4070,6 +4073,7 @@ han condenado... Necesitamos agentividad.</note>
       </tuv>
     </tu>
     <tu>
+      <note>coma al separar proposiciones</note>
       <tuv lang="en-US">
         <seg>The outline of a skull was plain under his skin and the deep burned eye sockets seemed to lead into the dark tunnel where he had disappeared.</seg>
       </tuv>
