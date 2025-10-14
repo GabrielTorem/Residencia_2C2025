@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1008,11 +1008,12 @@ mezcla sexual es mejorable.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Freaky a glosario</note>
       <tuv lang="en-US">
         <seg>As in the previous tale, it is through the encounter with the violent and freakish Other that the central character experiences her epiphany, the illumination of grace, and learns that the antagonist is not as different from oneself as she had assumed.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20251014T023918Z" creationid="solca" creationdate="20251014T023918Z">
-        <seg>Como en el cuento anterior, es a través del encuentro con el Otro violento y *freaky¨* que el personaje central experimenta su epifanía, la iluminación de la gracia, y aprende que el antagonista no es tan diferente de ella misma como había supuesto. </seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251014T180703Z" creationid="solca" creationdate="20251014T023918Z">
+        <seg>Como en el cuento anterior, es a través del encuentro con el Otro violento y *freaky* que el personaje central experimenta su epifanía, la iluminación de la gracia, y aprende que el antagonista no es tan diferente de ella misma como había supuesto. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1215,6 +1216,7 @@ Resuelto.
       </tuv>
     </tu>
     <tu>
+      <note>devise no siempre ese diseñar</note>
       <tuv lang="en-US">
         <seg>But apart from this spiritual message, which O’Connor carefully devised, “Good Country People” conveys a kind of freakishness that the passing of time has made more relevant, both in literature and in real life.</seg>
       </tuv>
