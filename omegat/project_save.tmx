@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -994,8 +994,7 @@ mezcla sexual es mejorable.</note>
       </tuv>
     </tu>
     <tu>
-      <note>¿un cuento "se ocupa"?
-fleschy no es "carnal"</note>
+      <note>¿un cuento "se ocupa"?</note>
       <tuv lang="en-US">
         <seg>As has been pointed out, “Good Country People” is mainly concerned with “the vicissitudes of being female,” “the burdens of fleshly life” and “the physical difficulties of women’s lives.”&lt;t0/&gt; No doubt, the images of weight and heaviness associated with these women highlight their bulkiness and physical features, but also underscore their vulnerability.</seg>
       </tuv>
