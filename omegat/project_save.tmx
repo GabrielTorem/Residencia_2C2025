@@ -5,6 +5,14 @@
   <body>
 <!-- Default translations -->
     <tu>
+      <tuv lang="en-US">
+        <seg>(GCP, 275)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20251014T025405Z" creationid="solca" creationdate="20251014T025405Z">
+        <seg>(BGC,14).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Traducción extraída de "Un hombre bueno es difícil de encontrar", por Marcelo Covián y Vida Ozores. (Penguin Random House Grupo Editorial España). GM hace referencia a "A Good Man is Hard to Find (Faber Stories)", short story de Flannery O' Connor. Fuente; https://drive.google.com/file/d/1g18Vy237oIhcMBkN1KgjZ1nDqL2iekF9/view?usp=drive_link</note>
       <tuv lang="en-US">
         <seg>(GM, 132)</seg>
@@ -1810,6 +1818,14 @@ sus brazos:</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Hulga had heard Mrs. Hopewell give her the details of the hunting accident, how the leg had been literally blasted off, how she had never lost consciousness.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20251014T025335Z" creationid="solca" creationdate="20251014T025335Z">
+        <seg>Hulga había oído a la señora Hopewell darle los detalles del accidente de caza, de qué manera la pierna había sido literalmente arrancada, que ella en ningún instante había perdido el conocimiento. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Verlag significa editorial. Es un error del original, que podemos enmendar.
 
 
@@ -2715,6 +2731,14 @@ repensar estructura
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mrs. Freeman could listen to it any time as if it had happened an hour ago.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20251014T025351Z" creationid="solca" creationdate="20251014T025351Z">
+        <seg> La señora Freeman podía escuchar esto en cualquier momento como si hubiera sucedido hacía una hora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mrs. Freeman had a special fondness for the details of secret infections, hidden deformities, assaults upon children.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="solca" changedate="20251014T025301Z" creationid="solca" creationdate="20251014T025301Z">
@@ -2854,6 +2878,14 @@ posesivo ante "descendencia".</note>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250925T001214Z" creationid="Marina" creationdate="20250925T001124Z">
         <seg>Nada importa salvo que Jesús era un mentiroso”. (WB, 70-71) [La traducción es nuestra]. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Of diseases, she preferred the lingering or incurable.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20251014T025315Z" creationid="solca" creationdate="20251014T025315Z">
+        <seg>De las enfermedades, ella prefería las prolongadas o las incurables. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4827,6 +4859,14 @@ corregir error de tipeo</note>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250926T170739Z" creationid="Marina" creationdate="20250926T170739Z">
         <seg>Mientras que la monstruosidad de Hazel se orienta hacia la introspección, el ascetismo y la espiritualidad, la de Enoc se dirige hacia el materialismo, la degradación y la bestialidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While Mrs. Freeman is entranced by Hulga’s large and peculiar looks, her own appearance is also remarkable, as the narrator observes: Mrs. Freeman’s expression is compared to “the advance of a heavy track” and her physical presence to “several grain sacks thrown on top of each other” (GCP, 271).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20251014T025935Z" creationid="solca" creationdate="20251014T025935Z">
+        <seg>Mientras que la señora Freeman está cautivada por el aspecto grande y peculiar de Hulga, su propia apariencia también es notable, como observa el narrador: la expresión de la señora Freeman se compara con la "lenta marcha de un camión pesado" y su presencia física con "varias bolsas de granos apiladas" (BGC, 1). </seg>
       </tuv>
     </tu>
     <tu>
