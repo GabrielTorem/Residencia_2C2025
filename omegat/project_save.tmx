@@ -2565,13 +2565,15 @@ Para poder quitar los números, debés cambiar las opciones (permitir modificar 
       </tuv>
     </tu>
     <tu>
-      <note>epitomizar no figura en el DLE
+      <note>epitomizar no figura en el DLE. 
+Resuelto.
+
 Quité un asterisco que sobraba</note>
       <tuv lang="en-US">
         <seg>Last but not least, O’Connor’s first novel, Wise Blood (1952) – probably “O’Connor’s most interesting and challenging text”&lt;t0/&gt; – deserves analysis, since it brilliantly epitomizes the characteristics of Southern Gothic: violence, religious fundamentalism, the grotesque, and the figure of the freak.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20251014T213120Z" creationid="Marina" creationdate="20250925T000634Z">
-        <seg>Por último (pero no menos importante), la primera novela de O’Connor, *Wise Blood* [*Sangre Sabia*] (1952) –probablemente “el texto más interesante y desafiante de O’Connor”&lt;t0/&gt;– merece su análisis individual, ya que epitomiza con singular fuerza las características del estilo gótico sureño: la violencia, el fundamentalismo religioso, el grotesco y la figura del *freak*.</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20251014T214718Z" creationid="Marina" creationdate="20250925T000634Z">
+        <seg>Por último (pero no menos importante), la primera novela de O’Connor, *Wise Blood* [*Sangre Sabia*] (1952) –probablemente “el texto más interesante y desafiante de O’Connor”&lt;t0/&gt;– merece su análisis individual, ya que condensa con singular fuerza las características del estilo gótico sureño: la violencia, el fundamentalismo religioso, el grotesco y la figura del *freak*.</seg>
       </tuv>
     </tu>
     <tu>
