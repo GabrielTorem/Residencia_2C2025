@@ -924,6 +924,7 @@ Repetís "películas"</note>
       </tuv>
     </tu>
     <tu>
+      <note>hay un problema de concordancia.</note>
       <tuv lang="en-US">
         <seg>As Margaret Earley Whitt remarks, the first reviewers of Wise Blood were quick to notice that its characters “were beyond strange.” The New York Times Book Review said about them: “they seem not to belong to the human race at all.” Other journals highlighted the novel’s “oddness,” its “strange, predatory people,” and “its insane world, peopled by monsters and submen.”</seg>
       </tuv>
@@ -2550,11 +2551,13 @@ Para poder quitar los números, debés cambiar las opciones (permitir modificar 
       </tuv>
     </tu>
     <tu>
+      <note>epitomizar no figura en el DLE
+Quité un asterisco que sobraba</note>
       <tuv lang="en-US">
         <seg>Last but not least, O’Connor’s first novel, Wise Blood (1952) – probably “O’Connor’s most interesting and challenging text”&lt;t0/&gt; – deserves analysis, since it brilliantly epitomizes the characteristics of Southern Gothic: violence, religious fundamentalism, the grotesque, and the figure of the freak.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250925T000634Z" creationid="Marina" creationdate="20250925T000634Z">
-        <seg>Por último (pero no menos importante), la primera novela de O’Connor, *Wise Blood* [*Sangre Sabia*] (1952) –probablemente “el texto más interesante y desafiante de O’Connor”&lt;t0/&gt;– merece su análisis individual, ya que epitomiza con singular fuerza las características del estilo gótico sureño: la violencia, el fundamentalismo religioso, el grotesco y la figura del *freak*.*</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251014T183603Z" creationid="Marina" creationdate="20250925T000634Z">
+        <seg>Por último (pero no menos importante), la primera novela de O’Connor, *Wise Blood* [*Sangre Sabia*] (1952) –probablemente “el texto más interesante y desafiante de O’Connor”&lt;t0/&gt;– merece su análisis individual, ya que epitomiza con singular fuerza las características del estilo gótico sureño: la violencia, el fundamentalismo religioso, el grotesco y la figura del *freak.*</seg>
       </tuv>
     </tu>
     <tu>
