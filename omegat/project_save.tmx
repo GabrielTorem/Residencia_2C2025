@@ -1828,6 +1828,7 @@ sus brazos:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>la última cláusula queda "cleft"</note>
       <tuv lang="en-US">
         <seg>Hulga had heard Mrs. Hopewell give her the details of the hunting accident, how the leg had been literally blasted off, how she had never lost consciousness.</seg>
       </tuv>
@@ -2014,6 +2015,7 @@ disease of vampirism no es lo mismo que enfermedad vampiresca. (Resuelto)</note>
       </tuv>
     </tu>
     <tu>
+      <note>magnificar existe y está bien, pero es muy poco frecuente en comparación con el inglés. Charlémoslo.</note>
       <tuv lang="en-US">
         <seg>In a similar manner, the description of Mrs. Freeman’s daughters, Glynese and Carramae (Glycerin and Caramel in Hulga’s version of their names) magnifies the physicality and femininity that Hulga despises.</seg>
       </tuv>
@@ -2759,8 +2761,8 @@ repensar estructura
       <tuv lang="en-US">
         <seg>Mrs. Freeman could listen to it any time as if it had happened an hour ago.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20251014T025351Z" creationid="solca" creationdate="20251014T025351Z">
-        <seg> La señora Freeman podía escuchar esto en cualquier momento como si hubiera sucedido hacía una hora.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251014T182157Z" creationid="solca" creationdate="20251014T025351Z">
+        <seg>La señora Freeman podía escuchar esto en cualquier momento como si hubiera sucedido hacía una hora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4904,6 +4906,7 @@ corregir error de tipeo</note>
       </tuv>
     </tu>
     <tu>
+      <note>retomemos el término "apariencia"</note>
       <tuv lang="en-US">
         <seg>While Mrs. Freeman is entranced by Hulga’s large and peculiar looks, her own appearance is also remarkable, as the narrator observes: Mrs. Freeman’s expression is compared to “the advance of a heavy track” and her physical presence to “several grain sacks thrown on top of each other” (GCP, 271).</seg>
       </tuv>
