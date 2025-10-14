@@ -1726,6 +1726,8 @@ Resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <note>situación difícil no es la mejor opción.
+La voz pasiva es evitable acá.</note>
       <tuv lang="en-US">
         <seg>He is mistaken in thinking that it is a means of escape, of course, and does not really escape his predicament until the car is destroyed by the patrolman.</seg>
       </tuv>
@@ -1760,6 +1762,7 @@ Resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <note>la voz pasiva es innecesaria</note>
       <tuv lang="en-US">
         <seg>His aberrant behaviour reaches its peak when he runs over with his car a man who has been hired to impersonate Hazel and get the money that he has refused to take for his street-preaching.</seg>
       </tuv>
@@ -3628,6 +3631,7 @@ Resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <note>ver artículos en "muerte en vida"</note>
       <tuv lang="en-US">
         <seg>The car is a kind of death-in-life symbol, as his blindness is a life-in-death symbol.</seg>
       </tuv>
@@ -3733,6 +3737,7 @@ essay puede ser monografía también</note>
       </tuv>
     </tu>
     <tu>
+      <note>concord.</note>
       <tuv lang="en-US">
         <seg>The fact that these meanings are there makes the book significant” (MM, 72).</seg>
       </tuv>
