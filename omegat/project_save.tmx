@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -250,8 +250,8 @@ No te preocupes. El programa los entiende mucho mejor que nosotros.
       <tuv lang="en-US">
         <seg>&lt;t0/&gt; He wraps his body with barbed wire, puts pebbles in his shoes and hardly eats.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20251013T170741Z" creationid="Lenovo" creationdate="20251013T170741Z">
-        <seg>&lt;t0/&gt; Envuelve su cuerpo con alambre de púas, pone piedras en sus zapatos y casi no come.</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251014T220202Z" creationid="Lenovo" creationdate="20251013T170741Z">
+        <seg>&lt;t0/&gt; Se envuelve el cuerpo con alambre de púas, pone piedras en sus zapatos y casi no come.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1694,8 +1694,8 @@ Fierce tien una mala traducción en "poderoso"</note>
       <tuv lang="en-US">
         <seg>Hazel dies in the squad car, but the policemen do not notice it and take him back to his lodgings.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20251013T171241Z" creationid="Lenovo" creationdate="20251013T171241Z">
-        <seg>Hazel muere en el patrullero, pero el policía no se da cuenta y lo lleva a su alojamiento.</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251014T220235Z" creationid="Lenovo" creationdate="20251013T171241Z">
+        <seg>Hazel muere en el patrullero, pero el policía no se da cuenta y lo lleva a la casa de huéspedes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3366,8 +3366,8 @@ Pero no habíamos hablado de Hazel antes.</note>
       <tuv lang="en-US">
         <seg>She leaned closer and closer to his face, looking deep into them, trying to see how she had been cheated or what had cheated her, but she couldn’t see anything.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20251014T004757Z" creationid="Lenovo" creationdate="20251013T173301Z">
-        <seg>Se acercó más y más a su cara, observando la profundidad de las cuencas, tratando de descifrar cómo la habían estafado o qué la había estafado, pero no pudo ver nada. </seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251014T220351Z" creationid="Lenovo" creationdate="20251013T173301Z">
+        <seg>Se acercó más y más a su rostro, observando la profundidad de las cuencas, tratando de descifrar cómo la habían estafado o qué la había estafado, pero no pudo ver nada. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3847,8 +3847,8 @@ posesivo</note>
       <tuv lang="en-US">
         <seg>The landlady talks to him and observes his face, “stern and tranquil” (WB, 159).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20251013T171759Z" creationid="Lenovo" creationdate="20251013T171759Z">
-        <seg>La propietaria le habla y observa su rostro, “rígido y apacible” (WB, 159).</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251014T220254Z" creationid="Lenovo" creationdate="20251013T171759Z">
+        <seg>La hostelera le habla y observa su rostro “rígido y apacible” (WB, 159).</seg>
       </tuv>
     </tu>
     <tu>
