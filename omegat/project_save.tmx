@@ -334,11 +334,12 @@ No me gusta "fantasía de causalidad". Resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Corregí problemas de segmentación</note>
       <tuv lang="en-US">
         <seg>&lt;t0/&gt; Their pathways become increasingly divergent, but both characters reflect the nihilism, insanity, fragmentation and alienation characteristic of contemporary urban life: in fact, the novel’s barren landscape resembles a Southern version of T.S.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250926T170809Z" creationid="Marina" creationdate="20250926T170809Z">
-        <seg>&lt;t0/&gt; Sus caminos se vuelven cada vez más divergentes, pero ambos personajes reflejan el nihilismo, la locura, la fragmentación y la alienación características de la vida urbana contemporánea; de hecho, el paisaje estéril de la novela recuerda a una versión sureña de *La Tierra Baldía* de T.S. Eliot.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251021T171800Z" creationid="Marina" creationdate="20250926T170809Z">
+        <seg>&lt;t0/&gt; Sus caminos se vuelven cada vez más divergentes, pero ambos personajes reflejan el nihilismo, la locura, la fragmentación y la alienación características de la vida urbana contemporánea; de hecho, el paisaje estéril de la novela recuerda a una versión sureña de</seg>
       </tuv>
     </tu>
     <tu>
@@ -3151,6 +3152,7 @@ Fuente: https://drive.google.com/file/d/1Xd2VMYn1OK_UgLUSgJBewBmiRXZs9Hpa/view?u
       </tuv>
     </tu>
     <tu>
+      <note>Author's note no es el  nombre de un libro.</note>
       <tuv lang="en-US">
         <seg>O’Connor, “Author’s Note,” xiii.</seg>
       </tuv>
@@ -3363,6 +3365,7 @@ Está bien, pero me gustaría que discutamos esta oración.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Acordemos la traducción de "See"</note>
       <tuv lang="en-US">
         <seg>See Richard Slotkin, Gunfighter Nation: The Myth of the Frontier in Twentieth-Century America (Norman: University of Oklahoma Press, 1998).</seg>
       </tuv>
@@ -5052,6 +5055,7 @@ corregir error de tipeo</note>
       </tuv>
     </tu>
     <tu>
+      <note>tenemos freakishness en el glosario.</note>
       <tuv lang="en-US">
         <seg>While Hazel’s freakishness moves towards introspection, asceticism and spirituality, Enoch’s turns towards materialism, degradation and bestiality.</seg>
       </tuv>
