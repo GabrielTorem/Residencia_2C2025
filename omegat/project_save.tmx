@@ -759,6 +759,14 @@ Claro, porque no está en el original. Todo tiene que estar igualito al original
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Already a thief, Enoch does not become a scientist, but chooses to turn into an ape, trying to imitate the popularity of Gonga and Lonnie.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20251021T025005Z" creationid="solca" creationdate="20251021T025005Z">
+        <seg>Ya hecho un ladrón, Enoch no se convierte en científico, sino que elige convertirse en simio, tratando de imitar la popularidad de Gonga y Lonnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Corregí el markdown, puse los dos puntos tras el corchete.
 Más arriba hay una referencia a "ugly"</note>
       <tuv lang="en-US">
@@ -1843,6 +1851,14 @@ sus brazos:</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>However, rather than attract people’s attention and affection, Enoch only causes them to flee in terrorat his sight.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20251021T025021Z" creationid="solca" creationdate="20251021T025021Z">
+        <seg>Sin embargo, lejos de atraer la atención y el cariño de la gente, Enoch solo consigue que huyan aterrorizados ante su aparición.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"demasiado... como para" es A. de frec. Resuelto</note>
       <tuv lang="en-US">
         <seg>However, the Misfit is too proud to ask for help.</seg>
@@ -2746,6 +2762,14 @@ No es como dijimos que citaríamos.</note>
       <tuv lang="es-ES" changeid="Marina" changedate="20250926T174907Z" creationid="Marina" creationdate="20250831T203510Z">
         <seg>Foucault, M. (1998). &lt;f0&gt;La historia de la sexualidad&lt;/f0&gt;. Vol. 1: &lt;f1&gt;Una introducción&lt;/f1&gt; (U. Guiñazú, Trad.). México: Siglo XXI, p. 30.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mimicking the looks of the mummified figure, he has dwarfed himself into an “it,” “hideous and black” (WB, 136).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20251021T025145Z" creationid="solca" creationdate="20251021T025145Z">
+        <seg>Imitando la apariencia de la figura momificada, se ha encogido hasta convertirse en un “eso”, “horrible y negro” (WB, 136).</seg>
       </tuv>
     </tu>
     <tu>
