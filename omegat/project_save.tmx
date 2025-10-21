@@ -316,12 +316,14 @@ No me gusta "fantasía de causalidad". Resuelto.</note>
       </tuv>
     </tu>
     <tu>
-      <note>En el texto final XXI debe ir en versalitas.</note>
+      <note>En el texto final XXI debe ir en versalitas.
+pensar "perseguido"
+ver hyphen mal usado</note>
       <tuv lang="en-US">
         <seg>&lt;t0/&gt; She located it in the reactionary, underdeveloped, Christ-haunted South – her homeland – but the violence and monstrosity embodied by O’Connor’s freaks have transcended their grotesque patterns and their spatio-temporal boundaries to form part of our daily life – to become the emblem of the human condition in the 21st century.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250926T175311Z" creationid="Marina" creationdate="20250926T171241Z">
-        <seg>&lt;t0/&gt; Ella lo localizó en el sur reaccionario, infradesarrollado y perseguido por Cristo –su tierra natal– pero la violencia y monstruosidad encarnada en los *freaks* de O’Connor han trascendido sus patrones grotescos y sus límites espacio-temporales para formar parte de nuestra vida diaria –para volverse el emblema de la condición humana en el s. XXI.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251021T172843Z" creationid="Marina" creationdate="20250926T171241Z">
+        <seg>&lt;t0/&gt; Ella lo localizó en el sur reaccionario, infradesarrollado y perseguido por Cristo –su tierra natal– pero la violencia y monstruosidad encarnada en los *freaks* de O’Connor han trascendido sus patrones grotescos y sus límites espacio-temporales para formar parte de nuestra vida diaria –para volverse el emblema de la condición humana en el s. ^^XXI^^.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1333,6 +1335,7 @@ esencia brutal modifica mal.</note>
       </tuv>
     </tu>
     <tu>
+      <note>hubristic a glosario</note>
       <tuv lang="en-US">
         <seg>Despite their arrogant, hubristic or even devilish nature, they convey the possibility of grace and the power of mystery.</seg>
       </tuv>
@@ -4462,6 +4465,8 @@ Resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <note>'refleja' se entiende en su sentido más habitual, que es el figurado.
+Usar "em-dash"</note>
       <tuv lang="en-US">
         <seg>Their seeming otherness – which mirrors that symbolized by the American South – unveils radical truths, provoking disruption and change.</seg>
       </tuv>
@@ -4625,6 +4630,9 @@ Resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <note>"conservativo" no existe
+ver cómo denominamos décadas.
+crooks</note>
       <tuv lang="en-US">
         <seg>They are freaks of culture, rather than freaks of nature, that is, they absorb meaning out of their historical and social context (the rural and conservative South of the nineteen fifties; the bleak urban landscapes populated by outcasts, hustlers, preachers and crooks) and invest that context with meaning.</seg>
       </tuv>
