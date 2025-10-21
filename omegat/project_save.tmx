@@ -2081,8 +2081,8 @@ disease of vampirism no es lo mismo que enfermedad vampiresca. (Resuelto)</note>
       <tuv lang="en-US">
         <seg>In contrast to this character, Wise Blood portrays Hazel’s foil, an eighteenyear-old boy called Enoch Emery who works in a zoo and becomes obsessed with a “dead shriveled-up part-nigger dwarf” (WB, 120), a mummified figure shown in the city’s museum.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20251021T023541Z" creationid="solca" creationdate="20251021T023541Z">
-        <seg>En contraste con este personaje, Sangre sabia presenta al contrapunto de Hazel, un chico de dieciocho años llamado Enoch Emery, que trabaja en un zoológico y se obsesiona con un «enano momificado, marchito y medio negro».</seg>
+      <tuv lang="es-ES" changeid="solca" changedate="20251021T024126Z" creationid="solca" creationdate="20251021T023541Z">
+        <seg>En contraste con este personaje, Sangre sabia presenta al contrapunto de Hazel, un chico de dieciocho años llamado Enoch Emery, que trabaja en un zoológico y se obsesiona con un "enano momificado, marchito y medio negro", una figura momificada exhibida en el museo de la ciudad</seg>
       </tuv>
     </tu>
     <tu>
@@ -3012,6 +3012,14 @@ escribe HG </note>
       </tuv>
       <tuv lang="es-ES" changeid="solca" changedate="20251006T022216Z" creationid="solca" creationdate="20251006T022216Z">
         <seg>En el camino se topan con el Desequilibrado, un peligroso criminal fugado de la Penitenciaría Federal, que los mata uno por uno. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One day, Enoch steals the mummy and offers it to Hazel as “the new jesus,” the idol that the Church Without Christ needs but which Hazel rejects and destroys.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20251021T024233Z" creationid="solca" creationdate="20251021T024233Z">
+        <seg>Un día, Enoch roba la momia y se la ofrece a Hazel como "el nuevo Jesús", el ídolo que la Iglesia Sin Cristo necesita, pero que Hazel rechaza y destruye.</seg>
       </tuv>
     </tu>
     <tu>
