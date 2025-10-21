@@ -2078,6 +2078,14 @@ disease of vampirism no es lo mismo que enfermedad vampiresca. (Resuelto)</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>In contrast to this character, Wise Blood portrays Hazel’s foil, an eighteenyear-old boy called Enoch Emery who works in a zoo and becomes obsessed with a “dead shriveled-up part-nigger dwarf” (WB, 120), a mummified figure shown in the city’s museum.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20251021T023541Z" creationid="solca" creationdate="20251021T023541Z">
+        <seg>En contraste con este personaje, Sangre sabia presenta al contrapunto de Hazel, un chico de dieciocho años llamado Enoch Emery, que trabaja en un zoológico y se obsesiona con un «enano momificado, marchito y medio negro».</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Hay una manera de vincular el corrector ortográfico. También podés activar Language Tool, desde las preferencias. Acá te quedó un error.</note>
       <tuv lang="en-US">
         <seg>In doing so, I will partially violate two of the sacred dicta of recent cultural studies: the compulsion to historical specificity and the insistence that all knowledge (and hence all cartographies of that knowledge) is local.</seg>
