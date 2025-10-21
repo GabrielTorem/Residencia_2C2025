@@ -3746,6 +3746,7 @@ Resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Es autora</note>
       <tuv lang="en-US">
         <seg>The author is also grateful for the support of the Government of Aragón and the European Social Fund (code H03_17R).</seg>
       </tuv>
@@ -4879,6 +4880,8 @@ promedio no es buena colocación</note>
       </tuv>
     </tu>
     <tu>
+      <note>cursiva para freak
+'multivalente' no existe</note>
       <tuv lang="en-US">
         <seg>To conclude: O’Connor’s freaks, apparently ludicrous and marginal, have a powerful, subversive, and prophetic potential: they are multivalent figures who become recipients of grace and/or instruments of revelation.</seg>
       </tuv>
