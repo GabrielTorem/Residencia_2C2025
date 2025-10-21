@@ -40,8 +40,8 @@ Gentile: 6
 Nazar: 5 
 Piñeiro: 8 
 
-7. 28-10
-Fittipaldi:  
-Gentile: 
-Nazar:  
+7. 21-10
+Fittipaldi: 7 
+Gentile: 5
+Nazar: 8 
 Piñeiro: 8 (corregida el 14-10) 
