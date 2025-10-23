@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5070,8 +5070,8 @@ corregir error de tipeo</note>
       <tuv lang="en-US">
         <seg>While Hazel’s freakishness moves towards introspection, asceticism and spirituality, Enoch’s turns towards materialism, degradation and bestiality.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250926T170739Z" creationid="Marina" creationdate="20250926T170739Z">
-        <seg>Mientras que la monstruosidad de Hazel se orienta hacia la introspección, el ascetismo y la espiritualidad, la de Enoc se dirige hacia el materialismo, la degradación y la bestialidad.</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20251023T193635Z" creationid="Marina" creationdate="20250926T170739Z">
+        <seg>Mientras que el frikismo de Hazel se orienta hacia la introspección, el ascetismo y la espiritualidad, la de Enoc se dirige hacia el materialismo, la degradación y la bestialidad.</seg>
       </tuv>
     </tu>
     <tu>
