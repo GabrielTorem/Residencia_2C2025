@@ -1335,11 +1335,12 @@ esencia brutal modifica mal.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Agregado el termino a glosario</note>
       <tuv lang="en-US">
         <seg>Despite their arrogant, hubristic or even devilish nature, they convey the possibility of grace and the power of mystery.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250926T171124Z" creationid="Marina" creationdate="20250926T171124Z">
-        <seg>Pese a su naturaleza arrogante, altiva o incluso diabólica, los *freaks* representan la posibilidad de la gracia y el poder del misterio.</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20251023T200333Z" creationid="Marina" creationdate="20250926T171124Z">
+        <seg>Pese a su naturaleza arrogante, desmesurada o incluso diabólica, los *freaks* representan la posibilidad de la gracia y el poder del misterio.</seg>
       </tuv>
     </tu>
     <tu>
