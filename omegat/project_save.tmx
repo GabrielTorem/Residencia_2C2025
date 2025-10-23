@@ -1335,7 +1335,6 @@ esencia brutal modifica mal.</note>
       </tuv>
     </tu>
     <tu>
-      <note>hubristic a glosario</note>
       <tuv lang="en-US">
         <seg>Despite their arrogant, hubristic or even devilish nature, they convey the possibility of grace and the power of mystery.</seg>
       </tuv>
@@ -4887,13 +4886,13 @@ promedio no es buena colocación</note>
       </tuv>
     </tu>
     <tu>
-      <note>cursiva para freak
+      <note>cursiva para freak. Resuelto.
 'multivalente' no existe</note>
       <tuv lang="en-US">
         <seg>To conclude: O’Connor’s freaks, apparently ludicrous and marginal, have a powerful, subversive, and prophetic potential: they are multivalent figures who become recipients of grace and/or instruments of revelation.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250926T171101Z" creationid="Marina" creationdate="20250926T171101Z">
-        <seg>Para concluir: los freaks de O’Connor, que aparentan ser ridículos y marginales, tienen un potencial poderoso, subversivo y profético: son figuras multivalentes que se convierten en receptores de gracia y/o instrumentos de revelación.</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20251023T193748Z" creationid="Marina" creationdate="20250926T171101Z">
+        <seg>Para concluir: los *freaks* de O’Connor, que aparentan ser ridículos y marginales, tienen un potencial poderoso, subversivo y profético: son figuras multivalentes que se convierten en receptores de gracia y/o instrumentos de revelación.</seg>
       </tuv>
     </tu>
     <tu>
