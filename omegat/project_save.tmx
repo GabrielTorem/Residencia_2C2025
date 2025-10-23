@@ -3749,12 +3749,11 @@ Resuelto.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Es autora</note>
       <tuv lang="en-US">
         <seg>The author is also grateful for the support of the Government of Aragón and the European Social Fund (code H03_17R).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Marina" changedate="20250926T171052Z" creationid="Marina" creationdate="20250926T171052Z">
-        <seg>El autor también agradece el apoyo del Gobierno de Aragón y del Fondo Social Europeo (código H03_17R).</seg>
+      <tuv lang="es-ES" changeid="Marina" changedate="20251023T193703Z" creationid="Marina" creationdate="20250926T171052Z">
+        <seg>La autora también agradece el apoyo del Gobierno de Aragón y del Fondo Social Europeo (código H03_17R).</seg>
       </tuv>
     </tu>
     <tu>
