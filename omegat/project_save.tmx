@@ -349,8 +349,8 @@ ver hyphen mal usado</note>
       <tuv lang="en-US">
         <seg>&lt;t0/&gt; This power to evade and to undermine has coursed through the monster’s blood from classical times, when despite all the attempts of Aristotle (and later Pliny, Augustine, and Isidore) to incorporate the monstrous races&lt;t1/&gt; into a coherent epistemological system, the monster always escaped to return to its habitations at the margins of the world (a purely conceptual locus rather than a geographic one).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T200213Z" creationid="Lenovo" creationdate="20250819T173645Z">
-        <seg>Por la sangre de los monstruos ha corrido el poder para evadir y socavar desde los tiempos clásicos, cuando, a pesar de los intentos de Aristóteles (y luego de Plinio, Agustín e Isidoro) por introducir dentro de un sistema epistemológico coherente a las diferentes razas de monstruos, ellos siempre escaparon para retornar a sus moradas en los márgenes del mundo (un locus no geográfico, sino meramente conceptual).</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251030T215225Z" creationid="Lenovo" creationdate="20250819T173645Z">
+        <seg>Por la sangre de los monstruos ha corrido el poder para evadir y socavar desde los tiempos clásicos, cuando, a pesar de los intentos de Aristóteles (y luego de Plinio, Agustín e Isidoro) por introducir dentro de un sistema epistemológico coherente a las diferentes razas de monstruos, ellos siempre escaparon para retornar a sus moradas en los márgenes del mundo (un *locus* no geográfico, sino meramente conceptual).</seg>
       </tuv>
     </tu>
     <tu>
@@ -393,8 +393,8 @@ anteposición de adj.</note>
       <tuv lang="en-US">
         <seg>&lt;t2/&gt; Classical “wonder books” radically undermine the Aristotelian taxonomic system, for by refusing an easy compartmentalization of their monstrous contents, they demand a radical rethinking of boundary and normality.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T200250Z" creationid="Lenovo" creationdate="20250819T190753Z">
-        <seg>&lt;t2/&gt; Los "libros de fantasía” clásicos socavan radicalmente el sistema taxonómico aristotélico dado que, al rechazar una fácil compartimentación de su monstruoso contenido, exigen repensar de manera radical los límites y la normalidad.</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251030T215337Z" creationid="Lenovo" creationdate="20250819T190753Z">
+        <seg>&lt;t2/&gt; Los "libros de fantasía” clásicos socavan radicalmente el sistema taxonómico aristotélico dado que, al rechazar una fácil compartimentación de su contenido monstruoso, exigen repensar de manera radical los límites y la normalidad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4386,8 +4386,8 @@ Arreglé por convención tipográfica la posición de inicioi y fin de cursiva.<
       <tuv lang="en-US">
         <seg>The too- precise laws of nature as set forth by science are gleefully violated in the freakish compilation of the monster’s body.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20251007T232145Z" creationid="Lenovo" creationdate="20250819T190859Z">
-        <seg>Las leyes de la naturaleza, demasiado precisas tal como expone la ciencia, se ven alegremente vulneradas por la extraña compilación del cuerpo de un monstruo. </seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251030T215433Z" creationid="Lenovo" creationdate="20250819T190859Z">
+        <seg>Las leyes de la naturaleza, demasiado precisas tal como expone la ciencia, se ven alegremente vulneradas por la compilación extraña del cuerpo de un monstruo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4752,8 +4752,8 @@ Resuelto.</note>
       <tuv lang="en-US">
         <seg>This refusal to participate in the classificatory “order of things” is true of monsters generally: they are disturbing hybrids whose externally incoherent bodies resist attempts to include them in any systematic structuration.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250819T195740Z" creationid="Lenovo" creationdate="20250819T172757Z">
-        <seg>El rechazo a participar del "orden de las cosas" clasificatorio puede aplicarse a todos los monstruos: son híbridos perturbadores cuyos cuerpos de apariencia incoherente resisten los intentos por incluirlos en cualquier tipo de estructrura sistémica.</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251030T215150Z" creationid="Lenovo" creationdate="20250819T172757Z">
+        <seg>El rechazo a participar del "orden de las cosas" clasificatorio puede aplicarse a todos los monstruos: son híbridos perturbadores cuyos cuerpos de apariencia incoherente resisten los intentos por incluirlos en cualquier tipo de estructrura sistemática.</seg>
       </tuv>
     </tu>
     <tu>
