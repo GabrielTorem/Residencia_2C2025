@@ -23,6 +23,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(MM, 98)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251031T215940Z" creationid="Lenovo" creationdate="20251031T215940Z">
+        <seg>(MM, 98)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Quebec: Les Editions de P Aurore, 1975), 77.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20251030T181629Z" creationid="Marina" creationdate="20250926T175059Z">
@@ -2731,8 +2739,8 @@ No es como dijimos que citaríamos.</note>
       <tuv lang="en-US">
         <seg>Marina Levina and Diem-My T. Bui, “Introduction: Toward a Comprehensive Monster Theory in the 21st Century,” in Monster Culture in the 21st Century: A Reader, eds. Marina Levina and Diem-My T. Bui (New York: Bloomsbury): 1–13, 5.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250923T030409Z" creationid="Lenovo" creationdate="20250915T172825Z">
-        <seg>Marina Levina and Diem-My T. Bui, “Introduction: Toward a Comprehensive Monster Theory in the 21st Century,” en Monster Culture in the 21st Century: A Reader, eds. Marina Levina y Diem-My T. Bui (Nueva York: Bloomsbury): 1–13, 5. [La traducción es nuestra]</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251031T220059Z" creationid="Lenovo" creationdate="20250915T172825Z">
+        <seg>Marina Levina and Diem-My T. Bui, *“Introduction: Toward a Comprehensive Monster Theory in the 21st Century,”* en *Monster Culture in the 21st Century: A Reader,* editores Marina Levina y Diem-My T. Bui (Nueva York: Bloomsbury): 1–13, 5. [N. de T.:La traducción es nuestra]</seg>
       </tuv>
     </tu>
     <tu>
@@ -3067,8 +3075,8 @@ escribe HG </note>
       <tuv lang="en-US">
         <seg>On the one hand, this ambiguity has to do with O’Connor’s preference for “showing” rather than “telling” as a narrative technique, that is, her determination to avoid authorial intrusion: “The writer’s moral sense must coincide with his dramatic sense,” she remarks (MM, 76).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Lenovo" changedate="20250923T025231Z" creationid="Lenovo" creationdate="20250915T171835Z">
-        <seg>Por un lado, la ambigüedad tiene que ver con que O’Connor prefiere una técnica narrativa que “muestra” en lugar de “decir” y, por lo tanto, se empeña en evitar la intrusión autoral, según observa, “el sentido moral del escritor debe coincidir con su sentido dramático”. (MM, 76).</seg>
+      <tuv lang="es-ES" changeid="Lenovo" changedate="20251031T215914Z" creationid="Lenovo" creationdate="20250915T171835Z">
+        <seg>Por un lado, la ambigüedad tiene que ver con que O’Connor prefiere una técnica narrativa que “muestra” en lugar de “decir” y, por lo tanto, se empeña en evitar la intrusión autoral, según observa, “el sentido moral del escritor debe coincidir con su sentido dramático” (MM, 76).</seg>
       </tuv>
     </tu>
     <tu>
