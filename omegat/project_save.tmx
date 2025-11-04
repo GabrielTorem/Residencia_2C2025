@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>### Jeffrey Jerome Cohen</seg>
       </tuv>
@@ -14,7 +13,6 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>### Monster Culture (Seven Theses)</seg>
       </tuv>
@@ -1399,7 +1397,6 @@ repensar lo de "se cruza con"</note>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>But a second portrait, possibly of earlier date, in the Royal Collection, seems to emblematize the whole controversy [over Richard ‘s supposed monstrosity], for in it, X-ray examination reveals an original straight shoulder line, which was subsequently painted over to present the raised right shoulder silhouette so often copied by later portraitists.” Ibid., 35.</seg>
       </tuv>
@@ -3256,7 +3253,6 @@ posesivo ante "descendencia".</note>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>Of the first I will say only that in cultural studies today history (disguised perhaps as “culture”) tends to be fetishized as a *telos*, as a final determinant of meaning; post de Man, post Foucault, post Hayden White, one must bear in mind that history is just another text in a procession of texts, and not a guarantor of any singular signification.</seg>
       </tuv>
@@ -3912,7 +3908,6 @@ freak show a glosario</note>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The Greek word &lt;f0&gt;barbaros,&lt;/f0&gt; from which we derive the modern English word barbaric, means “making the sound &lt;f1&gt;“bar bar”&lt;/f1&gt;—that is, not speaking Greek, and therefore speaking nonsense.</seg>
       </tuv>
@@ -5336,6 +5331,14 @@ purging es de posterioridad. Resuelto.</note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20251014T004119Z" creationid="Lenovo" creationdate="20251014T003457Z">
         <seg>Lo que Hazel dice con arrogancia sobre su auto es igualmente significativo, sobre todo si se tiene en cuenta que es un vehículo destartalado de segunda mano: “Nadie que tenga un buen auto necesita justificarse” (WB, 76).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What I will propose here by way of a first foray, as entrance into this book of monstrous content, is a sketch of a new &lt;f0&gt;modus legendi:&lt;/f0&gt; a method of reading cultures from the monsters they engender.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="solca" changedate="20251104T220306Z" creationid="solca" creationdate="20251104T220306Z">
+        <seg>Lo que propondré aquí, a modo de primera incursión, como puerta de entrada a este libro de contenido monstruoso, es un esbozo de un nuevo  &lt;f0&gt;modus legendi:&lt;/f0&gt; un método para leer las culturas a partir de los monstruos que engendran.</seg>
       </tuv>
     </tu>
     <tu>
