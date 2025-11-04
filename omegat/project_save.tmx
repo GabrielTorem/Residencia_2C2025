@@ -333,6 +333,14 @@ No me gusta "fantasía de causalidad". Resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0/&gt; Or we might analyze Murnau’s self-loathing appropriation of the same demon in &lt;f1&gt;Nosferatu,&lt;/f1&gt; where in the face of nascent fascism the undercurrent of desire surfaces in plague and bodily corruption.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T134829Z" creationid="gabrielt" creationdate="20251104T134809Z">
+        <seg>&lt;t0/&gt; Se podría analizar también la apropiación autodestructiva de Murmau del mismo demonio en &lt;f1&gt;Nosferatu,&lt;/f1&gt; en donde, ante el fascismo naciente, emerge el trasfondo del deseo en forma de plaga y corrupción del cuerpo. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>podés usar gerundio</note>
       <tuv lang="en-US">
         <seg>&lt;t0/&gt; Ovid relates how the primeval giants attempted to plunge the world into anarchy by wrenching Olympus from the gods, only to be shattered by divine thunderbolts.</seg>
@@ -419,6 +427,14 @@ ver hyphen mal usado</note>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20251031T012634Z" creationid="Marina" creationdate="20250926T170916Z">
         <seg>&lt;t1/&gt; Diez años después de su publicación, O’Connor describió &lt;f2&gt;WB&lt;/f2&gt; como “una novela cómica” que es “muy seria”.&lt;t3/&gt; Hoy en día, varias décadas después, la novela parece más oscura y realista, y las fuentes de su humor son más inquietantes y controvertidas que nunca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t1/&gt; “Monster theory” must therefore concern itself with strings of cultural moments, connected by a logic that always threatens to shift; invigorated by change and escape, by the impossibility of achieving what Susan Stewart calls the desired “fall or death, the stopping” of its gigantic subject,&lt;t2/&gt; monstrous interpretation is as much process as epiphany, a work that must content itself with fragments (footprints, bones, talismans, teeth, shadows, obscured glimpses—signifiers of monstrous passing that stand in for the monstrous body itself).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135012Z" creationid="gabrielt" creationdate="20251104T135012Z">
+        <seg>&lt;t1/&gt; Así, “La teoría del monstruo” debe verse relacionada con cadenas de momentos culturales, conectados por una lógica que siempre amenaza con transformarse; impulsada por el cambio y el escape y mediante la imposibilidad de alcanzar lo que Susan Stewart denomina la deseada “caída o muerte, la detención” de su enorme sujeto,&lt;t2/&gt; la interpretación monstruosa es tanto un proceso como una epifanía, es un trabajo que debe conformarse con fragmentos (huellas, huesos, talismanes, dientes, sombras, indicios oscuros—significantes del pasaje monstruoso que representan al propio cuerpo monstruoso).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2073,6 +2089,14 @@ El gerundio de "colocando" no tiene sujeto.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>In Francis Coppola’s recent blockbuster, Bram Stoker’s &lt;f0&gt;Dracula,&lt;/f0&gt; the homosexual subtext present at least since the appearance of Sheridan Le Fanu’s lesbian lamia (&lt;f1&gt;Carmilla,&lt;/f1&gt; 1872) has, like the red corpuscles that serve as the film’s leitmotif, risen to the surface, primarily as an AIDS awareness that transforms the disease of vampirism into a sadistic (and very medieval) form of redemption through the torments of the body in pain.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T134849Z" creationid="gabrielt" creationdate="20251104T134849Z">
+        <seg>En el reciente éxito de taquilla de Francis Coppola, &lt;f0&gt;Drácula, de Bram Stoker,&lt;/f0&gt; el subtexto homosexual presente, al menos desde la aparición de la lamia lesbiana de Sheridan Le Fanu (&lt;f1&gt;Carmilla,&lt;/f1&gt; 1872), ha resurgido, como los glóbulos rojos que sirven de *leitmotiv* de la trama, principalmente como una concientización sobre el SIDA que transforma la enfermedad del vampirismo en una forma sadista (y muy medieval) de redención mediante los tormentos del cuerpo en agonía. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>no incluir más de una opción por entrada de glosario.
 La referencia de "lamia" requiere usuario y contraseña.
 no  es lo mismo glóbulo  que corpúsculo (Resuelto)
@@ -2195,6 +2219,14 @@ disease of vampirism no es lo mismo que enfermedad vampiresca. (Resuelto)</note>
       </tuv>
       <tuv lang="es-ES" changeid="solca" changedate="20250818T230114Z" creationid="solca" creationdate="20250818T225523Z">
         <seg>Al hacerlo, transgediré dos de las máximas sagradas de los estudios culturales recientes: la compulsión por la especificidad histórica y la insistencia en que todo conocimiento (y, por ende, todas las cartografías de ese conocimiento) es local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In each of these vampire stories, the undead returns in slightly different clothing, each time to be read against contemporary social movements or a specific, determining event: &lt;f0&gt;la décadence&lt;/f0&gt; and its new possibilities, homophobia and its hateful imperatives, the acceptance of new subjectivities unfixed by binary gender, a fin de siécle social activism paternalistic in its embrace.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T134908Z" creationid="gabrielt" creationdate="20251104T134908Z">
+        <seg>&lt;/f5&gt; En cada una de estas historias de vampiros, los no muertos regresan con atuendos ligeramente distintos, y en cada instancia se leen a la luz de los movimientos sociales contemporáneos o de un hecho específico y determinante: &lt;f0&gt;la décadence&lt;/f0&gt; y sus nuevas posibilidades, la homofobia y sus imperativos de odio, la aceptación de las nuevas subjetividades no fijadas por el género binario, un activismo social de fin de siécle de estilo paternalista. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2964,6 +2996,14 @@ Resuelto.
       </tuv>
       <tuv lang="es-ES" changeid="solca" changedate="20250901T230356Z" creationid="solca" creationdate="20250901T230356Z">
         <seg>La Alemania nazi simplemente llevó estas antiguas tradiciones de odio a su conclusión, inventando una Solución Final que solo se diferenciaba de las persecuciones anteriores por su eficiencia tecnológica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No coincidence, then, that Coppola was putting together a documentary on AIDS at the same time he was working on &lt;f0&gt;Dracula.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T134857Z" creationid="gabrielt" creationdate="20251104T134857Z">
+        <seg>No es mera coincidencia que Coppola estuviera creando un documental sobre el SIDA al mismo tiempo en el que se encontraba trabajando en la película &lt;f0&gt;Drácula.</seg>
       </tuv>
     </tu>
     <tu>
