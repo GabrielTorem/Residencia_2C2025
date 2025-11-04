@@ -2,7 +2,6 @@
 wreak	causar	B:Gentile, C:https://dictionary.cambridge.org/es/diccionario/ingles-espanol/wreak
 stranded	atrapado	B:Gentile, C:https://dictionary.cambridge.org/es/diccionario/ingles-espanol/stranded
 bequeath	legar	B:Gentile, C:https://dictionary.cambridge.org/es/diccionario/ingles-espanol/bequeath
-beleague	asedio	B:Gentile, C:https://dictionary.cambridge.org/es/diccionario/ingles-espanol/beleaguered
 progeny	descendencia	B:Gentile, C:https://dictionary.cambridge.org/es/diccionario/ingles-espanol/progeny
 revenant	resucitado	B:Gentile, C:https://www.proz.com/kudoz/english-to-spanish/other/179911-revenant.html
 slumberer	sonámbulo	B:Gentile, C:https://dictionary.cambridge.org/es/diccionario/ingles-espanol/slumber
@@ -79,9 +78,6 @@ ff.	ss	https://usitep.es/apf/reli/citas_biblicas/citas-signos.html
 ff	ss	https://usitep.es/apf/reli/citas_biblicas/citas-signos.html
 ff.	ss	https://usitep.es/apf/reli/citas_biblicas/citas-signos.html
 ff.	ss	https://usitep.es/apf/reli/citas_biblicas/citas-signos.html
-sadist	sádico	https://dictionary.cambridge.org/es/diccionario/ingles-espanol/sadist- Maca
-kinship	parentesco	https://dictionary.cambridge.org/es/diccionario/ingles-espanol/kinship-Maca
-epiphany	epifanía	https://dictionary.cambridge.org/es/diccionario/ingles-espanol/epiphany-Maca
 freakishness	frikismo	https://www.fbbva.es/diccionario/frikismo/
 Southern Gothic	gótico sureño	https://bibliotecas.unileon.es/tULEctura/2019/07/15/pildora-literaria-el-gotico-sureno/
 Southern Belle	bella sureña	Def.: la "Southern belle", la
@@ -90,3 +86,4 @@ Southern belle	bella sureña	URL: https://d1wqtxts1xzle7.cloudfront.net/84912605
 Spanish Ministry of Economy, Industry and Competitiveness	Ministerio de Economía, Comercio y Empresa de España	https://es.wikipedia.org/wiki/Ministerio_de_Econom%C3%ADa_(Espa%C3%B1a)
 European Regional Development Fund	Fondo Europeo de Desarrollo Regional	https://www.europarl.europa.eu/factsheets/es/sheet/95/el-fondo-europeo-de-desarrollo-regional-feder-
 hubristic	desmesurado	B: Gentile, F: https://editorial.unca.edu.ar/Publicacione%20on%20line/Confluencias/PDF/Vol%203/5-fedeli-limina-tissera.pdf, 3/3
+beleague	asedio	B:Gentile, C:beleaguered
