@@ -1,9 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>### Jeffrey Jerome Cohen</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T134138Z" creationid="gabrielt" creationdate="20251104T134138Z">
+        <seg>Jeffrey Jerome Cohen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>### Monster Culture (Seven Theses)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T134014Z" creationid="gabrielt" creationdate="20251104T134014Z">
+        <seg>La cultura del monstruo (siete tesis) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#### Thesis I: The Monster's Body Is a Cultural Body</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T134203Z" creationid="gabrielt" creationdate="20251104T134203Z">
+        <seg>#### Tesis I: El cuerpo del mostruo es un cuerpo cultural</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="en-US">
         <seg>(GCP, 275)</seg>
@@ -3043,6 +3069,15 @@ posesivo ante "descendencia".</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>Of the first I will say only that in cultural studies today history (disguised perhaps as “culture”) tends to be fetishized as a *telos*, as a final determinant of meaning; post de Man, post Foucault, post Hayden White, one must bear in mind that history is just another text in a procession of texts, and not a guarantor of any singular signification.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T134155Z" creationid="gabrielt" creationdate="20251104T134155Z">
+        <seg>Sobre el primero, solamente diré que, en los estudios culturales actuales, la historia (disfrazada tal vez de "cultura") tiende a ser fetichizada como un &lt;f1&gt;*telos*&lt;/f1&gt;, como un determinante final del significado; después de de Man, Foucault y Hayden White, se debe tener en cuenta que la historia es solo un texto en una procesión de textos y no un garante de una significación singular. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>fetishized no es término. Está mal cargado; falta el resto de la información. </note>
       <tuv lang="en-US">
         <seg>Of the first I will say only that in cultural studies today history (disguised perhaps as “culture”) tends to be fetishized as a &lt;f1&gt;telos&lt;/f1&gt;, as a final determinant of meaning; post de Man, post Foucault, post Hayden White, one must bear in mind that history is just another text in a procession of texts, and not a guarantor of any singular signification.</seg>
@@ -4050,6 +4085,14 @@ Es que hay puntos suspensivos. Intentaré arreglarlo en el programa.
       </tuv>
       <tuv lang="es-ES" changeid="solca" changedate="20250818T234619Z" creationid="solca" creationdate="20250818T234619Z">
         <seg>El monstruo nace únicamente en este cruce metafórico, como encarnación de un momento cultural específico: de un tiempo, un sentimiento y un lugar. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The monster is born only at this metaphoric crossroads, as an embodiment of a certain cultural moment—of a time, a feeling, and a place.[^1] The monster’s body quite literally incorporates fear, desire, anxiety, and fantasy (ataractic or incendiary), giving them life and an uncanny independence.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T134404Z" creationid="gabrielt" creationdate="20251104T134404Z">
+        <seg>El monstruo nace únicamente en este cruce metafórico, como encarnación de un momento cultural específico: de un tiempo, un sentimiento y un lugar.[^1] El cuerpo del monstruo incorpora literalmente el miedo, el deseo, la ansiedad y la fantasía (ataráxico o incendiaria), dándoles vida y una independencia inquietante.</seg>
       </tuv>
     </tu>
     <tu>
