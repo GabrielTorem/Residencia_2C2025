@@ -297,6 +297,14 @@ No te preocupes. El programa los entiende mucho mejor que nosotros.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0/&gt; In the face of the monster, scientific inquiry and its ordered rationality crumble.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135108Z" creationid="gabrielt" creationdate="20251104T135108Z">
+        <seg>&lt;t0/&gt; Ante la cara de un monstruo, la investigación científica y su ordenada racionalidad se derrumban.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Los dos puntos son una intromisión</note>
       <tuv lang="en-US">
         <seg>&lt;t0/&gt; In this case, the character’s physical singularity suggests her moral deformity.</seg>
@@ -431,6 +439,14 @@ ver hyphen mal usado</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;t1/&gt; “Deviant” sexual identity is similarly susceptible to monsterization.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135229Z" creationid="gabrielt" creationdate="20251104T135229Z">
+        <seg>&lt;t1/&gt; La identidad sexual “desviada” es, del mismo modo, susceptible a una monstruización.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;t1/&gt; “Monster theory” must therefore concern itself with strings of cultural moments, connected by a logic that always threatens to shift; invigorated by change and escape, by the impossibility of achieving what Susan Stewart calls the desired “fall or death, the stopping” of its gigantic subject,&lt;t2/&gt; monstrous interpretation is as much process as epiphany, a work that must content itself with fragments (footprints, bones, talismans, teeth, shadows, obscured glimpses—signifiers of monstrous passing that stand in for the monstrous body itself).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135012Z" creationid="gabrielt" creationdate="20251104T135012Z">
@@ -485,6 +501,14 @@ La sintaxis da una diferencia importante de punto de vista. Así como está qued
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250922T015500Z" creationid="Lenovo" creationdate="20250901T155825Z">
         <seg>&lt;t3/&gt;Las narrativas sobre el incesto son comunes a todas las tradiciones y han sido documentadas ampliamente, sobre todo debido a que Lévi Strauss definió al tabú como la base fundacional de la sociedad patriarcal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t3/&gt; Its male reproductive organ is said to be disproportionately large, but the monster could use either sex at its own discretion.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135255Z" creationid="gabrielt" creationdate="20251104T135255Z">
+        <seg>&lt;t3/&gt;Se decía que su órgano reproductor masculino era desproporcionadamente grande, pero el monstruo podía usar indistintamente uno u otro sexo a su elección.</seg>
       </tuv>
     </tu>
     <tu>
@@ -631,6 +655,14 @@ hyerophant a glosario.</note>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250902T221413Z" creationid="Marina" creationdate="20250831T203940Z">
         <seg>Como una suerte de guardián del rebaño, este monstruo delimita el espacio social por el que los cuerpos culturales se pueden dirigir, y, en tiempos clásicos (por ejemplo), validaban un sistema rígido y jerárquico de liderazgo naturalizado y control, donde cada hombre ocupaba un lugar funcional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A mixed category, the monster resists any classification built on hierarchy or a merely binary opposition, demanding instead a “system” allowing polyphony, mixed response (difference in sameness, repulsion in attraction), and resistance to integration—allowing what Hogle has called with a wonderful pun “a deeper play of differences, a nonbinary polymorphism at the ‘base’ of human nature.”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135036Z" creationid="gabrielt" creationdate="20251104T135036Z">
+        <seg>Al ser una categoría diversa, el monstruo resiste cualquier clasificación fundada en jerarquías o en la mera oposición binaria y demanda, en cambio, un "sistema" que permita la polifonía, las respuestas contradictorias (diferencia en el parecido, repulsión en la atracción) y la resistencia a la integración, permitiendo lo que Hogle ha denominado con un juego de palabras genial, “un juego más profundo de diferencias, un polimorfismo no binario en la 'base' de la naturaleza humana.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -1299,6 +1331,15 @@ repensar lo de "se cruza con"</note>
       </tuv>
       <tuv lang="es-ES" changeid="solca" changedate="20251104T005626Z" creationid="solca" creationdate="20250818T234341Z">
         <seg>Enterrar al Zeitgeist en la encrucijada: despierta confuso, no va a ninguna parte, atraviesa todos los lugares; todos los caminos conducen de nuevo al monstruo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>But a second portrait, possibly of earlier date, in the Royal Collection, seems to emblematize the whole controversy [over Richard ‘s supposed monstrosity], for in it, X-ray examination reveals an original straight shoulder line, which was subsequently painted over to present the raised right shoulder silhouette so often copied by later portraitists.” Ibid., 35.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135159Z" creationid="gabrielt" creationdate="20251104T135159Z">
+        <seg>  Pero un segundo retrato, posiblemente de fecha anterior, presente en la Royal Collection, parece emblematizar toda la controversia [en torno a la supuesta monstruosidad de Ricardo], pues en él, un examen radiográfico revela una línea original de hombros recta, que fue posteriormente repintada para presentar la silueta del hombro derecho elevado, tan a menudo copiada por retratistas posteriores.” *Ibid.*, 35.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4011,6 +4052,15 @@ Mantememos el ";"</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The great medieval encyclopedist Vincent of Beauvais describes the visit of a hermaphroditic cynocephalus to the French court in his &lt;f2&gt;Speculum naturale&lt;/f2&gt; (31.126).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135241Z" creationid="gabrielt" creationdate="20251104T135241Z">
+        <seg>El gran enciclopedista medieval Vincent de Beauvais describe en su &lt;f2&gt;*Speculum naturale*&lt;/f2&gt; la visita de un cinocéfalo hermafrodita a la corte francesa (31.126).
+</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Me parece que hay un error en el original en "naturale", ¿Podrías verificarlo por favor? Naturae sería más lógico.
 
 Verificado en: https://www.cervantesvirtual.com/obra/speculum-naturale/</note>
@@ -4036,6 +4086,14 @@ Verificado en: https://www.cervantesvirtual.com/obra/speculum-naturale/</note>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250905T145239Z" creationid="Marina" creationdate="20250905T145239Z">
         <seg>Las moradas de los monstruos (África, Escandinavia, América, Venus, el cuadrante Delta —cualquier tierra lo bastante distante como para ser exotizada—) son más que regiones oscuras de peligro incierto: son también ámbitos de fantasía dichosa, horizontes de liberación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The horizon where the monsters dwell might well be imagined as the visible edge of the hermeneutic circle itself: the monstrous offers an escape from its hermetic path, an invitation to explore new spirals, new and interconnected methods of perceiving the world.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135048Z" creationid="gabrielt" creationdate="20251104T135048Z">
+        <seg>El horizonte que habitan los monstruos bien podría ser imaginado como el borde visible del mismísimo circulo hermenéutico: los monstruos ofrecen una escapatoria al camino hermético, una invitación a explorar nuevos espirales, métodos nuevos e interconectados de percibir el mundo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4161,6 +4219,14 @@ Es que hay puntos suspensivos. Intentaré arreglarlo en el programa.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The monster is in this way the living embodiment of the phenomenon Derrida has famously labeled the “supplement” *(ce dangereux supplément):&lt;t2/&gt; it breaks apart bifurcating, “either/or” syllogistic logic with a kind of reasoning closer to “and/or,” introducing what Barbara Johnson has called “a revolution in the very logic of meaning.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135130Z" creationid="gabrielt" creationdate="20251104T135130Z">
+        <seg>El monstruo es, de este modo, la prueba viviente del célebre fenómeno que Derrida ha acuñado como "suplemento" *(ce dangereux supplément)*:&lt;t2/&gt; se desvía de la lógica silogística de "uno o lo otro" con un tipo de razonamiento más cercano a "y/o", introduciendo lo que Barbara Johnson ha denominado "una revolución en la lógica misma del sentido."</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"bifurcating, “either/or” syllogistic logic with ..." está mal comprendido</note>
       <tuv lang="en-US">
         <seg>The monster is in this way the living embodiment of the phenomenon Derrida has famously labeled the “supplement” *(ce dangereux supplément):&lt;t6/&gt; it breaks apart bifurcating, “either/or” syllogistic logic with a kind of reasoning closer to “and/or,” introducing what Barbara Johnson has called “a revolution in the very logic of meaning.</seg>
@@ -4242,6 +4308,14 @@ Es que hay puntos suspensivos. Intentaré arreglarlo en el programa.
       </tuv>
       <tuv lang="es-ES" changeid="solca" changedate="20250818T234726Z" creationid="solca" creationdate="20250818T234726Z">
         <seg>El cuerpo monstruoso es pura cultura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The monstrous is a genus too large to be encapsulated in any conceptual system; the monster’s very existence is a rebuke to boundary and enclosure; like the giants of &lt;f1&gt;Mandeville’s Travels,&lt;/f1&gt; it threatens to devour “all raw &amp; quyk” any thinker who insists otherwise.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135119Z" creationid="gabrielt" creationdate="20251104T135119Z">
+        <seg>El género de lo monstruoso es demasiado extensivo como para ser encapsulado en cualquier sistema conceptual; la existencia misma del monstruo es un reproche a la demarcación y al cerramiento; al igual que los gigantes en &lt;f1&gt;Los viajes de Mandeville,&lt;/f1&gt; la existencia del monstruo amenaza con devorar “por completo, crudo y vivo” a cualquier pensador que insista en lo contrario. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4518,6 +4592,14 @@ Fuente: Le Goff, Jacques. *Por otra Edad Media*, trad. Mauro Armiño (Madrid: Ta
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250909T223419Z" creationid="Marina" creationdate="20250905T144701Z">
         <seg>donde la extrañeza segrega[ba] la impresión de liberación, de libertad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The woman who oversteps the boundaries of her gender role risks becoming a Scylla, Weird Sister, Lilith (“die erste Eva,” “la mére obscuré”),&lt;t0/&gt; Bertha Mason, or Gorgon.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135221Z" creationid="gabrielt" creationdate="20251104T135221Z">
+        <seg>La mujer que traspasa los límites de su rol de género corre el riesgo de convertirse en una Escila, una de las Hermanas Fatídicas, Lilith ("die erste Eva" [“la primera Eva”], "la mère obscuré" [“la madre oscura”]),&lt;t0/&gt; Bertha Mason o una gorgona.</seg>
       </tuv>
     </tu>
     <tu>
