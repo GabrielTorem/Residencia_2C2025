@@ -2339,8 +2339,8 @@ disease of vampirism no es lo mismo que enfermedad vampiresca. (Resuelto)</note>
       <tuv lang="en-US">
         <seg>In each of these vampire stories, the undead returns in slightly different clothing, each time to be read against contemporary social movements or a specific, determining event: &lt;f0&gt;la décadence&lt;/f0&gt; and its new possibilities, homophobia and its hateful imperatives, the acceptance of new subjectivities unfixed by binary gender, a fin de siécle social activism paternalistic in its embrace.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T134908Z" creationid="gabrielt" creationdate="20251104T134908Z">
-        <seg>&lt;/f5&gt; En cada una de estas historias de vampiros, los no muertos regresan con atuendos ligeramente distintos, y en cada instancia se leen a la luz de los movimientos sociales contemporáneos o de un hecho específico y determinante: &lt;f0&gt;la décadence&lt;/f0&gt; y sus nuevas posibilidades, la homofobia y sus imperativos de odio, la aceptación de las nuevas subjetividades no fijadas por el género binario, un activismo social de fin de siécle de estilo paternalista. </seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T141556Z" creationid="gabrielt" creationdate="20251104T134908Z">
+        <seg>En cada una de estas historias de vampiros, los no muertos regresan con atuendos ligeramente distintos, y en cada instancia se leen a la luz de los movimientos sociales contemporáneos o de un hecho específico y determinante: &lt;f0&gt;la décadence&lt;/f0&gt; y sus nuevas posibilidades, la homofobia y sus imperativos de odio, la aceptación de las nuevas subjetividades no fijadas por el género binario, un activismo social de fin de siécle de estilo paternalista. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2944,8 +2944,8 @@ No es como dijimos que citaríamos.</note>
       <tuv lang="en-US">
         <seg>Marjorie Garber, &lt;f0&gt;Shakespeare’s Ghost Writers: Literature as Uncanny Causality&lt;/f0&gt; (New York: Routledge, Chapman &amp; Hall, 1988), 30.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20250901T233723Z" creationid="solca" creationdate="20250901T233723Z">
-        <seg>Garber, M. (1988). Shakespeare’s ghost writers: Literature as uncanny causality [Los escritores fantasma de Shakespeare: La literatura como causalidad siniestra] (p. 30). Routledge, Chapman &amp; Hall.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T141647Z" creationid="solca" creationdate="20250901T233723Z">
+        <seg>Garber, M. (1988). &lt;f0&gt;Shakespeare’s ghost writers: Literature as uncanny causality [Los escritores fantasma de Shakespeare: La literatura como causalidad siniestra]&lt;/f0&gt; (p. 30). Routledge, Chapman &amp; Hall.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5118,8 +5118,8 @@ Buen intento de parafrasear, pero se fue el sentido.</note>
       <tuv lang="en-US">
         <seg>Thomas More, &lt;f0&gt;The Yale Edition of the Complete Works of Thomas More,&lt;/f0&gt; vol. 2, &lt;f1&gt;The History of King Richard III,&lt;/f1&gt; ed. Richard S. Sylvester (New Haven, Conn.: Yale University Press, 1963), 7.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20250913T211926Z">
-        <seg>More, T. (1963). The History of King Richard III (R. S. Sylvester, Ed.). En The Yale Edition of the Complete Works of Thomas More (Vol. 2, p. 7). Yale University Press.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T141615Z">
+        <seg>More, T. (1963). The History of King Richard III (R. S. Sylvester, Ed.). En The Yale Edition of the Complete Works of Thomas More (Vol. 2, p. 7). Yale University Press.&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5751,8 +5751,8 @@ Emular un habla arcaica</note>
       <tuv lang="en-US">
         <seg>… hee came into the worlde with feete forward, … also not vntothed.”&lt;t0/&gt; From birth, More declares, Richard was a monster, “his deformed body a readable text”&lt;t1/&gt; on which was inscribed his deviant morality (indistinguishable from an incorrect political orientation).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20250913T212744Z" creationid="solca" creationdate="20250901T233151Z">
-        <seg> … vino al mundo con los pies por delante, … y también sin dientes”. Según More, Ricardo fue un monstruo desde el nacimiento; "su cuerpo deformado era un texto legible" en el que se inscribía su moralidad desviada (indistinguible de una orientación política incorrecta). </seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T144421Z" creationid="solca" creationdate="20250901T233151Z">
+        <seg> … vino al mundo con los pies por delante, … y también sin dientes”. &lt;t0/&gt;Según More, Ricardo fue un monstruo desde el nacimiento; "su cuerpo deformado era un texto legible"&lt;t1/&gt; en el que se inscribía su moralidad desviada (indistinguible de una orientación política incorrecta). </seg>
       </tuv>
     </tu>
     <tu>
