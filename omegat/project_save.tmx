@@ -386,6 +386,14 @@ ver hyphen mal usado</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0/&gt; The prototype in Western culture for this kind of “geographic” monster is Homer’s Polyphemos.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135456Z" creationid="gabrielt" creationdate="20251104T135456Z">
+        <seg>&lt;t0/&gt; El prototipo en la cultura occidental para este tipo de monstruo "geográfico" es el Polifemo de Homero.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Corregí problemas de segmentación</note>
       <tuv lang="en-US">
         <seg>&lt;t0/&gt; Their pathways become increasingly divergent, but both characters reflect the nihilism, insanity, fragmentation and alienation characteristic of contemporary urban life: in fact, the novel’s barren landscape resembles a Southern version of T.S.</seg>
@@ -538,6 +546,23 @@ Resuelto.</note>
       <tuv lang="es-ES" changeid="Marina" changedate="20250902T230805Z" creationid="Marina" creationdate="20250823T232113Z">
         <seg>&lt;t4/&gt;Se decía que su órgano reproductor masculino era desproporcionadamente grande, pero el monstruo podía usar indistintamente uno u otro sexo a su elección. 
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t4/&gt; This strange creature, a composite of the supposedly discrete categories “male” and “female,” arrives before King Louis to validate heterosexuality over homosexuality, with its supposed inversions and transformations (“Equa fit equus,” one Latin writer declared; “The horse becomes a mare”).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135305Z" creationid="gabrielt" creationdate="20251104T135305Z">
+        <seg>&lt;t4/&gt; Esta criatura extraña, un compuesto de las categorías supuestamente separadas “masculino” y “femenino”, llega ante el rey Luis para validar la heterosexualidad por encima de la homosexualidad, con sus supuestas inversiones y transformaciones (*Equa fit equus*, declaraba un escritor en Latín: “El caballo se vuelve yegua”).
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t5/&gt; The strange dog-headed monster is a living excoriation of gender ambiguity and sexual abnormality, as Vincent’s cultural moment defines them: heteronormalization incarnate.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135313Z" creationid="gabrielt" creationdate="20251104T135313Z">
+        <seg>&lt;t5/&gt; Una viva reprobación de la ambigüedad de género y de la anormalidad sexual, como la definía el momento cultural de Vincent, es el extraño monstruo con cabeza de perro: la heterosexualidad como norma encarnada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2454,6 +2479,15 @@ freakishness no es "personajes freak"</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Indeed, sinners can rightly be compared to Ethiopians, who are black men presenting a terrifying appearance to those beholding them.”&lt;t2/&gt; Dark skin was associated with the fires of hell, and so signified in Christian mythology demonic provenance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135405Z" creationid="gabrielt" creationdate="20251104T135405Z">
+        <seg>De hecho, los pecadores bien pueden ser comparados con los etíopes, que son hombres negros que presentan una apariencia aterradora para quienes los contemplan.”&lt;t2/&gt; La piel oscura se asociaba con los fuegos del infierno, y significaba así una procedencia demoníaca en la mitología cristiana.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>pía está bien, solo que no es lo más habitual para pious</note>
       <tuv lang="en-US">
         <seg>Ironically, the violent Misfit becomes the disrupting agent of revelation, and the pious and hypocritical grandmother, the recipient of grace.</seg>
@@ -2928,6 +2962,14 @@ No es como dijimos que citaríamos.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Monsters are never created ex nihilo, but through a process of fragmentation and recombination in which elements are extracted “from various forms” (including—indeed, espe- cially—marginalized social groups) and then assembled as the monster, “which can then claim an independent identity”&lt;t0/&gt; The political-cultural monster, the embodiment of radical difference, paradoxically threatens to &lt;f1&gt;erase&lt;/f1&gt; difference in the world of its creators, to demonstrate</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135422Z" creationid="gabrielt" creationdate="20251104T135422Z">
+        <seg>Los monstruos no se crean *ex nihilo*, sino a través de procesos de fragmentación y recombinación; por medio de estos procesos se extraen elementos de “varias figuras” (incluyendo, de hecho, especialmente, a grupos sociales marginados) y luego dichos elementos se ensamblan como el monstruo, “que puede entonces reclamar una identidad independiente”.&lt;t0/&gt; El monstruo político cultural, la personificación de la diferencia radical, paradójicamente amenaza con &lt;f1&gt;borrar&lt;/f1&gt; las diferencias en el mundo de sus creadores, para demostrar </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>lo mismo para las cursivas.
 repensar estructura
 </note>
@@ -3308,6 +3350,15 @@ Fuente: https://drive.google.com/file/d/1Xd2VMYn1OK_UgLUSgJBewBmiRXZs9Hpa/view?u
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20250915T234506Z" creationid="Lenovo" creationdate="20250915T230438Z">
         <seg>Los *freaks* de O'Connor dan prueba de ser “figuras de nuestro desplazamiento esencial”, como ella indica, pero también emblemas y reflejos de la conciencia estadounidense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Paulinus of Nola, a wealthy landowner turned early church homilist, explained that the Ethiopians had been scorched by sin and vice rather than by the sun, and the anonymous commentator to Theodulus’s influential &lt;f0&gt;Ecloga&lt;/f0&gt; (tenth century) succinctly glossed the meaning of the word &lt;f1&gt;Ethyopium:&lt;/f1&gt; “Ethiopians, that is, sinners.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135356Z" creationid="gabrielt" creationdate="20251104T135356Z">
+        <seg>Paulino de Nola, un terrateniente adinerado que se volvió predicador de la iglesia, explicaba que los etíopes se habían quemado más por sus pecados y vicios que por el sol; el comentarista anónimo de la influyente &lt;f0&gt;Égloga&lt;/f0&gt; de Theodulus (siglo X) afirmaba en pocas palabras el significado del término &lt;f1&gt;Ethyopium:&lt;/f1&gt; “Etíopes, esto es, pecadores.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -3805,6 +3856,16 @@ freak show a glosario</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The Greek word &lt;f0&gt;barbaros,&lt;/f0&gt; from which we derive the modern English word barbaric, means “making the sound &lt;f1&gt;“bar bar”&lt;/f1&gt;—that is, not speaking Greek, and therefore speaking nonsense.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135449Z" creationid="gabrielt" creationdate="20251104T135449Z">
+        <seg>La palabra griega &lt;f0&gt;barbaros,&lt;/f0&gt; de la cual derivamos la palabra del inglés moderno *barbaric*, significa “hacer el sonido ‘&lt;f1&gt;bar bar&lt;/f1&gt;’”, lo que no es hablar griego, por tanto, es hablar de manera ininteligible.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The Greek word &lt;f0&gt;barbaros,&lt;/f0&gt; from which we derive the modern English word barbaric, means “making the sound “&lt;f1&gt;bar bar&lt;/f1&gt;”—that is, not speaking Greek, and therefore speaking nonsense.</seg>
       </tuv>
@@ -3838,6 +3899,14 @@ The Quest for the Holy Grail, trans. Pauline Matarasso (London: Penguin Books,
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250926T174647Z" creationid="Marina" creationdate="20250906T000134Z">
         <seg>Alvar, C. (Trans.) (2020). *La búsqueda del santo Grial*, I (Anónimo). Editor digital: Titivillus, p. 137.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Roman naturalist Pliny assumed nonwhite skin to be symptomatic of a complete difference in temperament and attributed Africa’s darkness to climate; the intense heat, he said, had burned the Africans’ skin and malformed their bodies (&lt;f0&gt;Natural History,&lt;/f0&gt; 2.80).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135334Z" creationid="gabrielt" creationdate="20251104T135334Z">
+        <seg>El naturalista romano Plinio suponía que la piel no blanca era síntoma de una diferencia completa en el temperamento y atribuía la oscuridad al clima de África: el calor intenso, decía, había quemado la piel de los africanos y malformado sus cuerpos (&lt;f0&gt;Natural History,&lt;/f0&gt; 2.80).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4444,6 +4513,14 @@ Resuelto.</note>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20251023T194111Z" creationid="Marina" creationdate="20250926T170343Z">
         <seg>El nombre del protagonista simboliza la visión: en hebreo, Hazel significa “el que ve a Dios”; en inglés, su forma abreviada, Haze, sugiere dificultad para ver con claridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The quintessential xenophobic rendition of the foreign (the barbaric—that which is unintelligible within a given cultural-linguistic system),&lt;t1/&gt; the Cyclopes are represented as savages who have not “a law to bless them” and who lack the techne to produce (Greek-style) civilization.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135505Z" creationid="gabrielt" creationdate="20251104T135505Z">
+        <seg>Como representación xenofóbica por excelencia del extranjero (el bárbaro—lo ininteligible dentro de un sistema cultural-lingüístico dado),&lt;t1/&gt; los cíclopes son representados como salvajes que no tienen “una ley que los bendiga” ni la técnica para producir la civilización (al estilo griego).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5343,6 +5420,16 @@ Tendió la mano y lo tocó en el hombro". (*Un hombre bueno es difícil de encon
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20251031T202604Z" creationid="Lenovo" creationdate="20250901T132448Z">
         <seg>[^]: Donna Haraway, siguiendo a Trinh Minh-ha, denomina "el otro in/no-apropiado" a los seres humanos revestidos en pieles monstruosas: "Ser ‘in/no-apropiado’ no significa ‘no estar en relación con’, es decir, estar en una reserva especial, con el estatus de lo auténtico, lo intacto, en la condición alocrónica y alotrópica de la inocencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[to be] drawn out, revealed, isolated, intensified, incorporated, by multifarious power devices.”&lt;t0/&gt; Susan Stewart has observed that “the monster’s sexuality takes on a separate life”;&lt;t1/&gt; Foucault helps us to see why.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135606Z" creationid="gabrielt" creationdate="20251104T135606Z">
+        <seg>[para ser] solidificados en ellos, mediante múltiples dispositivos de poder”[^N. de T. 2]&lt;t0/&gt; Susan Stewart ha señalado que “la sexualidad del monstruo tiene una vida independiente”[^N. de T. 3];&lt;t1/&gt; Foucault nos ayuda a entender por qué.
+[^N. de T.2:] Traducción tomada de Ulises Guiñazú, Historia de la sexualidad, Michel Foucault, p. 30. Disponible en Google Drive: https://drive.google.com/file/d/11E3Oc2Q635kc9I8nozyKpevuHYU80kdw/view?usp=sharing
+[^N. de T.3:] Traducción tomada de Adriana Astutti, El ansia, Susan Stewart, p. 166. Disponible en Google Drive: https://drive.google.com/file/d/1XR_aCTt7QGOcPjn-SR0D9UT1j3QOUSSe/view?usp=sharing</seg>
       </tuv>
     </tu>
     <tu>
