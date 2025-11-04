@@ -1336,6 +1336,14 @@ Resuelto.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Both Butler and I have in mind here Foucault’s notion of an emancipation of thought “from what it silently thinks” that will allow “it to think differently.” Michel Foucault, &lt;f1&gt;The Use of Pleasure,&lt;/f1&gt; trans. Robert Hurley (New York: Vintage, 1985), 9.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135917Z" creationid="gabrielt" creationdate="20251104T135917Z">
+        <seg>Tanto Butler como yo tenemos en mente aquí la noción de Foucault de emancipar al pensamiento "de lo que calladamente piensa", lo que le permitirá "pensar de otro modo". Michel Foucault, &lt;f1&gt;The Use of Pleasure,&lt;/f1&gt; traducción al inglés de Robert Hurley (New York: Vintage, 1985), 9. [La traducción es nuestra] </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>trans stands for "translator". De nuevo lo mismo.</note>
       <tuv lang="en-US">
         <seg>Both Butler and I have in mind here Foucault’s notion of an emancipation of thought “from what it silently thinks” that will allow “it to think differently.” Michel Foucault, &lt;f2&gt;The Use of Pleasure,&lt;/f2&gt; trans. Robert Hurley (New York: Vintage, 1985), 9.</seg>
