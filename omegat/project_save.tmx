@@ -311,8 +311,8 @@ No me gusta "fantasía de causalidad". Resuelto.</note>
       <tuv lang="en-US">
         <seg>&lt;t0/&gt; Ovid relates how the primeval giants attempted to plunge the world into anarchy by wrenching Olympus from the gods, only to be shattered by divine thunderbolts.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20250913T204250Z" creationid="solca" creationdate="20250908T213533Z">
-        <seg>Ovidio relata cómo los gigantes primigenios intentaron sumergir al mundo en la anarquía arrebatando el Olimpo a los dioses, solo para ser destrozados por los rayos divinos.</seg>
+      <tuv lang="es-ES" changeid="solca" changedate="20251104T012401Z" creationid="solca" creationdate="20250908T213533Z">
+        <seg>&lt;t0/&gt; Ovidio relata cómo los gigantes primigenios intentaron sumergir al mundo en la anarquía arrebatando el Olimpo a los dioses, solo para ser destrozados por los rayos divinos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -672,8 +672,8 @@ Está mal usada la cursiva. El título del ensayo va entrecomillado. El libro en
       <tuv lang="en-US">
         <seg>A violation of that code is responsible for the destruction of the biblical Sodom and Gomorrah, for the devolution from man to giant in &lt;f0&gt;Sir Gawain and the Carl of Carlisle,&lt;/f0&gt; and for the first punitive transformation in Ovid’s &lt;f1&gt;Metamorphoses.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="solca" changedate="20250913T203350Z" creationid="solca" creationdate="20250908T221415Z">
-        <seg>La violación de ese código es la causa de la destrucción de Sodoma y Gomorra que aparece en la biblia, de la regresión del hombre a gigante en &lt;f0&gt;Sir Gawain and the Carl of Carlisle&lt;/f0&gt;, y de la primera transformación punitiva en las Metamorfosis de Ovidio.</seg>
+      <tuv lang="es-ES" changeid="solca" changedate="20251104T012444Z" creationid="solca" creationdate="20250908T221415Z">
+        <seg>La violación de ese código es la causa de la destrucción de Sodoma y Gomorra que aparece en la biblia, de la regresión del hombre a gigante en &lt;f0&gt;Sir Gawain and the Carl of Carlisle&lt;/f0&gt;, y de la primera transformación punitiva en las Metamorfosis de Ovidio &lt;f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
