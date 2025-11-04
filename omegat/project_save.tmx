@@ -255,6 +255,14 @@ confeniently es false friend</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f2&gt;She&lt;/f2&gt; and &lt;f3&gt;Them!:&lt;/f3&gt; the monster enforces the cultural codes that regulate sexual desire.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135633Z" creationid="gabrielt" creationdate="20251104T135633Z">
+        <seg>&lt;f2&gt;She&lt;/f2&gt; y &lt;f3&gt;*Them!*&lt;/f3&gt;: el monstruo hace cumplir los códigos culturales que regulan el deseo sexual.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>She es la novela de H. Rider Haggard ("Ella", 1887) y Them! es la película de Gordon Douglas ("El mundo en peligro" en Argentina, 1954). Elegí dejarlos tal cual como en inglés para no perder el guiño cultural. Cohen construye una metáfora: "She" simboliza la figura de la mujer monstruosa (la "radioactive virago"). "Them!" hace referencia a la amenaza del “otro” colectivo (las hormigas gigantes mutantes). Por lo tanto, está usando esos títulos como símbolos culturales reconocibles.
 
 Podemos poner una nota sobre cómo se conocieron en Argentina. No perdamos de vista el encargo.</note>
@@ -314,12 +322,28 @@ No te preocupes. El programa los entiende mucho mejor que nosotros.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0/&gt; Incest narratives are common to every tradition and have been extensively documented, mainly owing to LéviStrauss’s elevation of the taboo to the founding base of patriarchal society.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135641Z" creationid="gabrielt" creationdate="20251104T135641Z">
+        <seg>&lt;t0/&gt;Las narrativas sobre el incesto son comunes a todas las tradiciones y han sido documentadas ampliamente, sobre todo debido a que Lévi Strauss definió al tabú como la base fundacional de la sociedad patriarcal.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Quité los espacios del final.</note>
       <tuv lang="en-US">
         <seg>&lt;t0/&gt; Like Grendel thundering from the mere or Dracula creeping from the grave, like Kristeva’s “boomer- ang, a vortex of summons” or the uncanny Freudian-Lacanian return of the repressed, the monster is always coming back, always at the verge of irruption.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20250909T063641Z" creationid="Lenovo" creationdate="20250908T194139Z">
         <seg>&lt;t0/&gt; Como Grendel cuando ruge desde el lago o Drácula cuando sale de su tumba, como el “búmerang, vórtice de atracción” de Kristeva o el retorno siniestro de lo reprimido en Freud y Lacan, el monstruo siempre está regresando, siempre al borde de la irrupción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0/&gt; Likewise, the story on the page before us may horrify (whether it appears in the New York Times news section or Stephen King’s latest novel matters little), so long as we are safe in the knowledge of its nearing end (the number of pages in our right hand is dwindling) and our liberation from it.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135750Z" creationid="gabrielt" creationdate="20251104T135750Z">
+        <seg>&lt;t0/&gt;La historia que tenemos frente a nosotros puede ser horrible (y poco importa si se lee en la sección de noticias del New York Times o en la última novela de Stephen King), pero nos resulta soportable porque estamos a salvo, con la certeza de que su final está cerca y nuestra liberación es inminente. Sabemos que la historia terminará porque el número de páginas que tenemos en la mano derecha es cada vez menor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,6 +398,14 @@ ver hyphen mal usado</note>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20251023T200621Z" creationid="Marina" creationdate="20250926T171241Z">
         <seg>&lt;t0/&gt; Ella lo localizó en el sur reaccionario, infradesarrollado y atormentado por Cristo —su tierra natal— pero la violencia y monstruosidad encarnada en los *freaks* de O’Connor han trascendido sus patrones grotescos y sus límites espacio-temporales para formar parte de nuestra vida diaria –para volverse el emblema de la condición humana en el s. ^^XXI^^.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0/&gt; The episode valorizes the celibacy so central to the authors’ belief system (and so difficult to enforce) while inculcating a lesson in morality for the work’s intended secular audience, the knights and courtly women fond of romances.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135830Z" creationid="gabrielt" creationdate="20251104T135830Z">
+        <seg>&lt;t0/&gt;El episodio exaltaba el celibato, un valor tan central en el sistema de creencias de los autores (y tan difícil de imponer), al mismo tiempo que inculcaba una lección moral para el público secular al que se destinaba la obra: los caballeros y las damas cortesanas aficionados a los romances. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1429,6 +1461,14 @@ c</note>
       </tuv>
       <tuv lang="es-ES" changeid="Marina" changedate="20250925T001624Z" creationid="Marina" creationdate="20250925T001624Z">
         <seg>Véase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Charlotte Bronté reversed the usual paradigm in &lt;f0&gt;Jane Eyre&lt;/f0&gt; (white Rochester and lunatic Jamaican Bertha Mason), but horror movies as seemingly innocent as &lt;f1&gt;King Kong&lt;/f1&gt; demonstrate miscegenation anxiety in its brutal essence.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135659Z" creationid="gabrielt" creationdate="20251104T135659Z">
+        <seg>Charlotte Bronté invirtió el paradigma habitual en &lt;f0&gt;Jane Eyre&lt;/f0&gt; (el blanco Rochester y la jamaiquina lunática Bertha Mason), pero las películas de terror en apariencia inocentes como &lt;f1&gt;King Kong&lt;/f1&gt;, muestran la aversión que genera el mestizaje en su forma más brutal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2770,6 +2810,14 @@ Para poder quitar los números, debés cambiar las opciones (permitir modificar 
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20251031T214714Z" creationid="Lenovo" creationdate="20250908T192053Z">
         <seg>Judith Butler, &lt;f0&gt;Bodies That Matter: On the Discursive Limits of &lt;/f0&gt; “&lt;f1&gt;Sex&lt;/f1&gt;” (New York: Routledge, 1993), 22. [N. de T.: La traducción es nuestra]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Judith Butler, &lt;f0&gt;Bodies That Matter: On the Discursive Limits of “Sex”&lt;/f0&gt; (New York: Monster Culture (Seven Theses) 25 Routledge, 1993), 22.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135858Z" creationid="gabrielt" creationdate="20251104T135858Z">
+        <seg>Judith Butler, &lt;f0&gt;Bodies That Matter: On the Discursive Limits of &lt;/f0&gt; “Sex” (New York: Routledge, 1993), 22. [N. de T.: La traducción es nuestra]</seg>
       </tuv>
     </tu>
     <tu>
@@ -4191,6 +4239,14 @@ posesivo</note>
       </tuv>
       <tuv lang="es-ES" changeid="Lenovo" changedate="20251014T220254Z" creationid="Lenovo" creationdate="20251013T171759Z">
         <seg>La hostelera le habla y observa su rostro “rígido y apacible” (WB, 159).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The monastically manufactured &lt;f1&gt;Queste del Saint Graal&lt;/f1&gt; serves as an ecclesiastically sanctioned antidote to the looser morality of the secular romances; when Sir Bors comes across a castle where “ladies of high descent and rank” tempt him to sexual indulgence, these ladies are, of course, demons in lascivious disguise.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20251104T135810Z" creationid="gabrielt" creationdate="20251104T135810Z">
+        <seg>&lt;f1&gt;La búsqueda del santo Grial&lt;/f1&gt;, que fue compuesta en ámbito monástico, funciona como un antídoto autorizado por la Iglesia frente a la moralidad más laxa de los romances seculares; cuando el señor Boorse se topa con un castillo donde “señoras de alta alcurnia y rango” lo tientan a la indulgencia sexual, estas damas son, por supuesto, demonios encubiertos bajo una apariencia lasciva.</seg>
       </tuv>
     </tu>
     <tu>
